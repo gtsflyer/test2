@@ -2,6 +2,14 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import Nav from './Nav';
+import RecipeList from './components/recipeList';
+import CreateRecipe from './components/createRecipe';
+import EditRecipe from './components/editRecipe';
+import MenuList from './components/menuList';
+import CreateMenu from './components/createMenu';
+import EditMenu from './components/editMenu';
+import Reports from './components/reports';
 import { BrowserRouter as Router, Routes, Route}
     from 'react-router-dom';
 import * as serviceWorker from './serviceWorker';
@@ -9,6 +17,7 @@ import * as serviceWorker from './serviceWorker';
 ReactDOM.render(
   <React.StrictMode>
     <Router>
+      <Nav />
       <Routes>
           <Route path='/' element={<App />} />
       </Routes>
