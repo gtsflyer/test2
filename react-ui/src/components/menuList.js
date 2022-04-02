@@ -8,7 +8,6 @@ function Menu() {
   // This method fetches the records from the database.
   useEffect(() => {
     async function getMenus() {
-    alert(process.env.REACT_APP_BASE_URL_LOCAL);
     const response = await fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/menus/`);
 
     if (!response.ok) {
