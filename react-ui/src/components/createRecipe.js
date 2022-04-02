@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from "react";
-import { useParams, useNavigate } from "react-router";
+import React, { useState } from "react";
+import { useNavigate } from "react-router";
 import { Form } from 'react-bootstrap';
 import Select, { createFilter } from "react-select";
 import allIngredients from "./ingredientList.json";

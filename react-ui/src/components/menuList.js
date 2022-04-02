@@ -1,11 +1,9 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import React, { useEffect, useState } from "react";
-import { useNavigate } from "react-router";
 import { Card, Button } from 'react-bootstrap';
 
 function Menu() {
   const [menus, setMenus] = useState([]);
-  const navigate = useNavigate();
 
   // This method fetches the records from the database.
   useEffect(() => {
@@ -42,8 +40,6 @@ function Menu() {
       },
       body: null
     });
-
-    const data = await response.json( );
 
     if (!response.ok) {
         const message = `An error occurred: ${response.statusText}`;

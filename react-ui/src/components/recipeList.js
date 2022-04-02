@@ -1,12 +1,9 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Card, Button } from 'react-bootstrap';
 import React, { useEffect, useState } from "react";
-import { useNavigate } from "react-router";
-import IngredientList from "./ingredientList.json";
 
 function Recipes() {
   const [recipes, setRecipes] = useState([]);
-  const navigate = useNavigate();
 
   useEffect(() => {
     async function getRecipes() {
@@ -41,8 +38,6 @@ async function deleteRecipe(e, id) {
     },
     body: null
   });
-
-  const data = await response.json( );
 
   if (!response.ok) {
       const message = `An error occurred: ${response.statusText}`;
