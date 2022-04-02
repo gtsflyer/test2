@@ -87,10 +87,12 @@ useEffect(() => {
                   </ul>
                   <a href={'/editMenu/'+menu._id} class="btn btn-primary">✏️ Edit {menu.menuDay} {menu.menuMeal}</a>
                 </Card.Text>
-                Menu Cost Per Plate: {
+                Menu Cost Per Plate: {JSON.stringify(
                   menu.recipeList.map(recipe => {
-                    recipes.filter(name => name.equals(recipe.recipeName)).ingredientList.reduce((ingTotal,ingredient) => ingTotal = ingTotal + (ingredient.quantity * ingredient.price), 0)
-                  })
+                    recipes.filter(name => name.equals(recipe.recipeName))
+        
+                    //.ingredientList.reduce((ingTotal,ingredient) => ingTotal = ingTotal + (ingredient.quantity * ingredient.price), 0)
+                  }))
                 }
 
                 Total Menu Cost: {
