@@ -5,6 +5,12 @@ import React, { useEffect, useState } from "react";
 function Recipes() {
   const [recipes, setRecipes] = useState([]);
 
+  const formatter = new Intl.NumberFormat('en-US', {
+    style: 'currency',
+    currency: 'USD',
+    minimumFractionDigits: 2
+  })
+
   useEffect(() => {
     async function getRecipes() {
     const response = await fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/recipes/`);
@@ -67,7 +73,7 @@ async function deleteRecipe(e, id) {
                     Serves: {recipe.servings}<br />
                     <a href={'/editRecipe/'+recipe._id} class="btn btn-primary">✏️ Edit {recipe.recipeName}</a><br />
                   </Card.Text>
-                  Total recipe cost: {recipe.ingredientList.reduce((ingTotal,ingredient) => ingTotal = ingTotal + (ingredient.quantity * ingredient.price),0)}
+                  Total recipe cost: {formatter.format(recipe.ingredientList.reduce((ingTotal,ingredient) => ingTotal = ingTotal + (ingredient.quantity * ingredient.price),0))}
                 </Card.Body>
               </Card>
             </div>
