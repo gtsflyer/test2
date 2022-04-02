@@ -18,7 +18,7 @@ export default function CreateRecipe() {
  const searchList = allIngredients.map(ingredientItem => {
   return{ 
    value: `${ingredientItem.name},${ingredientItem.quantityType}`, 
-   label: `${ingredientItem.name} in ${ingredientItem.quantityType}`
+   label: `${ingredientItem.name} in ${ingredientItem.quantityType}\t\$${form.ingredientList[index].price} per ${form.ingredientList[index].quantityType}`
   }
  }
 );
