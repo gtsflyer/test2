@@ -1,4 +1,3 @@
-import React from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Card } from 'react-bootstrap';
@@ -8,40 +7,40 @@ function App() {
     <div class="container">
       <div class="row">
         <div class="col">
-          <div class="card" style={{ width: '18rem' }}>
-            <div class="card-img" variant="top" style={{ width: '12rem' }} src="Recipe.png" />
-            <div class="card-body">
-              <div class="card-title">Edit Recipes</div>
-              <div class="card-text">
+          <Card style={{ width: '18rem' }}>
+            <Card.Img variant="top" style={{ width: '12rem' }} src="Recipe.png" />
+            <Card.Body>
+              <Card.Title>Edit Recipes</Card.Title>
+              <Card.Text>
                 Use available items to create a recipe.
                 <a href="/recipeList" class="stretched-link"></a>
-              </div>
-            </div>
-          </div>
+              </Card.Text>
+            </Card.Body>
+          </Card>
         </div>
         <div class="col">
-          <div class="card" style={{ width: '18rem' }}>
-            <div class="card-img" variant="top" style={{ width: '18rem' }} src="Menu.png" />
-            <div class="card-body">
-              <div class="card-title"e>Edit Menu</div>
-              <div class="card-text">
+          <Card style={{ width: '18rem' }}>
+            <Card.Img variant="top" style={{ width: '18rem' }} src="Menu.png" />
+            <Card.Body>
+              <Card.Title>Edit Menu</Card.Title>
+              <Card.Text>
                 Select specific recipe to be served for meals.
                 <a href="/menuList" class="stretched-link"></a>
-              </div>
-            </div>
-          </div>
+              </Card.Text>
+            </Card.Body>
+          </Card>
         </div>
         <div class="col">
-          <div class="card" style={{ width: '18rem' }}>
-            <div class="card-img" variant="top" style={{ width: '15rem' }} src="Reports.jpg" />
-            <div class="card-body">
-              <div class="card-title">Run Reports</div>
-              <div class="card-text">
+          <Card style={{ width: '18rem' }}>
+            <Card.Img variant="top" style={{ width: '15rem' }} src="Reports.jpg" />
+            <Card.Body>
+              <Card.Title>Run Reports</Card.Title>
+              <Card.Text>
                 Create and print useful reports.
                 <a href="/reports" class="stretched-link"></a>
-              </div>
-            </div>
-          </div>
+              </Card.Text>
+            </Card.Body>
+          </Card>
         </div>
       </div>
     </div>
