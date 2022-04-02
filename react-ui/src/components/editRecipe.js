@@ -10,7 +10,7 @@ import "./customOptions.css";
 export default function EditRecipe() {
  const [form, setForm] = useState({
   recipeName: "",
-  ingredientList: [{ ingredient: "", quantity : "", quantityType : ""}],
+  ingredientList: [{ ingredient: "", quantity: "", quantityType: "", price: ""}],
   servings: 0,
  });
  const params = useParams();
@@ -18,8 +18,8 @@ export default function EditRecipe() {
 
  const searchList = allIngredients.map(ingredientItem => {
     return{ 
-     value: `${ingredientItem.name},${ingredientItem.quantityType}`, 
-     label: `${ingredientItem.name} in ${ingredientItem.quantityType}\t\$${form.ingredientList[index].price} per ${form.ingredientList[index].quantityType}`
+     value: `${ingredientItem.name},${ingredientItem.quantityType},${ingredientItem.price}`, 
+     label: `${ingredientItem.name} in ${ingredientItem.quantityType}\t\$${ingredientItem.price} per ${ingredientItem.quantityType}`
     }
    }
   );
@@ -58,7 +58,7 @@ export default function EditRecipe() {
  }
  
  function addFormFields() {
-  let newIngredientList = form.ingredientList.push({ ingredient: "", quantity: "" , quantityType : ""});
+  let newIngredientList = form.ingredientList.push({ ingredient: "", quantity: "" , quantityType: "", price: ""});
   updateForm(newIngredientList);
 }
 
@@ -78,6 +78,7 @@ let updateSelectbox = (i, e) => {
  let newIngredientList = [...form.ingredientList];
  newIngredientList[i]["ingredient"] = e.value.split(',')[0];
  newIngredientList[i]["quantityType"] = e.value.split(',')[1];
+ newIngredientList[i]["price"] = e.value.split(',')[2];
  updateForm({ingredientList: newIngredientList});
 }
  
