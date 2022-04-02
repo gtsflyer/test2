@@ -1,69 +1,51 @@
-import React, { useCallback, useEffect, useState } from 'react';
-import logo from './logo.svg';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import { Card } from 'react-bootstrap';
 
 function App() {
-  const [message, setMessage] = useState(null);
-  const [isFetching, setIsFetching] = useState(false);
-  const [url, setUrl] = useState('/api');
-
-  const fetchData = useCallback(() => {
-    fetch(url)
-      .then(response => {
-        if (!response.ok) {
-          throw new Error(`status ${response.status}`);
-        }
-        return response.json();
-      })
-      .then(json => {
-        setMessage(json.message);
-        setIsFetching(false);
-      }).catch(e => {
-        setMessage(`API call failed: ${e}`);
-        setIsFetching(false);
-      })
-  }, [url]);
-
-  useEffect(() => {
-    setIsFetching(true);
-    fetchData();
-  }, [fetchData]);
-
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        { process.env.NODE_ENV === 'production' ?
-            <p>
-              This is a production build from create-react-app.
-            </p>
-          : <p>
-              Edit <code>src/App.js</code> and save to reload.
-            </p>
-        }
-        <p>{'« '}<strong>
-          {isFetching
-            ? 'Fetching message from API'
-            : message}
-        </strong>{' »'}</p>
-        <p><a
-          className="App-link"
-          href="https://github.com/mars/heroku-cra-node"
-        >
-          React + Node deployment on Heroku
-        </a></p>
-        <p><a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a></p>
-      </header>
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          <Card style={{ width: '18rem' }}>
+            <Card.Img variant="top" style={{ width: '12rem' }} src="Recipe.png" />
+            <Card.Body>
+              <Card.Title>Edit Recipes</Card.Title>
+              <Card.Text>
+                Use available items to create a recipe.
+                <a href="/recipeList" class="stretched-link"></a>
+              </Card.Text>
+            </Card.Body>
+          </Card>
+        </div>
+        <div class="col">
+          <Card style={{ width: '18rem' }}>
+            <Card.Img variant="top" style={{ width: '18rem' }} src="Menu.png" />
+            <Card.Body>
+              <Card.Title>Edit Menu</Card.Title>
+              <Card.Text>
+                Select specific recipe to be served for meals.
+                <a href="/menuList" class="stretched-link"></a>
+              </Card.Text>
+            </Card.Body>
+          </Card>
+        </div>
+        <div class="col">
+          <Card style={{ width: '18rem' }}>
+            <Card.Img variant="top" style={{ width: '15rem' }} src="Reports.jpg" />
+            <Card.Body>
+              <Card.Title>Run Reports</Card.Title>
+              <Card.Text>
+                Create and print useful reports.
+                <a href="/reports" class="stretched-link"></a>
+              </Card.Text>
+            </Card.Body>
+          </Card>
+        </div>
+      </div>
     </div>
+    
   );
-
 }
 
 export default App;

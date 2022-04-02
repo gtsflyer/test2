@@ -21,22 +21,26 @@ if (!isDev && cluster.isMaster) {
 
 } else {
   const app = express();
+  app.use(express.json());
+  
+  const dbo = require("./db/conn");
 
   // Priority serve any static files.
   app.use(express.static(path.resolve(__dirname, '../react-ui/build')));
 
-  // Answer API requests.
-  app.get('/api', function (req, res) {
-    res.set('Content-Type', 'application/json');
-    res.send('{"message":"Hello from the custom server!"}');
-  });
+  app.use(require("./routes/record"));
 
   // All remaining requests return the React app, so it can handle routing.
   app.get('*', function(request, response) {
     response.sendFile(path.resolve(__dirname, '../react-ui/build', 'index.html'));
   });
 
-  app.listen(PORT, function () {
-    console.error(`Node ${isDev ? 'dev server' : 'cluster worker '+process.pid}: listening on port ${PORT}`);
+  app.listen(PORT, () => {
+    // perform a database connection when server starts
+    dbo.connectToServer(function (err) {
+      if (err) console.error(err);
+  
+    });
+    console.log(`Server is running on port: ${JSON.stringify(PORT)}`);
   });
 }
