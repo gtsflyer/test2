@@ -10,7 +10,7 @@ import "./customOptions.css";
 export default function CreateRecipe() {
  const [form, setForm] = useState({
    recipeName: "",
-   ingredientList: [{ ingredient: "", quantity : "", quantityType : ""}],
+   ingredientList: [{ ingredient: "", quantity: "", quantityType: "", price: ""}],
    servings: 0,
  });
  const navigate = useNavigate();
@@ -31,7 +31,7 @@ function updateForm(value) {
 }
 
 function addFormFields() {
- let newIngredientList = form.ingredientList.push({ ingredient: "", quantity: "" , quantityType : ""});
+ let newIngredientList = form.ingredientList.push({ ingredient: "", quantity: "" , quantityType: "", price: ""});
  updateForm(newIngredientList);
 }
 
@@ -51,6 +51,7 @@ let updateSelectbox = (i, e) => {
   let newIngredientList = [...form.ingredientList];
   newIngredientList[i]["ingredient"] = e.value.split(',')[0];
   newIngredientList[i]["quantityType"] = e.value.split(',')[1];
+  newIngredientList[i]["price"] = e.value.split(',')[2];
   updateForm({ingredientList: newIngredientList});
 }
 
@@ -73,7 +74,7 @@ let updateSelectbox = (i, e) => {
     return;
   });
 
-  setForm({ recipeName: "", ingredientList: [{ ingredient: "", quantity : "", quantityType : ""}], servings: 0 });
+  setForm({ recipeName: "", ingredientList: [{ ingredient: "", quantity: "", quantityType: "", price: ""}], servings: 0 });
   navigate("/recipeList");
 }
 
@@ -84,7 +85,7 @@ let updateSelectbox = (i, e) => {
     <div class="row">
       <div class="col">
       <form onSubmit={onSubmit}>
-<h3>Create Recipe <input
+      <h3>Create Recipe <input
       type="submit"
       value="💾 Save"
       className="btn btn-primary"
@@ -131,7 +132,11 @@ let updateSelectbox = (i, e) => {
             captureMenuScroll={false}
             classNamePrefix="custom-select"
             components={{ Option: CustomOption, MenuList: CustomMenuList }}
-            placeholder={form.ingredientList[index].ingredient ? `${form.ingredientList[index].ingredient} in ${form.ingredientList[index].quantityType}` : "Select Ingredient..."}
+            placeholder={
+              form.ingredientList[index].ingredient ? 
+              `${form.ingredientList[index].ingredient} in ${form.ingredientList[index].quantityType}\t\$${form.ingredientList[index].price} per ${form.ingredientList[index].quantityType}`
+              :
+              "Select Ingredient..."}
           />
        <label htmlFor="quantity" className="form-check-label">Input Quantity</label>
        <input
@@ -164,84 +169,3 @@ let updateSelectbox = (i, e) => {
   </div>
 );
 }
-
-
-    /*
-    <div>
-    <h3>Update Recipe</h3>
-    <form onSubmit={onSubmit}>
-      <div className="form-group">
-        <label htmlFor="recipeName">Recipe Name</label>
-        <input
-          type="text"
-          className="form-control"
-          id="recipeName"
-          value={form.recipeName}
-          onChange={(e) => updateForm({ recipeName: e.target.value })}
-        />
-      </div>
-      <div className="form-group">
-        <label htmlFor="servings">Number of people served</label>
-        <input
-          type="number"
-          className="form-control"
-          id="servings"
-          value={form.servings}
-          onChange={(e) => updateForm({ servings: e.target.value })}
-        />
-      </div>
-      {form.ingredientList.map((ingredient, index) => (
-       <div className="form-group" key={index}>
-       <Form>
-         <label htmlFor="ingredient">Select Ingredient #{index+1}</label>
-         <div style={{ margin: "0 auto", width: 800 }}>
-         <Select
-                isSearchable="true"
-                onChange={(e) => updateSelectbox(index, e)}
-                options={searchList}
-                placeholder="Search for Ingredient..."
-              />
-           <label htmlFor="quantity" className="form-check-label">Input Quantity</label>
-           <input
-             type="number"
-             className="form-control"
-             name="quantity"
-             value={ingredient.quantity}
-             onChange={(e) => updateIngredient(index, e)}
-           />
-         </div>
-         <div className="form-check form-check-inline">
-           {
-             index ? 
-             <input
-               type="button"
-               value="Remove Ingredient"
-               className="btn btn-primary"
-               onClick={() => removeFormFields(index)}
-             />
-             : null
-           }
-         </div>
-         </Form>
-       </div>
-      ))}
-      <div className="form-group">
-        <input
-          type="button"
-          value="Additional Ingredient"
-          className="btn btn-primary"
-          onClick={() => addFormFields()}
-        />
-      </div>
-      <div className="form-group">
-        <input
-          type="submit"
-          value="Save Recipe"
-          className="btn btn-primary"
-        />
-      </div>
-    </form>
-  </div>
-   );
-  }
-  */
