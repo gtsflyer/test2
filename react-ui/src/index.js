@@ -20,6 +20,13 @@ ReactDOM.render(
       <Nav />
       <Routes>
           <Route path='/' element={<App />} />
+          <Route path='/recipeList' element={<RecipeList />} />
+          <Route path='/createRecipe' element={<CreateRecipe />} />
+          <Route path='/editRecipe/:id' element={<EditRecipe />} />
+          <Route path='/menuList' element={<MenuList />} />
+          <Route path='/createMenu' element={<CreateMenu />} />
+          <Route path='/editMenu/:id' element={<EditMenu />} />
+          <Route path='/reports' element={<Reports />} />
       </Routes>
     </Router>
   </React.StrictMode>,
