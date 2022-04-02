@@ -73,7 +73,7 @@ async function deleteRecipe(e, id) {
                     Serves: {recipe.servings}<br />
                     <a href={'/editRecipe/'+recipe._id} class="btn btn-primary">✏️ Edit {recipe.recipeName}</a><br />
                   </Card.Text>
-                  Total recipe cost: {formatter.format(recipe.ingredientList.reduce((ingTotal,ingredient) => ingTotal = ingTotal + (ingredient.quantity * ingredient.price),0))}
+                  Total recipe cost: {formatter.format(recipe.ingredientList.reduce((ingTotal,ingredient) => ingTotal = ingTotal + (ingredient.quantity * ingredient.price),0) / recipe.servings)}
                 </Card.Body>
               </Card>
             </div>
