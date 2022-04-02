@@ -5,6 +5,9 @@ import React, { useEffect, useState } from "react";
 function Recipes() {
   const [recipes, setRecipes] = useState([]);
 
+  alert(JSON.stringify(recipes));
+  recipes.map(recipe => {alert(JSON.stringify(recipe.ingredientList))});
+  
   const total=(recipes.reduce((total,recipe) =>  total = total + recipe.ingredientList.reduce((ingTotal,ingredient) => ingTotal = ingTotal + (ingredient.quantity * ingredient.price),0), 0));
 
   useEffect(() => {
