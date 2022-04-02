@@ -89,7 +89,7 @@ useEffect(() => {
                 </Card.Text>
                 Menu Cost Per Plate: {JSON.stringify(
                   menu.recipeList.map(recipe => {
-                    recipes.filter(name => name.includes(recipe.recipeName))
+                    recipes.filter(recipeName => recipeName === recipe.recipeName)
         
                     //.ingredientList.reduce((ingTotal,ingredient) => ingTotal = ingTotal + (ingredient.quantity * ingredient.price), 0)
                   }))
