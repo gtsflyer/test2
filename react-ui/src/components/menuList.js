@@ -41,10 +41,6 @@ useEffect(() => {
   }
 
   const recipes = await response.json();
-  if (recipes.length <= 0) {
-      alert("No Recipes Found. You can't create a menu with out first creating some recipes.");
-      navigate("/recipeList");
-  }
   setRecipes(recipes);
   }
 
