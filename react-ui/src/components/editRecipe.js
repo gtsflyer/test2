@@ -19,7 +19,7 @@ export default function EditRecipe() {
  const searchList = allIngredients.map(ingredientItem => {
     return{ 
      value: `${ingredientItem.name},${ingredientItem.quantityType},${ingredientItem.price}`, 
-     label: `${ingredientItem.name} in ${ingredientItem.quantityType}\t\$${ingredientItem.price} per ${ingredientItem.quantityType}`
+     label: `${ingredientItem.name} in ${ingredientItem.quantityType} (\$${ingredientItem.price} per ${ingredientItem.quantityType})`
     }
    }
   );
@@ -155,7 +155,7 @@ let updateSelectbox = (i, e) => {
               captureMenuScroll={false}
               classNamePrefix="custom-select"
               components={{ Option: CustomOption, MenuList: CustomMenuList }}
-              placeholder={form.ingredientList[index].ingredient ? `${form.ingredientList[index].ingredient} in ${form.ingredientList[index].quantityType}\t\$${form.ingredientList[index].price} per ${form.ingredientList[index].quantityType}` : "Select Ingredient..."}
+              placeholder={form.ingredientList[index].ingredient ? `${form.ingredientList[index].ingredient} in ${form.ingredientList[index].quantityType} (\$${form.ingredientList[index].price} per ${form.ingredientList[index].quantityType})` : "Select Ingredient..."}
             />
          <label htmlFor="quantity" className="form-check-label">Input Quantity</label>
          <input

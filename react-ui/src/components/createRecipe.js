@@ -18,7 +18,7 @@ export default function CreateRecipe() {
  const searchList = allIngredients.map(ingredientItem => {
   return{ 
    value: `${ingredientItem.name},${ingredientItem.quantityType},${ingredientItem.price}`, 
-   label: `${ingredientItem.name} in ${ingredientItem.quantityType}\t\$${ingredientItem.price} per ${ingredientItem.quantityType}`
+   label: `${ingredientItem.name} in ${ingredientItem.quantityType} (\$${ingredientItem.price} per ${ingredientItem.quantityType})`
   }
  }
 );
@@ -134,7 +134,7 @@ let updateSelectbox = (i, e) => {
             components={{ Option: CustomOption, MenuList: CustomMenuList }}
             placeholder={
               form.ingredientList[index].ingredient ? 
-              `${form.ingredientList[index].ingredient} in ${form.ingredientList[index].quantityType}\t\$${form.ingredientList[index].price} per ${form.ingredientList[index].quantityType}`
+              `${form.ingredientList[index].ingredient} in ${form.ingredientList[index].quantityType} (\$${form.ingredientList[index].price} per ${form.ingredientList[index].quantityType})`
               :
               "Select Ingredient..."}
           />
