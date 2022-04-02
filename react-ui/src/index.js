@@ -19,7 +19,7 @@ ReactDOM.render(
     <Router>
       <Nav />
       <Routes>
-          <Route path='/' element={<App />} />
+          <Route path='/' element={<MenuList />} />
           <Route path='/recipeList' element={<RecipeList />} />
           <Route path='/createRecipe' element={<CreateRecipe />} />
           <Route path='/editRecipe/:id' element={<EditRecipe />} />
