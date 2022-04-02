@@ -4,6 +4,7 @@ import { Card, Button } from 'react-bootstrap';
 
 function Menu() {
   const [menus, setMenus] = useState([]);
+  const [recipes, setRecipes] = useState([]);
 
   // This method fetches the records from the database.
   useEffect(() => {
@@ -27,6 +28,30 @@ function Menu() {
 
     return;
 }, [menus.length]);
+
+// This method fetches the records from the database.
+useEffect(() => {
+  async function getRecipes() {
+  const response = await fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/recipes/`);
+
+  if (!response.ok) {
+      const message = `An error occurred: ${response.statusText}`;
+      window.alert(message);
+      return;
+  }
+
+  const recipes = await response.json();
+  if (recipes.length <= 0) {
+      alert("No Recipes Found. You can't create a menu with out first creating some recipes.");
+      navigate("/recipeList");
+  }
+  setRecipes(recipes);
+  }
+
+  getRecipes();
+
+  return;
+}, [recipes.length]);
 
 // This function will handle the submission.
   async function deleteMenu(e, id) {
@@ -66,6 +91,14 @@ function Menu() {
                   </ul>
                   <a href={'/editMenu/'+menu._id} class="btn btn-primary">✏️ Edit {menu.menuDay} {menu.menuMeal}</a>
                 </Card.Text>
+                Menu Cost Per Plate: {
+                  menu.recipeList.map(recipe => {
+                    recipes.filter(name => name.equals(recipe.recipeName)).ingredientList.reduce((ingTotal,ingredient) => ingTotal = ingTotal + (ingredient.quantity * ingredient.price), 0)
+                  })
+                }
+
+                Total Menu Cost: {
+                }
               </Card.Body>
             </Card>
           </div>
