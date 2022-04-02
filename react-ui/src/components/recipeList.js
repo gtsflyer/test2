@@ -5,11 +5,6 @@ import React, { useEffect, useState } from "react";
 function Recipes() {
   const [recipes, setRecipes] = useState([]);
 
-  alert(JSON.stringify(recipes));
-  recipes.map(recipe => {alert(JSON.stringify(recipe.ingredientList))});
-  
-  const total=(recipes.reduce((total,recipe) =>  total = total + recipe.ingredientList.reduce((ingTotal,ingredient) => ingTotal = ingTotal + (ingredient.quantity * ingredient.price),0), 0));
-
   useEffect(() => {
     async function getRecipes() {
     const response = await fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/recipes/`);
@@ -72,7 +67,7 @@ async function deleteRecipe(e, id) {
                     Serves: {recipe.servings}<br />
                     <a href={'/editRecipe/'+recipe._id} class="btn btn-primary">✏️ Edit {recipe.recipeName}</a><br />
                   </Card.Text>
-                  Total recipe cost: {total}
+                  Total recipe cost: {recipe.ingredientList.reduce((ingTotal,ingredient) => ingTotal = ingTotal + (ingredient.quantity * ingredient.price),0)}
                 </Card.Body>
               </Card>
             </div>
