@@ -60,7 +60,7 @@ async function deleteRecipe(e, id) {
         <div class="row">
           {recipes.length > 0 ? recipes.map(recipe => (     
             <div class="col">
-              <Card style={{ width: '18rem' }}>
+              <Card style={{ width: '24rem' }}>
                 <Card.Img class="mx-auto" variant="top" style={{ width: '12rem' }} src="Recipe.png" />
                 <Card.Body>
                   <Card.Title class="text-center"><h3>{recipe.recipeName}</h3></Card.Title>
