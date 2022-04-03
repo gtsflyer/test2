@@ -8,7 +8,7 @@ function App() {
       <div class="row">
         <div class="col">
           <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" style={{ width: '12rem' }} src="Recipe.png" />
+            <Card.Img class="mx-auto" variant="top" style={{ width: '12rem' }} src="Recipe.png" />
             <Card.Body>
               <Card.Title>Edit Recipes</Card.Title>
               <Card.Text>
@@ -20,7 +20,7 @@ function App() {
         </div>
         <div class="col">
           <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" style={{ width: '18rem' }} src="Menu.png" />
+            <Card.Img class="mx-auto" variant="top" style={{ width: '18rem' }} src="Menu.png" />
             <Card.Body>
               <Card.Title>Edit Menu</Card.Title>
               <Card.Text>
@@ -32,7 +32,7 @@ function App() {
         </div>
         <div class="col">
           <Card style={{ width: '18rem' }}>
-            <Card.Img variant="top" style={{ width: '15rem' }} src="Reports.jpg" />
+            <Card.Img class="mx-auto" variant="top" style={{ width: '15rem' }} src="Reports.jpg" />
             <Card.Body>
               <Card.Title>Run Reports</Card.Title>
               <Card.Text>
