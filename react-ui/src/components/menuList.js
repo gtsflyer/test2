@@ -6,6 +6,12 @@ function Menu() {
   const [menus, setMenus] = useState([]);
   const [recipes, setRecipes] = useState([]);
 
+  const formatter = new Intl.NumberFormat('en-US', {
+    style: 'currency',
+    currency: 'USD',
+    minimumFractionDigits: 2
+  })
+
   // This method fetches the records from the database.
   useEffect(() => {
     async function getMenus() {
@@ -70,33 +76,41 @@ useEffect(() => {
     window.location.reload(true);
   };
 
+  const menuPrices = menus.map(menu => {
+    var priceArray = menu.recipeList.map(recipe => {
+      return recipes.filter(name => name.recipeName === recipe.recipeName).map(recipe2 => {
+        var pricePerPlate = recipe2.ingredientList.reduce((ingTotal,ingredient) => ingTotal = ingTotal + (ingredient.quantity * ingredient.price), 0) / recipe2.servings;
+        return pricePerPlate * recipe.serving;
+      })[0]    
+    })
+    return priceArray
+  });
+
   return (
     <div class="container">
       <div class="row">
-        {menus.length > 0 ? menus.map(menu => (     
+        {menus.length > 0 ? menus.map((menu, index) => (     
           <div class="col">
-            <Card style={{ width: '18rem' }}>
-              <Card.Img variant="top" style={{ width: '12rem' }} src="Menu.png" />
+            <Card style={{ width: '24rem' }}>
+              <Card.Img class="mx-auto" variant="top" style={{ width: '12rem' }} src="Menu.png" />
               <Card.Body>
-                <Card.Title>{menu.menuDay} {menu.menuMeal} <Button onClick={e => deleteMenu(e, menu._id)} class="btn btn-primary">⛔ Delete</Button></Card.Title>
+                <Card.Title class="text-center"><h3>{menu.menuDay} {menu.menuMeal}</h3></Card.Title>
                 <Card.Text>
                   <ul>
-                    {menu.recipeList.map(recipe => {
-                      return <li>Serving {recipe.serving} plates of {recipe.recipeName}</li>;
+                    {menu.recipeList.map((recipe, index2) => {
+                      return <li>Serving {recipe.serving} plates of {recipe.recipeName} ({formatter.format(menuPrices[index][index2])})</li>;
                     })}
                   </ul>
-                  <a href={'/editMenu/'+menu._id} class="btn btn-primary">✏️ Edit {menu.menuDay} {menu.menuMeal}</a>
-                </Card.Text>
-                Menu Cost Per Plate: {JSON.stringify(
-                  menu.recipeList.map(recipe => {
-                    recipes.filter(name => name.recipeName === recipe.recipeName)
-        
-                    //.ingredientList.reduce((ingTotal,ingredient) => ingTotal = ingTotal + (ingredient.quantity * ingredient.price), 0)
-                  }))
-                }
-
                 Total Menu Cost: {
+                  formatter.format(menuPrices[index].reduce(function (accumVariable, curValue) {
+                    return accumVariable + curValue
+                    }, 0))
                 }
+                </Card.Text>
+                <div class="card-footer text-left">
+                  <div class="mx-auto p-1 d-inline-block"><Button href={'/editMenu/'+menu._id} class="btn btn-primary">✏️ Edit {menu.menuDay} {menu.menuMeal}</Button></div>
+                  <div class="mx-auto p-1 d-inline-block"><Button onClick={e => deleteMenu(e, menu._id)} class="btn btn-primary">⛔ Delete</Button></div>
+                </div>
               </Card.Body>
             </Card>
           </div>
