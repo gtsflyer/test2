@@ -63,7 +63,7 @@ async function deleteRecipe(e, id) {
               <Card style={{ width: '18rem' }}>
                 <Card.Img variant="top" style={{ width: '12rem' }} src="Recipe.png" />
                 <Card.Body>
-                  <Card.Title>{recipe.recipeName} <Button onClick={e => deleteRecipe(e, recipe._id)} class="btn btn-primary">⛔ Delete</Button></Card.Title>
+                  <Card.Title>{recipe.recipeName}</Card.Title>
                   <Card.Text>
                     <ul>
                       {recipe.ingredientList.map(ingredient => {
@@ -71,9 +71,12 @@ async function deleteRecipe(e, id) {
                       })}
                     </ul>
                     Serves: {recipe.servings}<br />
-                    <a href={'/editRecipe/'+recipe._id} class="btn btn-primary">✏️ Edit {recipe.recipeName}</a><br />
+                    Recipe Cost Per Serving: {formatter.format(recipe.ingredientList.reduce((ingTotal,ingredient) => ingTotal = ingTotal + (ingredient.quantity * ingredient.price),0) / recipe.servings)}
                   </Card.Text>
-                  Recipe Cost Per Serving: {formatter.format(recipe.ingredientList.reduce((ingTotal,ingredient) => ingTotal = ingTotal + (ingredient.quantity * ingredient.price),0) / recipe.servings)}
+                  <div class="card-footer text-left">
+                  <div class="mx-auto p-1 d-inline-block"><Button href={'/editRecipe/'+recipe._id} class="btn btn-primary">✏️ Edit {recipe.recipeName}</Button></div>
+                  <div class="mx-auto p-1 d-inline-block"><Button onClick={e => deleteRecipe(e, recipe._id)} class="btn btn-primary">⛔ Delete</Button></div>
+                </div>
                 </Card.Body>
               </Card>
             </div>
