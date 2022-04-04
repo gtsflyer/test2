@@ -3295,4 +3295,12 @@
     "quantityType": "LB",
     "price": 1.99
   }
+  {
+    "itemNumber": "",
+    "name": "Milk - Evaporated Carnation",
+    "amountPerPack": 1,
+    "amount": 1,
+    "quantityType": "OZ",
+    "price": 0.26
+  }
 ]
