@@ -146,7 +146,7 @@ const menuMealList = [
       <div class="row">
         <div class="col">
         <form onSubmit={onSubmit}>
-      <h3>Create Menu <input
+      <h3>Update Menu <input
             type="submit"
             value="💾 Save"
             className="btn btn-primary"
