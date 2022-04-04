@@ -3302,5 +3302,13 @@
     "amount": 1,
     "quantityType": "OZ",
     "price": 0.26
+  },
+  {
+	"itemNumber": "",
+    "name": "Patuxent Farms Chicken Tenders",
+    "amountPerPack": 1,
+    "amount": 1,
+    "quantityType": "LB",
+    "price": 4.885
   }
 ]
