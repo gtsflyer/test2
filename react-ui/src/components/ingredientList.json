@@ -3310,5 +3310,13 @@
     "amount": 1,
     "quantityType": "LB",
     "price": 4.885
+  },
+  {
+	"itemNumber": "",
+    "name": "Cross Valley Coleslaw Mix",
+    "amountPerPack": 5,
+    "amount": 4,
+    "quantityType": "LB",
+    "price": 0.989
   }
 ]
