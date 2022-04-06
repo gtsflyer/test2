@@ -2844,7 +2844,7 @@
 	  "amountPerPack": 105,
 	  "amount": 1,
 	  "quantityType": "Ea.",
-	  "name": "Condiment - Mustard, French's",
+	  "name": "Condiment - Mustard French's",
 	  "price": "0.051333333"
 	},
 	{
@@ -2884,7 +2884,7 @@
 	  "amountPerPack": 101,
 	  "amount": 1,
 	  "quantityType": "Oz",
-	  "name": "Condiment - Ketchup, Fancy 33%",
+	  "name": "Condiment - Ketchup Fancy",
 	  "price": "0.076039604"
 	},
 	{
@@ -2940,7 +2940,7 @@
 	  "amountPerPack": 200,
 	  "amount": 1,
 	  "quantityType": "Ea.",
-	  "name": "Condiment - Sweetner, Splenda",
+	  "name": "Condiment - Sweetner Splenda",
 	  "price": "0.03485"
 	},
 	{
