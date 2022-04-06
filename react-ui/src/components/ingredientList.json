@@ -2821,7 +2821,7 @@
 	  "amount": 1,
 	  "quantityType": "Oz",
 	  "name": "Bread - Regular Bread",
-	  "price": ""
+	  "price": "2.15"
 	},
 	{
 	  "itemNumber": null,
@@ -2829,7 +2829,7 @@
 	  "amount": 1,
 	  "quantityType": "Ea.",
 	  "name": "Bread - butter and egg din rolls",
-	  "price": ""
+	  "price": "2.60"
 	},
 	{
 	  "itemNumber": null,
@@ -2837,7 +2837,7 @@
 	  "amount": 1,
 	  "quantityType": "Ea.",
 	  "name": "Bread -Sub Rolls 8",
-	  "price": ""
+	  "price": "3"
 	},
 	{
 	  "itemNumber": 4793,
