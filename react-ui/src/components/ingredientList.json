@@ -1013,7 +1013,7 @@
 	  "amount": 25,
 	  "quantityType": "Lb",
 	  "name": "Domino Sugar Extra Fine Granulated",
-	  "price": "1.272"
+	  "price": "0.928"
 	},
 	{
 	  "itemNumber": 40028000,
@@ -1234,18 +1234,18 @@
 	{
 	  "itemNumber": 59918400,
 	  "amountPerPack": 1,
-	  "amount": 24,
-	  "quantityType": "Doz",
+	  "amount": 288,
+	  "quantityType": "Ea",
 	  "name": "Abuelita Tortilla Flour 6in Frozen",
-	  "price": "1.63125"
+	  "price": "0.1359375"
 	},
 	{
 	  "itemNumber": 59918500,
 	  "amountPerPack": 1,
-	  "amount": 12,
-	  "quantityType": "Doz",
+	  "amount": 144,
+	  "quantityType": "Ea",
 	  "name": "Abuelita Tortilla Flour 8in Frozen",
-	  "price": "1.936666667"
+	  "price": "0.1614"
 	},
 	{
 	  "itemNumber": 60011000,
@@ -1994,26 +1994,26 @@
 	{
 	  "itemNumber": 87610200,
 	  "amountPerPack": 1,
-	  "amount": 30,
-	  "quantityType": "Doz",
+	  "amount": 360,
+	  "quantityType": "Ea",
 	  "name": "Rest.Pride Eggs Medium 30dz Loose Fresh",
-	  "price": "1.856666667"
+	  "price": "0.15472"
 	},
 	{
 	  "itemNumber": 87610400,
 	  "amountPerPack": 1,
-	  "amount": 15,
-	  "quantityType": "Doz",
+	  "amount": 180,
+	  "quantityType": "Ea",
 	  "name": "Rest.Pride Eggs X-Large 15dz Loose Fresh",
-	  "price": "3.639333333"
+	  "price": "0.3033"
 	},
 	{
 	  "itemNumber": 87610600,
 	  "amountPerPack": 1,
-	  "amount": 30,
-	  "quantityType": "Doz",
+	  "amount": 360,
+	  "quantityType": "Ea",
 	  "name": "Rest.Pride Eggs X-Large 30dz Loose Fresh",
-	  "price": "3.372333333"
+	  "price": "0.28103"
 	},
 	{
 	  "itemNumber": 90002000,
@@ -2701,7 +2701,7 @@
 	  "amount": 1,
 	  "quantityType": "Oz",
 	  "name": "Spice - Black Pepper",
-	  "price": "0.561875"
+	  "price": "0.666667"
 	},
 	{
 	  "itemNumber": null,
@@ -2972,7 +2972,7 @@
 	  "amountPerPack": 1,
 	  "amount": 1,
 	  "quantityType": "LB",
-	  "name": "Mixes - white cake mix",
+	  "name": "Mixes - Vanilla Cake Mix",
 	  "price": "1.24"
 	},
 	{
@@ -2989,7 +2989,7 @@
 	  "amount": 1,
 	  "quantityType": "Oz",
 	  "name": "Spice - Salt",
-	  "price": "0.076923077"
+	  "price": "0.7475"
 	},
 	{
 	  "itemNumber": null,
@@ -3293,7 +3293,7 @@
 	  "amount": 1,
 	  "quantityType": "LB",
 	  "name": "Meat - Shreded Chicken Breasts",
-	  "price": "1.99"
+	  "price": "3.95"
 	},
 	{
 	  "itemNumber": null,
@@ -3318,5 +3318,109 @@
 	  "quantityType": "LB",
 	  "name": "Cross Valley Coleslaw Mix",
 	  "price": "0.989"
-	}
+	},
+	{
+		"itemNumber": 3352192,
+		"amountPerPack": 72,
+		"amount": 3.5,
+		"quantityType": "OZ",
+		"name": "Hilltop Hearth 8in Hoagie Roll Unsliced",
+		"price": "0.181547619047619"
+	  },
+	  {
+		"itemNumber": 8637470,
+		"amountPerPack": 12,
+		"amount": 12,
+		"quantityType": "OZ",
+		"name": "Cookie Vanilla Wafer Bag",
+		"price": "0.16917"
+	  },
+	  {
+		"itemNumber": 10700,
+		"amountPerPack": 2,
+		"amount": 30,
+		"quantityType": "OZ",
+		"name": "French's Yellow Mustard",
+		"price": "0.09983"
+	  },
+	  {
+		"itemNumber": null,
+		"amountPerPack": 1,
+		"amount": 75,
+		"quantityType": "OZ",
+		"name": "Canned Chicken",
+		"price": "0.19987"
+	  },
+	  {
+		"itemNumber": null,
+		"amountPerPack": 1,
+		"amount": 10,
+		"quantityType": "LB",
+		"name": "Patuxent Farms Diced .5in Chicken",
+		"price": "3.707"
+	  },
+	  {
+		"itemNumber": null,
+		"amountPerPack": 1,
+		"amount": 10,
+		"quantityType": "LB",
+		"name": "Tysons Diced .5in Chicken",
+		"price": "4.217"
+	  },
+	  {
+		"itemNumber": null,
+		"amountPerPack": 1,
+		"amount": 30,
+		"quantityType": "Ea",
+		"name": "Oscar Mayer Meat Franks",
+		"price": "0.233"
+	  },
+	  {
+		"itemNumber": null,
+		"amountPerPack": 1,
+		"amount": 16,
+		"quantityType": "Ea",
+		"name": "Wesley Farms Hot Dog Rolls",
+		"price": "0.180625"
+	  },
+	  {
+		"itemNumber": null,
+		"amountPerPack": 1,
+		"amount": 48,
+		"quantityType": "OZ",
+		"name": "Condiment - Vlasic Sweet Relish",
+		"price": "0.135208"
+	  },
+	  {
+		"itemNumber": null,
+		"amountPerPack": 1,
+		"amount": 552,
+		"quantityType": "OZ",
+		"name": "Sauce - Pace Salsa",
+		"price": "0.11663"
+	  },
+	  {
+		"itemNumber": null,
+		"amountPerPack": 1,
+		"amount": 1,
+		"quantityType": "LB",
+		"name": "Meat - Pork Shoulder",
+		"price": "1.39"
+	  },
+	  {
+		"itemNumber": 1404383,
+		"amountPerPack": 4,
+		"amount": 5,
+		"quantityType": "LB",
+		"name": "Glenview Farms American Sliced Cheese",
+		"price": "3.794"
+	  },
+	  {
+		"itemNumber": null,
+		"amountPerPack": 5,
+		"amount": 12.5,
+		"quantityType": "OZ",
+		"name": "Wellsley Farms Premium Chunk Chicken Breast Can",
+		"price": "0.23984"
+	  }
    ]
