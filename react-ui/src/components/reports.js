@@ -1,7 +1,5 @@
 import React, { useEffect, useState } from "react";
 import allIngredients from "./ingredientList.json";
-import recipes_offline from "./recipe_offline.json";
-import menus_offline from "./menu_offline.json";
 import ReactTable from "react-table"; 
 import Select, { createFilter } from "react-select";
 import CsvDownload from 'react-json-to-csv'
@@ -103,9 +101,9 @@ useEffect(() => {
 //multiply the per serving quantity by the menu servings
 
 var orderReport = []
-menus_offline.map(menu => {
+menus.map(menu => {
   menu.recipeList.map(menuRecipe => {
-    recipes_offline.filter(name => name.recipeName === menuRecipe.recipeName).map(recipe2 => {
+    recipes.filter(name => name.recipeName === menuRecipe.recipeName).map(recipe2 => {
       recipe2.ingredientList.map(ingredient => {
         allIngredients.filter(ingredientDetails => ingredientDetails.name === ingredient.ingredient).map(filteredIngredient => {
           var reportEntry = 
