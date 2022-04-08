@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import allIngredients from "./ingredientList.json";
 import Select from "react-select";
 import CsvDownload from 'react-json-to-csv'
-import 'react-table/react-table.css'
 import 'bootstrap/dist/css/bootstrap.css';
   
 export default function Reports() {
