@@ -15,10 +15,16 @@ export default function CreateRecipe() {
  });
  const navigate = useNavigate();
 
+ const formatter = new Intl.NumberFormat('en-US', {
+  style: 'currency',
+  currency: 'USD',
+  minimumFractionDigits: 2
+})
+
  const searchList = allIngredients.map(ingredientItem => {
   return{ 
    value: `${ingredientItem.name},${ingredientItem.quantityType},${ingredientItem.price}`, 
-   label: `${ingredientItem.name} in ${ingredientItem.quantityType} (\$${ingredientItem.price} per ${ingredientItem.quantityType})`
+   label: `${ingredientItem.name} in ${ingredientItem.quantityType} (${formatter.format(ingredientItem.price)} per ${ingredientItem.quantityType})`
   }
  }
 );

@@ -3462,5 +3462,61 @@
 		"quantityType": "OZ",
 		"name": "Monarch Assorted Jelly",
 		"price": "0.1808"
+	  },
+	  {
+		"itemNumber": null,
+		"amountPerPack": 1,
+		"amount": 96,
+		"quantityType": "OZ",
+		"name": "Vegetable - Petitte Diced Tomatoes",
+		"price": "0.015625"
+	  },
+	  {
+		"itemNumber": null,
+		"amountPerPack": 1,
+		"amount": 28,
+		"quantityType": "OZ",
+		"name": "Vegetable -  Mild Rotel Tomatoes",
+		"price": "0.0707142857"
+	  },
+	  {
+		"itemNumber": 8788739,
+		"amountPerPack": 12,
+		"amount": 15,
+		"quantityType": "OZ",
+		"name": "Bushs Best Canned Black Beans ",
+		"price": "0.182333"
+	  },
+	  {
+		"itemNumber": 7682493,
+		"amountPerPack": 24,
+		"amount": 14.75,
+		"quantityType": "OZ",
+		"name": "Libbys Creamed Canned Corn",
+		"price": "0.10672316"
+	  },
+	  {
+		"itemNumber": 1038000,
+		"amountPerPack": 1,
+		"amount": 576,
+		"quantityType": "OZ",
+		"name": "Vegetable - Beets - Pickeled",
+		"price": "0.056979167"
+	  },
+	  {
+		"itemNumber": 4004776,
+		"amountPerPack": 12,
+		"amount": 28,
+		"quantityType": "OZ",
+		"name": "Jell-o Vanilla Pudding & Pie Filling Mix",
+		"price": "0.283125"
+	  },
+	  {
+		"itemNumber": null,
+		"amountPerPack": 1,
+		"amount": 40,
+		"quantityType": "OZ",
+		"name": "Wellsley Farms Nonfat Grade A Naturally-Flavored Vanilla Greek Yogurt",
+		"price": "4.49"
 	  }
    ]
