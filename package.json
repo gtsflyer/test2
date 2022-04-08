@@ -12,7 +12,8 @@
   ],
   "dependencies": {
     "express": "^4.16.4",
-    "mongodb": "^4.4.1"
+    "mongodb": "^4.4.1",
+    "react-json-to-csv": "^1.0.4"
   },
   "repository": {
     "type": "git",
