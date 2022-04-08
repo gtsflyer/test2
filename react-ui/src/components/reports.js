@@ -1,7 +1,11 @@
 import React, { useEffect, useState } from "react";
 import allIngredients from "./ingredientList.json";
-import Select from "react-select";
+import recipes_offline from "./recipe_offline.json";
+import menus_offline from "./menu_offline.json";
+import ReactTable from "react-table"; 
+import Select, { createFilter } from "react-select";
 import CsvDownload from 'react-json-to-csv'
+import 'react-table/react-table.css'
 import 'bootstrap/dist/css/bootstrap.css';
   
 export default function Reports() {
@@ -99,9 +103,9 @@ useEffect(() => {
 //multiply the per serving quantity by the menu servings
 
 var orderReport = []
-menus.map(menu => {
+menus_offline.map(menu => {
   menu.recipeList.map(menuRecipe => {
-    recipes.filter(name => name.recipeName === menuRecipe.recipeName).map(recipe2 => {
+    recipes_offline.filter(name => name.recipeName === menuRecipe.recipeName).map(recipe2 => {
       recipe2.ingredientList.map(ingredient => {
         allIngredients.filter(ingredientDetails => ingredientDetails.name === ingredient.ingredient).map(filteredIngredient => {
           var reportEntry = 
@@ -527,11 +531,23 @@ menus.map(menu => {
     return res;
   }, {});
 
-  //todo:   Dates and meals a given item is needed on*
-
   return (
-    <div class="container" style={{ display: 'block', width: 700, padding: 30, align: 'center' }}>
-      <p>Select a report to run</p>
+    <div class="container" style={{ display: 'block', width: '100%', padding: 30, align: 'center' }}>
+      <CsvDownload 
+        data={allIngredients}
+        filename={`completeInventory.csv`}
+        style={{ //pass other props, like styles
+          display:"inline-block",
+          fontSize:"15px",
+          fontWeight:"bold",
+          padding:"6px 24px",
+          textDecoration:"none",
+          textShadow:"0px 1px 0px #9b14b3"
+          }}
+      >
+        Download All Ingredients ⬇️
+      </CsvDownload>
+      <br></br><br></br>
       <Select
         placeholder={"Choose a Report"}
         name="reportSelector"
@@ -541,8 +557,20 @@ menus.map(menu => {
       >
       </Select>
       <br></br>
-      <br></br>
-      <CsvDownload data={displayedReport} filename={`campmeetingReport${Date.now()}.csv`} />
+        <CsvDownload 
+          data={displayedReport}
+          filename={`campmeetingReport${Date.now()}.csv`}
+          style={{ //pass other props, like styles
+            display:"inline-block",
+            fontSize:"15px",
+            fontWeight:"bold",
+            padding:"6px 24px",
+            textDecoration:"none",
+            textShadow:"0px 1px 0px #9b14b3"
+            }}
+        >
+          Download Report ⬇️
+        </CsvDownload>
       <br></br>
       <br></br>
       <table>
