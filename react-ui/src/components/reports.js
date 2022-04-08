@@ -1,9 +1,7 @@
 import React, { useEffect, useState } from "react";
 import allIngredients from "./ingredientList.json";
-import ReactTable from "react-table"; 
 import Select, { createFilter } from "react-select";
 import CsvDownload from 'react-json-to-csv'
-import 'react-table/react-table.css'
 import 'bootstrap/dist/css/bootstrap.css';
   
 export default function Reports() {
