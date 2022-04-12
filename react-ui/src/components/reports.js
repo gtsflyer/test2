@@ -37,18 +37,13 @@ export default function Reports() {
     {"value": "saturdayOrders", "label": "Order list for Saturday"},
     {"value": "sundayOrders", "label": "Order list for Sunday"},
 
-    /*
     {"value": "usFoodsOrders", "label": "Order list for US Foods"},
     {"value": "schencksOrders", "label": "Order list for Schencks"},
-    {"value": "costcoOrders", "label": "Order list for Costco"},
-    {"value": "bJsOrders", "label": "Order list for BJs"},
     {"value": "groceryOrders", "label": "Order list for Grocery Store"},
 
     {"value": "shelfStableOrders", "label": "Order list for Shelf Stable Items"},
     {"value": "refrigeratedOrders", "label": "Order list for Refrigerated Items"},
-    {"value": "frozenOrders", "label": "Order list for Frozen Items"},
-    */
-    
+    {"value": "frozenOrders", "label": "Order list for Frozen Items"}    
   ];
 
   // This method fetches the records from the database.
@@ -114,8 +109,8 @@ menus.map(menu => {
               "minimumOrder" : filteredIngredient.amount * filteredIngredient.amountPerPack,
               "quantityType" : ingredient.quantityType,
               "price" : filteredIngredient.price,
-              "vendor" : "", //filteredIngredient.vendor + "\n" +
-              "storageType" : "" //filteredIngredient.storageType
+              "vendor" : filteredIngredient.vendor,
+              "storageType" : filteredIngredient.storageType
             };
             orderReport = orderReport.concat([reportEntry]);
           });
@@ -343,9 +338,8 @@ menus.map(menu => {
     return res;
   }, {});
 
-  // const usFoodsOrders = orderReport.filter(order => order.vendor === "USFoods");
   var usFoodsOrders = [];
-  orderReport.filter(order => order.vendor === "USFoods")
+  orderReport.filter(order => order.vendor === "US Foods")
   .reduce(function(res, value) {
     if (!res[value.name]) {
       res[value.name] = { 
@@ -366,9 +360,8 @@ menus.map(menu => {
     return res;
   }, {});
 
-  // const schencksOrders = orderReport.filter(order => order.vendor === "Schencks");
   var schencksOrders = [];
-  orderReport.filter(order => order.vendor === "Schencks")
+  orderReport.filter(order => order.vendor === "Schenk's")
   .reduce(function(res, value) {
     if (!res[value.name]) {
       res[value.name] = { 
@@ -388,54 +381,7 @@ menus.map(menu => {
     res[value.name].amountNeeded += value.amountNeeded;
     return res;
   }, {});
-  
-  // const costcoOrders = orderReport.filter(order => order.vendor === "Costco");
-  var costcoOrders = [];
-  orderReport.filter(order => order.vendor === "Costco")
-  .reduce(function(res, value) {
-    if (!res[value.name]) {
-      res[value.name] = { 
-        itemNumber: value.itemNumber,
-        name: value.name,
-        menuDay: value.menuDay,
-        menuMeal: value.menuMeal,
-        amountNeeded: 0,
-        minimumOrder: value.minimumOrder,
-        quantityType: value.quantityType,
-        price: value.price,
-        vendor: value.vendor,
-        storageType: value.storageType
-      };
-      costcoOrders.push(res[value.name])
-    }
-    res[value.name].amountNeeded += value.amountNeeded;
-    return res;
-  }, {});
 
-  // const bJsOrders = orderReport.filter(order => order.vendor === "BJs");
-  var bJsOrders = [];
-  orderReport.filter(order => order.vendor === "BJs")
-  .reduce(function(res, value) {
-    if (!res[value.name]) {
-      res[value.name] = { 
-        itemNumber: value.itemNumber,
-        name: value.name,
-        menuDay: value.menuDay,
-        menuMeal: value.menuMeal,
-        amountNeeded: 0,
-        minimumOrder: value.minimumOrder,
-        quantityType: value.quantityType,
-        price: value.price,
-        vendor: value.vendor,
-        storageType: value.storageType
-      };
-      bJsOrders.push(res[value.name])
-    }
-    res[value.name].amountNeeded += value.amountNeeded;
-    return res;
-  }, {});
-
-  // const groceryOrders = orderReport.filter(order => order.vendor === "Grocery");
   var groceryOrders = [];
   orderReport.filter(order => order.vendor === "Grocery")
   .reduce(function(res, value) {
@@ -458,9 +404,8 @@ menus.map(menu => {
     return res;
   }, {});
   
-  // const shelfStableOrders = orderReport.filter(order => order.storageType === "Shelf");
   var shelfStableOrders = [];
-  orderReport.filter(order => order.storageType === "Shelf")
+  orderReport.filter(order => order.storageType === "Shelf Stable")
   .reduce(function(res, value) {
     if (!res[value.name]) {
       res[value.name] = { 
@@ -481,9 +426,8 @@ menus.map(menu => {
     return res;
   }, {});
 
-  // const refrigeratedOrders = orderReport.filter(order => order.storageType === "Refrigerated");
   var refrigeratedOrders = [];
-  orderReport.filter(order => order.storageType === "Refrigerated")
+  orderReport.filter(order => order.storageType === "Refrigerator")
   .reduce(function(res, value) {
     if (!res[value.name]) {
       res[value.name] = { 
@@ -504,7 +448,6 @@ menus.map(menu => {
     return res;
   }, {});
 
-  // const frozenOrders = orderReport.filter(order => order.storageType === "Frozen");
   var frozenOrders = [];
   orderReport.filter(order => order.storageType === "Frozen")
   .reduce(function(res, value) {

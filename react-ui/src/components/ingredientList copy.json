@@ -1,0 +1,3522 @@
+[
+	{
+	  "itemNumber": 1006000,
+	  "amountPerPack": 6,
+	  "amount": 113,
+	  "quantityType": "Oz",
+	  "name": "Hanover Beans Green Fancy Cut",
+	  "price": "0.04780236"
+	},
+	{
+	  "itemNumber": 1014000,
+	  "amountPerPack": 6,
+	  "amount": 113,
+	  "quantityType": "Oz",
+	  "name": "Hanover Beans Light Kidney In Sauce",
+	  "price": "0.047286136"
+	},
+	{
+	  "itemNumber": 1016000,
+	  "amountPerPack": 6,
+	  "amount": 113,
+	  "quantityType": "Oz",
+	  "name": "Packer Beans Dark Kidney In Sauce",
+	  "price": "0.054247788"
+	},
+	{
+	  "itemNumber": 1019100,
+	  "amountPerPack": 6,
+	  "amount": 113,
+	  "quantityType": "Oz",
+	  "name": "Hanover Beans Pork Fancy",
+	  "price": "0.048480826"
+	},
+	{
+	  "itemNumber": 1038000,
+	  "amountPerPack": 6,
+	  "amount": 113,
+	  "quantityType": "Oz",
+	  "name": "Hanover Beets Sliced Pickled",
+	  "price": "0.054882006"
+	},
+	{
+	  "itemNumber": 1044000,
+	  "amountPerPack": 6,
+	  "amount": 113,
+	  "quantityType": "Oz",
+	  "name": "Libby Carrots Sliced Medium Fancy",
+	  "price": "0.058746313"
+	},
+	{
+	  "itemNumber": 1064000,
+	  "amountPerPack": 6,
+	  "amount": 113,
+	  "quantityType": "Oz",
+	  "name": "Margaret Greens Mixed",
+	  "price": "0.081297935"
+	},
+	{
+	  "itemNumber": 1109000,
+	  "amountPerPack": 6,
+	  "amount": 113,
+	  "quantityType": "Oz",
+	  "name": "Angela Tomatoes Whole Peeled",
+	  "price": "0.052669617"
+	},
+	{
+	  "itemNumber": 1245800,
+	  "amountPerPack": 12,
+	  "amount": 26,
+	  "quantityType": "Oz",
+	  "name": "Idahoan Potatoes Mashed Idaho W/Vitamin C",
+	  "price": "0.255352564"
+	},
+	{
+	  "itemNumber": 1250010,
+	  "amountPerPack": 6,
+	  "amount": 5,
+	  "quantityType": "Lb",
+	  "name": "Idahoan Potatoes Mashed Original Flakes",
+	  "price": "3.006333333"
+	},
+	{
+	  "itemNumber": 1380000,
+	  "amountPerPack": 6,
+	  "amount": 113,
+	  "quantityType": "Oz",
+	  "name": "Red Gold Ketchup Fancy 33% Red Gold Can",
+	  "price": "0.052094395"
+	},
+	{
+	  "itemNumber": 1401700,
+	  "amountPerPack": 6,
+	  "amount": 113,
+	  "quantityType": "Oz",
+	  "name": "Contadin Sauce Spaghetti Deluxe",
+	  "price": "0.070634218"
+	},
+	{
+	  "itemNumber": 1658000,
+	  "amountPerPack": 6,
+	  "amount": 113,
+	  "quantityType": "Oz",
+	  "name": "Rest.Pride Fruit Apples Sliced In Water",
+	  "price": "0.10219764"
+	},
+	{
+	  "itemNumber": 1661100,
+	  "amountPerPack": 6,
+	  "amount": 113,
+	  "quantityType": "Oz",
+	  "name": "Musselma Fruit Spiced Homestyle Country",
+	  "price": "0.116061947"
+	},
+	{
+	  "itemNumber": 1664000,
+	  "amountPerPack": 6,
+	  "amount": 113,
+	  "quantityType": "Oz",
+	  "name": "Rest.Pride Fruit Applesauce Fancy",
+	  "price": "0.084144543"
+	},
+	{
+	  "itemNumber": 1685000,
+	  "amountPerPack": 6,
+	  "amount": 113,
+	  "quantityType": "Oz",
+	  "name": "Dole Fruit Tropical Salad Syrup",
+	  "price": "0.08679941"
+	},
+	{
+	  "itemNumber": 1707000,
+	  "amountPerPack": 6,
+	  "amount": 113,
+	  "quantityType": "Oz",
+	  "name": "Celebrity Fruit Pears Sliced In Light Syrup",
+	  "price": "0.088259587"
+	},
+	{
+	  "itemNumber": 1750000,
+	  "amountPerPack": 6,
+	  "amount": 113,
+	  "quantityType": "Oz",
+	  "name": "Imported Fruit Peaches Sliced In Syrup",
+	  "price": "0.101238938"
+	},
+	{
+	  "itemNumber": 1750100,
+	  "amountPerPack": 6,
+	  "amount": 113,
+	  "quantityType": "Oz",
+	  "name": "Ambrosia Fruit Peaches Sliced In Juice",
+	  "price": "0.105457227"
+	},
+	{
+	  "itemNumber": 4358600,
+	  "amountPerPack": 12,
+	  "amount": 46,
+	  "quantityType": "Oz",
+	  "name": "Dole Juice Pineapple Unsweet",
+	  "price": "0.07423913"
+	},
+	{
+	  "itemNumber": 4386000,
+	  "amountPerPack": 24,
+	  "amount": 16.9,
+	  "quantityType": "Oz",
+	  "name": "Pellegrin Drink Sparkling Water 500ml",
+	  "price": "0.080547337"
+	},
+	{
+	  "itemNumber": 9904000,
+	  "amountPerPack": 4,
+	  "amount": 1,
+	  "quantityType": "Gal",
+	  "name": "Ken's Dressing Cole Slaw",
+	  "price": "16.2775"
+	},
+	{
+	  "itemNumber": 9907000,
+	  "amountPerPack": 4,
+	  "amount": 1,
+	  "quantityType": "Gal",
+	  "name": "Ken's Dressing Golden Italian",
+	  "price": "15.16"
+	},
+	{
+	  "itemNumber": 9915000,
+	  "amountPerPack": 4,
+	  "amount": 1,
+	  "quantityType": "Gal",
+	  "name": "Kraft Dressing Honey Dijon",
+	  "price": "18.13"
+	},
+	{
+	  "itemNumber": 9916000,
+	  "amountPerPack": 4,
+	  "amount": 1,
+	  "quantityType": "Gal",
+	  "name": "Kraft Dressing Catalina",
+	  "price": "17.6925"
+	},
+	{
+	  "itemNumber": 9917500,
+	  "amountPerPack": 4,
+	  "amount": 1,
+	  "quantityType": "Gal",
+	  "name": "Kraft Dressing Creamy Italian",
+	  "price": "13.2375"
+	},
+	{
+	  "itemNumber": 9928600,
+	  "amountPerPack": 4,
+	  "amount": 1,
+	  "quantityType": "Gal",
+	  "name": "Ken's Dressing Sweet And Spicy Honey",
+	  "price": "21.82"
+	},
+	{
+	  "itemNumber": 10068500,
+	  "amountPerPack": 4,
+	  "amount": 1,
+	  "quantityType": "Gal",
+	  "name": "Kikkoman Sauce Soy Plastic Jug",
+	  "price": "13.375"
+	},
+	{
+	  "itemNumber": 10092500,
+	  "amountPerPack": 4,
+	  "amount": 1,
+	  "quantityType": "Gal",
+	  "name": "Rest.Pride Vinegar Apple Cider Flavored",
+	  "price": "4.2275"
+	},
+	{
+	  "itemNumber": 10093000,
+	  "amountPerPack": 4,
+	  "amount": 1,
+	  "quantityType": "Gal",
+	  "name": "Rest.Pride Vinegar White Distilled 5%",
+	  "price": "3.83"
+	},
+	{
+	  "itemNumber": 10239900,
+	  "amountPerPack": 6,
+	  "amount": 113,
+	  "quantityType": "Oz",
+	  "name": "Ambrosia Pepper Fire Roasted Red",
+	  "price": "0.09159292"
+	},
+	{
+	  "itemNumber": 10241000,
+	  "amountPerPack": 12,
+	  "amount": 28,
+	  "quantityType": "Oz",
+	  "name": "Ambrosia Pepper Fire Roasted Red Whole",
+	  "price": "0.137946429"
+	},
+	{
+	  "itemNumber": 11025500,
+	  "amountPerPack": 4,
+	  "amount": 1,
+	  "quantityType": "Gal",
+	  "name": "Wesson Oil Canola",
+	  "price": "18.38"
+	},
+	{
+	  "itemNumber": 12113800,
+	  "amountPerPack": 12,
+	  "amount": 8.6,
+	  "quantityType": "Oz",
+	  "name": "Thirst Eas Mix Pink Lemonade Drink 2 Gal",
+	  "price": "0.259399225"
+	},
+	{
+	  "itemNumber": 12128200,
+	  "amountPerPack": 8,
+	  "amount": 3,
+	  "quantityType": "Gal",
+	  "name": "Ronnoco Sweet Brew Lemonade",
+	  "price": "3.40625"
+	},
+	{
+	  "itemNumber": 12128400,
+	  "amountPerPack": 1,
+	  "amount": 3,
+	  "quantityType": "Gal",
+	  "name": "Ronnoco Bib Lemonade",
+	  "price": "21.66"
+	},
+	{
+	  "itemNumber": 12238500,
+	  "amountPerPack": 4,
+	  "amount": 5,
+	  "quantityType": "Lb",
+	  "name": "Albanese Candy Gummy Bears Assorted",
+	  "price": "2.2715"
+	},
+	{
+	  "itemNumber": 12248500,
+	  "amountPerPack": 12,
+	  "amount": 1,
+	  "quantityType": "Lb",
+	  "name": "Oreo Topping Oreo Cookie Crumbs",
+	  "price": "4.835"
+	},
+	{
+	  "itemNumber": 12304200,
+	  "amountPerPack": 3,
+	  "amount": 140,
+	  "quantityType": "Oz",
+	  "name": "Borden's Milk Condensed Eagle",
+	  "price": "0.177404762"
+	},
+	{
+	  "itemNumber": 12871200,
+	  "amountPerPack": 4,
+	  "amount": 64,
+	  "quantityType": "Oz",
+	  "name": "Monin Sauce Dark Chocolate",
+	  "price": "0.23828125"
+	},
+	{
+	  "itemNumber": 12871400,
+	  "amountPerPack": 4,
+	  "amount": 64,
+	  "quantityType": "Oz",
+	  "name": "Monin Sauce White Chocolate",
+	  "price": "0.269335938"
+	},
+	{
+	  "itemNumber": 12871600,
+	  "amountPerPack": 4,
+	  "amount": 64,
+	  "quantityType": "Oz",
+	  "name": "Monin Sauce Caramel",
+	  "price": "0.269335938"
+	},
+	{
+	  "itemNumber": 13041900,
+	  "amountPerPack": 6,
+	  "amount": 4,
+	  "quantityType": "Lb",
+	  "name": "Tulkoff Garlic Spread",
+	  "price": "3.44875"
+	},
+	{
+	  "itemNumber": 16684100,
+	  "amountPerPack": 32,
+	  "amount": 4,
+	  "quantityType": "Oz",
+	  "name": "Lipton Tea Iced Brewing Blend (4 Gal)",
+	  "price": "0.446015625"
+	},
+	{
+	  "itemNumber": 16684400,
+	  "amountPerPack": 96,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Lipton Tea Iced Bags",
+	  "price": "0.37"
+	},
+	{
+	  "itemNumber": 16738900,
+	  "amountPerPack": 1,
+	  "amount": 1000,
+	  "quantityType": "Ea",
+	  "name": "Coffeema Creamer Coffee Individual",
+	  "price": "0.04076"
+	},
+	{
+	  "itemNumber": 16743000,
+	  "amountPerPack": 2,
+	  "amount": 1.5,
+	  "quantityType": "Ltr",
+	  "name": "Coffeema Creamer French Vanilla Pump",
+	  "price": "11.48"
+	},
+	{
+	  "itemNumber": 17026400,
+	  "amountPerPack": 96,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Hospitalit Cereal Raisin Bran Bowl Pack",
+	  "price": "0.2946875"
+	},
+	{
+	  "itemNumber": 17026500,
+	  "amountPerPack": 96,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Hospitalit Cereal Crisp Rice Bowl Pack",
+	  "price": "0.289583333"
+	},
+	{
+	  "itemNumber": 17026700,
+	  "amountPerPack": 96,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Hospitalit Cereal Apple Cinn.Oats Bowl",
+	  "price": "0.289583333"
+	},
+	{
+	  "itemNumber": 17091900,
+	  "amountPerPack": 4,
+	  "amount": 29,
+	  "quantityType": "Oz",
+	  "name": "Gen. Mills Cereal Cheerios Bulk",
+	  "price": "0.46637931"
+	},
+	{
+	  "itemNumber": 19246400,
+	  "amountPerPack": 80,
+	  "amount": 2,
+	  "quantityType": "Oz",
+	  "name": "Kraft Syrup Table Cup 80 Count",
+	  "price": "0.136125"
+	},
+	{
+	  "itemNumber": 19300900,
+	  "amountPerPack": 210,
+	  "amount": 0.38,
+	  "quantityType": "Oz",
+	  "name": "Hellman's Mayonnaise Heavy Pack Pc",
+	  "price": "0.37556391"
+	},
+	{
+	  "itemNumber": 19304100,
+	  "amountPerPack": 60,
+	  "amount": 1.5,
+	  "quantityType": "Oz",
+	  "name": "Ken's Dressing Golden Italian",
+	  "price": "0.230888889"
+	},
+	{
+	  "itemNumber": 19306300,
+	  "amountPerPack": 60,
+	  "amount": 1.5,
+	  "quantityType": "Oz",
+	  "name": "Ken's Dressing Caesar Pack",
+	  "price": "0.260333333"
+	},
+	{
+	  "itemNumber": 19306500,
+	  "amountPerPack": 60,
+	  "amount": 1.5,
+	  "quantityType": "Oz",
+	  "name": "Kraft Dressing Catalina Pack",
+	  "price": "0.249444444"
+	},
+	{
+	  "itemNumber": 19315000,
+	  "amountPerPack": 200,
+	  "amount": 0.4375,
+	  "quantityType": "Oz",
+	  "name": "Kraft Sauce Barbecue Pack",
+	  "price": "0.159542857"
+	},
+	{
+	  "itemNumber": 20006000,
+	  "amountPerPack": 12,
+	  "amount": 24,
+	  "quantityType": "Oz",
+	  "name": "Royal Gelatin Strawberry",
+	  "price": "0.134166667"
+	},
+	{
+	  "itemNumber": 20009000,
+	  "amountPerPack": 12,
+	  "amount": 24,
+	  "quantityType": "Oz",
+	  "name": "Royal Gelatin Red Assorted",
+	  "price": "0.142673611"
+	},
+	{
+	  "itemNumber": 20028000,
+	  "amountPerPack": 12,
+	  "amount": 28,
+	  "quantityType": "Oz",
+	  "name": "Jell-O Pudding Instant Vanilla",
+	  "price": "0.236577381"
+	},
+	{
+	  "itemNumber": 20029000,
+	  "amountPerPack": 12,
+	  "amount": 28,
+	  "quantityType": "Oz",
+	  "name": "Jell-O Pudding Instant Chocolate",
+	  "price": "0.249910714"
+	},
+	{
+	  "itemNumber": 20033000,
+	  "amountPerPack": 6,
+	  "amount": 113,
+	  "quantityType": "Oz",
+	  "name": "Packer Pudding Chocolate Ready To Go",
+	  "price": "0.060634218"
+	},
+	{
+	  "itemNumber": 20034000,
+	  "amountPerPack": 6,
+	  "amount": 113,
+	  "quantityType": "Oz",
+	  "name": "Packer Pudding Vanilla Ready To Go",
+	  "price": "0.065766962"
+	},
+	{
+	  "itemNumber": 22176800,
+	  "amountPerPack": 6,
+	  "amount": 5,
+	  "quantityType": "Lb",
+	  "name": "Cont.Mill Mix Pancake Buttermilk",
+	  "price": "0.892333333"
+	},
+	{
+	  "itemNumber": 22177700,
+	  "amountPerPack": 6,
+	  "amount": 5,
+	  "quantityType": "Lb",
+	  "name": "Cont.Mill Mix Yellow Cake",
+	  "price": "1.142"
+	},
+	{
+	  "itemNumber": 22182600,
+	  "amountPerPack": 6,
+	  "amount": 5,
+	  "quantityType": "Lb",
+	  "name": "Gen. Mills Mix Corn Muffin Gold Medal",
+	  "price": "2.495"
+	},
+	{
+	  "itemNumber": 22182800,
+	  "amountPerPack": 6,
+	  "amount": 5,
+	  "quantityType": "Lb",
+	  "name": "Gen. Mills Mix*Biscuit Gold Medal *U/A*",
+	  "price": "1.647333333"
+	},
+	{
+	  "itemNumber": 22234400,
+	  "amountPerPack": 6,
+	  "amount": 3.6,
+	  "quantityType": "Lb",
+	  "name": "Stove Top Mix Stuffing Chicken",
+	  "price": "3.701851852"
+	},
+	{
+	  "itemNumber": 22446700,
+	  "amountPerPack": 4,
+	  "amount": 1,
+	  "quantityType": "Gal",
+	  "name": "Packer Sauce Taco",
+	  "price": "15.935"
+	},
+	{
+	  "itemNumber": 22446900,
+	  "amountPerPack": 6,
+	  "amount": 11,
+	  "quantityType": "Oz",
+	  "name": "Mccormic Seasoning Mix Taco Pouch",
+	  "price": "0.452727273"
+	},
+	{
+	  "itemNumber": 22449200,
+	  "amountPerPack": 12,
+	  "amount": 27,
+	  "quantityType": "Oz",
+	  "name": "Las Peppers Diced Green Chiles",
+	  "price": "0.170061728"
+	},
+	{
+	  "itemNumber": 22673400,
+	  "amountPerPack": 12,
+	  "amount": 12,
+	  "quantityType": "Oz",
+	  "name": "Sunshine Crackers Wheat Wafer",
+	  "price": "0.282847222"
+	},
+	{
+	  "itemNumber": 25100000,
+	  "amountPerPack": 6,
+	  "amount": 35,
+	  "quantityType": "Oz",
+	  "name": "Morton's Spice Season All",
+	  "price": "0.224428571"
+	},
+	{
+	  "itemNumber": 25538000,
+	  "amountPerPack": 12,
+	  "amount": 32,
+	  "quantityType": "Oz",
+	  "name": "Wright's Spice Liquid Smoke Hickory",
+	  "price": "0.158072917"
+	},
+	{
+	  "itemNumber": 26020400,
+	  "amountPerPack": 6,
+	  "amount": 18,
+	  "quantityType": "Oz",
+	  "name": "Spice Clas Spice White Pepper Ground",
+	  "price": "0.906296296"
+	},
+	{
+	  "itemNumber": 28006207,
+	  "amountPerPack": 4,
+	  "amount": 26.6,
+	  "quantityType": "Oz",
+	  "name": "Knorr Soup Potato Chowder Dujour",
+	  "price": "0.517763158"
+	},
+	{
+	  "itemNumber": 28020500,
+	  "amountPerPack": 12,
+	  "amount": 48,
+	  "quantityType": "Oz",
+	  "name": "Rest.Pride Broth Chicken",
+	  "price": "0.050364583"
+	},
+	{
+	  "itemNumber": 28022000,
+	  "amountPerPack": 12,
+	  "amount": 56,
+	  "quantityType": "Oz",
+	  "name": "Le Gout Soup Cream Of Chicken",
+	  "price": "0.118080357"
+	},
+	{
+	  "itemNumber": 28265000,
+	  "amountPerPack": 12,
+	  "amount": 1,
+	  "quantityType": "Lb",
+	  "name": "Le Gout Base Beef",
+	  "price": "7.595"
+	},
+	{
+	  "itemNumber": 28268600,
+	  "amountPerPack": 8,
+	  "amount": 13.29,
+	  "quantityType": "Oz",
+	  "name": "Le Gout Mix Brown Gravy Instant",
+	  "price": "0.358352144"
+	},
+	{
+	  "itemNumber": 28300000,
+	  "amountPerPack": 6,
+	  "amount": 113,
+	  "quantityType": "Oz",
+	  "name": "Packer Sauce Cheese Aged Cheddar",
+	  "price": "0.112669617"
+	},
+	{
+	  "itemNumber": 28309500,
+	  "amountPerPack": 8,
+	  "amount": 1.41,
+	  "quantityType": "Lb",
+	  "name": "Trio Mix Chicken Gravy Instant",
+	  "price": "4.078900709"
+	},
+	{
+	  "itemNumber": 28314500,
+	  "amountPerPack": 8,
+	  "amount": 1,
+	  "quantityType": "Lb",
+	  "name": "Le Gout Mix Chicken Gravy Instant",
+	  "price": "5.60375"
+	},
+	{
+	  "itemNumber": 28316500,
+	  "amountPerPack": 8,
+	  "amount": 1,
+	  "quantityType": "Lb",
+	  "name": "Le Gout Mix Turkey Gravy Instant",
+	  "price": "6.21"
+	},
+	{
+	  "itemNumber": 30019000,
+	  "amountPerPack": 6,
+	  "amount": 1,
+	  "quantityType": "Lb",
+	  "name": "Packer Snacks Pretzels Classic Tiny Twist",
+	  "price": "2.321666667"
+	},
+	{
+	  "itemNumber": 30019500,
+	  "amountPerPack": 6,
+	  "amount": 1,
+	  "quantityType": "Lb",
+	  "name": "Martin's Chips Plain Round Tortilla",
+	  "price": "2.055"
+	},
+	{
+	  "itemNumber": 30024100,
+	  "amountPerPack": 4,
+	  "amount": 1.5,
+	  "quantityType": "Lb",
+	  "name": "Abuelita Chips Tortilla Corn White Salted",
+	  "price": "2.911666667"
+	},
+	{
+	  "itemNumber": 31202000,
+	  "amountPerPack": 12,
+	  "amount": 36,
+	  "quantityType": "Count",
+	  "name": "Hershey Candy Hershey Bar Almond",
+	  "price": "1.004236111"
+	},
+	{
+	  "itemNumber": 31202900,
+	  "amountPerPack": 12,
+	  "amount": 36,
+	  "quantityType": "Count",
+	  "name": "Hershey Candy Kit Kat",
+	  "price": "1.004236111"
+	},
+	{
+	  "itemNumber": 31209500,
+	  "amountPerPack": 8,
+	  "amount": 48,
+	  "quantityType": "Count",
+	  "name": "M & Candy Snickers",
+	  "price": "0.928177083"
+	},
+	{
+	  "itemNumber": 34033500,
+	  "amountPerPack": 12,
+	  "amount": 500,
+	  "quantityType": "Count",
+	  "name": "Tork Napkin Lunch 1/4 Fold 1 Ply Vintage",
+	  "price": "0.008351667"
+	},
+	{
+	  "itemNumber": 34077210,
+	  "amountPerPack": 16,
+	  "amount": 250,
+	  "quantityType": "Count",
+	  "name": "Tork Towel Hand Multifold Natural",
+	  "price": "0.0073875"
+	},
+	{
+	  "itemNumber": 34096000,
+	  "amountPerPack": 6,
+	  "amount": 1,
+	  "quantityType": "Rolls",
+	  "name": "Tork Towel Hand Roll White 7.7x700'",
+	  "price": "11.14833333"
+	},
+	{
+	  "itemNumber": 34096200,
+	  "amountPerPack": 6,
+	  "amount": 1,
+	  "quantityType": "Rolls",
+	  "name": "Tork Towel Hand Roll Brown 7.7x700'",
+	  "price": "10.35666667"
+	},
+	{
+	  "itemNumber": 34183400,
+	  "amountPerPack": 1,
+	  "amount": 1,
+	  "quantityType": "Roll",
+	  "name": "Laminate Paper Butcher White 18inx650' Roll",
+	  "price": "17.98"
+	},
+	{
+	  "itemNumber": 34237000,
+	  "amountPerPack": 1,
+	  "amount": 1,
+	  "quantityType": "Roll",
+	  "name": "Rest.Pride Foil Aluminum 18inx 500'",
+	  "price": "36.55"
+	},
+	{
+	  "itemNumber": 34240500,
+	  "amountPerPack": 1,
+	  "amount": 1,
+	  "quantityType": "Roll",
+	  "name": "Rest.Pride Foil Aluminum 18in 500'Heavy",
+	  "price": "61.52"
+	},
+	{
+	  "itemNumber": 34297600,
+	  "amountPerPack": 40,
+	  "amount": 25,
+	  "quantityType": "Count",
+	  "name": "Dart Cups Foam 8 Oz.",
+	  "price": "0.06127"
+	},
+	{
+	  "itemNumber": 34301600,
+	  "amountPerPack": 40,
+	  "amount": 25,
+	  "quantityType": "Count",
+	  "name": "Dart Cups Foam 12 Oz.",
+	  "price": "0.05865"
+	},
+	{
+	  "itemNumber": 34307600,
+	  "amountPerPack": 40,
+	  "amount": 25,
+	  "quantityType": "Count",
+	  "name": "Dart Cups Foam 16 Oz",
+	  "price": "0.08338"
+	},
+	{
+	  "itemNumber": 34321700,
+	  "amountPerPack": 20,
+	  "amount": 25,
+	  "quantityType": "Count",
+	  "name": "Dart Cups Foam 24 Oz Horizon 24lx16h",
+	  "price": "0.13102"
+	},
+	{
+	  "itemNumber": 34338000,
+	  "amountPerPack": 10,
+	  "amount": 100,
+	  "quantityType": "Count",
+	  "name": "Dart Lid Foam Cup Rclsble 16rclblk",
+	  "price": "0.10414"
+	},
+	{
+	  "itemNumber": 34344100,
+	  "amountPerPack": 20,
+	  "amount": 50,
+	  "quantityType": "Count",
+	  "name": "Dart Lid Clear Dome W/Hole 16lcdh",
+	  "price": "0.12623"
+	},
+	{
+	  "itemNumber": 34410000,
+	  "amountPerPack": 20,
+	  "amount": 125,
+	  "quantityType": "Count",
+	  "name": "Dart Container Portion 1 Oz 100pc",
+	  "price": "0.027044"
+	},
+	{
+	  "itemNumber": 34410200,
+	  "amountPerPack": 20,
+	  "amount": 125,
+	  "quantityType": "Count",
+	  "name": "Dart Container Portion 2 Oz 200pc",
+	  "price": "0.031784"
+	},
+	{
+	  "itemNumber": 34410900,
+	  "amountPerPack": 20,
+	  "amount": 125,
+	  "quantityType": "Count",
+	  "name": "Dart Lid Portion Container 1oz Pl100n",
+	  "price": "0.015068"
+	},
+	{
+	  "itemNumber": 34411000,
+	  "amountPerPack": 20,
+	  "amount": 125,
+	  "quantityType": "Count",
+	  "name": "Dart Lid Portion Container 2oz Pl200n",
+	  "price": "0.019072"
+	},
+	{
+	  "itemNumber": 34463100,
+	  "amountPerPack": 25,
+	  "amount": 100,
+	  "quantityType": "Count",
+	  "name": "Dart Cup Translucent 9 Oz Y9",
+	  "price": "0.061328"
+	},
+	{
+	  "itemNumber": 34464300,
+	  "amountPerPack": 20,
+	  "amount": 50,
+	  "quantityType": "Count",
+	  "name": "Dart Cup Clear Plastic Tall 9oz Tp9d",
+	  "price": "0.11066"
+	},
+	{
+	  "itemNumber": 34464900,
+	  "amountPerPack": 20,
+	  "amount": 50,
+	  "quantityType": "Count",
+	  "name": "Dart Cup Plastic Clear 12oz Tp22",
+	  "price": "0.12119"
+	},
+	{
+	  "itemNumber": 34465500,
+	  "amountPerPack": 12,
+	  "amount": 50,
+	  "quantityType": "Count",
+	  "name": "Dart Cup Plastic Clear 20 Oz Tp20",
+	  "price": "0.173783333"
+	},
+	{
+	  "itemNumber": 34520000,
+	  "amountPerPack": 20,
+	  "amount": 50,
+	  "quantityType": "Count",
+	  "name": "Unicup Cups Paper Hot 12 Oz",
+	  "price": "0.07844"
+	},
+	{
+	  "itemNumber": 34520500,
+	  "amountPerPack": 20,
+	  "amount": 50,
+	  "quantityType": "Count",
+	  "name": "Unicup Cups Paper Hot 16 Oz",
+	  "price": "0.0904"
+	},
+	{
+	  "itemNumber": 34522000,
+	  "amountPerPack": 25,
+	  "amount": 100,
+	  "quantityType": "Count",
+	  "name": "Inter-Nat Cups Paper Cold 5 Oz",
+	  "price": "0.058176"
+	},
+	{
+	  "itemNumber": 34658000,
+	  "amountPerPack": 1,
+	  "amount": 1000,
+	  "quantityType": "Count",
+	  "name": "Dart Bowl Foam 5oz Laminated",
+	  "price": "0.07804"
+	},
+	{
+	  "itemNumber": 34736500,
+	  "amountPerPack": 1,
+	  "amount": 500,
+	  "quantityType": "Count",
+	  "name": "Polar Pak Container Plastic Sandwich Wedge",
+	  "price": "0.15768"
+	},
+	{
+	  "itemNumber": 34880400,
+	  "amountPerPack": 1,
+	  "amount": 1000,
+	  "quantityType": "Count",
+	  "name": "Dart Knives Plastic Med Wt",
+	  "price": "0.03757"
+	},
+	{
+	  "itemNumber": 34882400,
+	  "amountPerPack": 1,
+	  "amount": 1000,
+	  "quantityType": "Count",
+	  "name": "Dart Forks Plastic Med Wt",
+	  "price": "0.03725"
+	},
+	{
+	  "itemNumber": 34884400,
+	  "amountPerPack": 1,
+	  "amount": 1000,
+	  "quantityType": "Count",
+	  "name": "Dart Spoons Plastic Med",
+	  "price": "0.03757"
+	},
+	{
+	  "itemNumber": 34963700,
+	  "amountPerPack": 1,
+	  "amount": 1000,
+	  "quantityType": "Count",
+	  "name": "Tinicum Liner Pan Quilion 16x24",
+	  "price": "0.05091"
+	},
+	{
+	  "itemNumber": 37792800,
+	  "amountPerPack": 1,
+	  "amount": 500,
+	  "quantityType": "Count",
+	  "name": "Right Choice Trash Bag 24x23 Heavy 10 Gallon",
+	  "price": "0.07422"
+	},
+	{
+	  "itemNumber": 37793700,
+	  "amountPerPack": 1,
+	  "amount": 200,
+	  "quantityType": "Count",
+	  "name": "Packer Trash Bag 43x48 56gal 16m Natural",
+	  "price": "0.19965"
+	},
+	{
+	  "itemNumber": 37793900,
+	  "amountPerPack": 1,
+	  "amount": 1000,
+	  "quantityType": "Count",
+	  "name": "Right Choice Trash Bag 24x33 16gal 6g Clear Liner",
+	  "price": "0.04712"
+	},
+	{
+	  "itemNumber": 37820500,
+	  "amountPerPack": 1,
+	  "amount": 100,
+	  "quantityType": "Count",
+	  "name": "Right Choice Trash Bag 40x46 45gal 1.5 Black",
+	  "price": "0.41"
+	},
+	{
+	  "itemNumber": 37821500,
+	  "amountPerPack": 1,
+	  "amount": 100,
+	  "quantityType": "Count",
+	  "name": "Right Choice Trash Bag 43x47 56gal 2.0 Black 3",
+	  "price": "0.609"
+	},
+	{
+	  "itemNumber": 37844600,
+	  "amountPerPack": 1,
+	  "amount": 1,
+	  "quantityType": "Roll",
+	  "name": "Starbucks Filter*Paper Roll Serenade",
+	  "price": "49.47"
+	},
+	{
+	  "itemNumber": 40026000,
+	  "amountPerPack": 1,
+	  "amount": 25,
+	  "quantityType": "Lb",
+	  "name": "Domino Sugar Extra Fine Granulated",
+	  "price": "0.928"
+	},
+	{
+	  "itemNumber": 40028000,
+	  "amountPerPack": 1,
+	  "amount": 50,
+	  "quantityType": "Lb",
+	  "name": "Packer Sugar Extra Fine Granulated",
+	  "price": "0.7722"
+	},
+	{
+	  "itemNumber": 40032000,
+	  "amountPerPack": 24,
+	  "amount": 1,
+	  "quantityType": "Lb",
+	  "name": "Domino Sugar Light Brown",
+	  "price": "1.836666667"
+	},
+	{
+	  "itemNumber": 40040000,
+	  "amountPerPack": 12,
+	  "amount": 2,
+	  "quantityType": "Lb",
+	  "name": "Domino Sugar Confectioners Powder 10x",
+	  "price": "1.484583333"
+	},
+	{
+	  "itemNumber": 40045000,
+	  "amountPerPack": 2,
+	  "amount": 25,
+	  "quantityType": "Lb",
+	  "name": "Gold Flour All Purpose H&R",
+	  "price": "0.7232"
+	},
+	{
+	  "itemNumber": 40050000,
+	  "amountPerPack": 1,
+	  "amount": 25,
+	  "quantityType": "Lb",
+	  "name": "Washingt Flour Self Rising",
+	  "price": "0.6484"
+	},
+	{
+	  "itemNumber": 40075400,
+	  "amountPerPack": 2,
+	  "amount": 10,
+	  "quantityType": "Lb",
+	  "name": "Ben's Orig Rice Long Grain White",
+	  "price": "1.3155"
+	},
+	{
+	  "itemNumber": 43066000,
+	  "amountPerPack": 1,
+	  "amount": 4,
+	  "quantityType": "Oz",
+	  "name": "Haynes Lubricant Lubri-Film Sanitary",
+	  "price": "2.2025"
+	},
+	{
+	  "itemNumber": 43174000,
+	  "amountPerPack": 6,
+	  "amount": 1,
+	  "quantityType": "Gal",
+	  "name": "Packer Germicidal Bleach",
+	  "price": "4.066666667"
+	},
+	{
+	  "itemNumber": 44008000,
+	  "amountPerPack": 4,
+	  "amount": 1,
+	  "quantityType": "Gal",
+	  "name": "Nyco Hand Soap Antibacterial Foaming",
+	  "price": "9.6925"
+	},
+	{
+	  "itemNumber": 45004000,
+	  "amountPerPack": 1,
+	  "amount": 35,
+	  "quantityType": "Lb",
+	  "name": "Simoniz Detergent Ap Powder Laundry",
+	  "price": "1.409714286"
+	},
+	{
+	  "itemNumber": 45004600,
+	  "amountPerPack": 1,
+	  "amount": 25,
+	  "quantityType": "Lb",
+	  "name": "Simoniz Detergent Pink Beads",
+	  "price": "1.8336"
+	},
+	{
+	  "itemNumber": 54000500,
+	  "amountPerPack": 16,
+	  "amount": 5,
+	  "quantityType": "Lb",
+	  "name": "I.B.P. Beef Ground Ibp Fresh 80/20 Fine",
+	  "price": "4.47"
+	},
+	{
+	  "itemNumber": 54000600,
+	  "amountPerPack": 16,
+	  "amount": 5,
+	  "quantityType": "Lb",
+	  "name": "I.B.P. Beef Ground 80/20 Frozen Fine Grind",
+	  "price": "4.13"
+	},
+	{
+	  "itemNumber": 54050700,
+	  "amountPerPack": 20,
+	  "amount": 8,
+	  "quantityType": "Oz",
+	  "name": "Double Beef Ribeye Steak Bnls 10#",
+	  "price": "0.580875"
+	},
+	{
+	  "itemNumber": 54050900,
+	  "amountPerPack": 14,
+	  "amount": 12,
+	  "quantityType": "Oz",
+	  "name": "Double Beef T-Bone Steak",
+	  "price": "0.741488095"
+	},
+	{
+	  "itemNumber": 54052200,
+	  "amountPerPack": 20,
+	  "amount": 8,
+	  "quantityType": "Oz",
+	  "name": "Double Beef Fillet Sirloin Steak Choice",
+	  "price": "0.7616875"
+	},
+	{
+	  "itemNumber": 54268700,
+	  "amountPerPack": 6,
+	  "amount": 3,
+	  "quantityType": "Pc",
+	  "name": "I.B.P. Pork Ribs Baby Back B/I Frozen",
+	  "price": "0.273333333"
+	},
+	{
+	  "itemNumber": 54269500,
+	  "amountPerPack": 4,
+	  "amount": 18,
+	  "quantityType": "Lb",
+	  "name": "Packer Pork * Boston Butts Frozen",
+	  "price": "1.33"
+	},
+	{
+	  "itemNumber": 56008100,
+	  "amountPerPack": 10,
+	  "amount": 5,
+	  "quantityType": "Lb",
+	  "name": "Packer Shrimp Green 31/35 Domestic Brown",
+	  "price": "7.927"
+	},
+	{
+	  "itemNumber": 56010200,
+	  "amountPerPack": 5,
+	  "amount": 2,
+	  "quantityType": "Lb",
+	  "name": "Fpi Shrimp Raw P & D 21/25 Tail-On",
+	  "price": "7.609"
+	},
+	{
+	  "itemNumber": 56020600,
+	  "amountPerPack": 5,
+	  "amount": 2,
+	  "quantityType": "Lb",
+	  "name": "Packer Shrimp Cpd 71/90",
+	  "price": "6.451"
+	},
+	{
+	  "itemNumber": 56282600,
+	  "amountPerPack": 12,
+	  "amount": 1,
+	  "quantityType": "Lb",
+	  "name": "Packer Crab Meat Lump Can Past.",
+	  "price": "34.16166667"
+	},
+	{
+	  "itemNumber": 59170200,
+	  "amountPerPack": 3,
+	  "amount": 4,
+	  "quantityType": "Lb",
+	  "name": "Campbell Soup Pa Dutch Chicken Corn",
+	  "price": "3.885833333"
+	},
+	{
+	  "itemNumber": 59610400,
+	  "amountPerPack": 4,
+	  "amount": 5,
+	  "quantityType": "Lb",
+	  "name": "Brookwo Pork Bbq Chopped Carolina",
+	  "price": "5.3135"
+	},
+	{
+	  "itemNumber": 59871900,
+	  "amountPerPack": 12,
+	  "amount": 3.6,
+	  "quantityType": "Oz",
+	  "name": "Jimmy Sandwich Bacon Egg Cheese Biscuit",
+	  "price": "0.592824074"
+	},
+	{
+	  "itemNumber": 59872900,
+	  "amountPerPack": 128,
+	  "amount": 2.85,
+	  "quantityType": "Oz",
+	  "name": "Tony's Pizza Breakfast Bacon Scramble",
+	  "price": "0.192680921"
+	},
+	{
+	  "itemNumber": 59892200,
+	  "amountPerPack": 40,
+	  "amount": 4,
+	  "quantityType": "Oz",
+	  "name": "Bernardi Pasta Lasagna Sheets",
+	  "price": "0.1675625"
+	},
+	{
+	  "itemNumber": 59918400,
+	  "amountPerPack": 1,
+	  "amount": 288,
+	  "quantityType": "Ea",
+	  "name": "Abuelita Tortilla Flour 6in Frozen",
+	  "price": "0.1359375"
+	},
+	{
+	  "itemNumber": 59918500,
+	  "amountPerPack": 1,
+	  "amount": 144,
+	  "quantityType": "Ea",
+	  "name": "Abuelita Tortilla Flour 8in Frozen",
+	  "price": "0.1614"
+	},
+	{
+	  "itemNumber": 60011000,
+	  "amountPerPack": 6,
+	  "amount": 46,
+	  "quantityType": "Oz",
+	  "name": "Chef Pierr Pie Apple 10in",
+	  "price": "0.161811594"
+	},
+	{
+	  "itemNumber": 60039800,
+	  "amountPerPack": 6,
+	  "amount": 47,
+	  "quantityType": "Oz",
+	  "name": "Chef Pierr Pie Dutch Apple Hi Pie 10in",
+	  "price": "0.229007092"
+	},
+	{
+	  "itemNumber": 60124200,
+	  "amountPerPack": 4,
+	  "amount": 60,
+	  "quantityType": "Oz",
+	  "name": "Pellman Cake *Temp/Ua* Pumpkin Spice Layer",
+	  "price": "0.186458333"
+	},
+	{
+	  "itemNumber": 60124500,
+	  "amountPerPack": 4,
+	  "amount": 48,
+	  "quantityType": "Oz",
+	  "name": "Pellman Cake Coconut Layer",
+	  "price": "0.215052083"
+	},
+	{
+	  "itemNumber": 60184000,
+	  "amountPerPack": 12,
+	  "amount": 16,
+	  "quantityType": "Oz",
+	  "name": "Sara Lee Cake Pound Large",
+	  "price": "0.340416667"
+	},
+	{
+	  "itemNumber": 60409000,
+	  "amountPerPack": 4,
+	  "amount": 8.8,
+	  "quantityType": "Lb",
+	  "name": "Rich's Bettercreme Vanilla",
+	  "price": "2.885227273"
+	},
+	{
+	  "itemNumber": 60444000,
+	  "amountPerPack": 1,
+	  "amount": 3,
+	  "quantityType": "Gal",
+	  "name": "Hood Ice Cream Chocolate",
+	  "price": "7.51"
+	},
+	{
+	  "itemNumber": 60444500,
+	  "amountPerPack": 1,
+	  "amount": 3,
+	  "quantityType": "Gal",
+	  "name": "Hood Ice Cream Strawberry 9%",
+	  "price": "7.78"
+	},
+	{
+	  "itemNumber": 60445000,
+	  "amountPerPack": 1,
+	  "amount": 3,
+	  "quantityType": "Gal",
+	  "name": "Hood Ice Cream Vanilla 11%",
+	  "price": "7.96"
+	},
+	{
+	  "itemNumber": 60445011,
+	  "amountPerPack": 1,
+	  "amount": 3,
+	  "quantityType": "Gal",
+	  "name": "Hood Ice Cream Blueberry N Cream",
+	  "price": "10.76"
+	},
+	{
+	  "itemNumber": 60445012,
+	  "amountPerPack": 1,
+	  "amount": 3,
+	  "quantityType": "Gal",
+	  "name": "Hood Ice Cream Butter Pecan",
+	  "price": "9.57"
+	},
+	{
+	  "itemNumber": 60445013,
+	  "amountPerPack": 1,
+	  "amount": 3,
+	  "quantityType": "Gal",
+	  "name": "Hood Ice Cream Cake & Ice Cream",
+	  "price": "10.22"
+	},
+	{
+	  "itemNumber": 60445016,
+	  "amountPerPack": 1,
+	  "amount": 3,
+	  "quantityType": "Gal",
+	  "name": "Hood Ice Cream Chocolate Chip Cookie",
+	  "price": "9.136666667"
+	},
+	{
+	  "itemNumber": 60445017,
+	  "amountPerPack": 1,
+	  "amount": 3,
+	  "quantityType": "Gal",
+	  "name": "Hood Ice Cream Choc. Peanut Butter",
+	  "price": "9.006666667"
+	},
+	{
+	  "itemNumber": 60445018,
+	  "amountPerPack": 1,
+	  "amount": 3,
+	  "quantityType": "Gal",
+	  "name": "Hood Ice Cream Coffee",
+	  "price": "7.623333333"
+	},
+	{
+	  "itemNumber": 60445019,
+	  "amountPerPack": 1,
+	  "amount": 3,
+	  "quantityType": "Gal",
+	  "name": "Hood Ice Cream Cookies N Cream",
+	  "price": "8.056666667"
+	},
+	{
+	  "itemNumber": 60445021,
+	  "amountPerPack": 1,
+	  "amount": 3,
+	  "quantityType": "Gal",
+	  "name": "Hood Ice Cream Mint Chocolate Chip",
+	  "price": "8.056666667"
+	},
+	{
+	  "itemNumber": 60445040,
+	  "amountPerPack": 24,
+	  "amount": 4,
+	  "quantityType": "Oz",
+	  "name": "Garbers Ice Cream Cup Vanilla",
+	  "price": "0.1446875"
+	},
+	{
+	  "itemNumber": 60454000,
+	  "amountPerPack": 12,
+	  "amount": 16,
+	  "quantityType": "Oz",
+	  "name": "Rich's Topping On Top Whipped Topping",
+	  "price": "0.271979167"
+	},
+	{
+	  "itemNumber": 60459000,
+	  "amountPerPack": 12,
+	  "amount": 16,
+	  "quantityType": "Oz",
+	  "name": "Cool Whip Topping Whipped Frozen",
+	  "price": "0.239375"
+	},
+	{
+	  "itemNumber": 63033200,
+	  "amountPerPack": 120,
+	  "amount": 2.5,
+	  "quantityType": "Oz",
+	  "name": "Bakery Biscuit Buttermilk",
+	  "price": "0.1724"
+	},
+	{
+	  "itemNumber": 63033500,
+	  "amountPerPack": 120,
+	  "amount": 2,
+	  "quantityType": "Oz",
+	  "name": "Pillsbury Biscuit Southern Style Ztf Baked",
+	  "price": "0.168416667"
+	},
+	{
+	  "itemNumber": 63033700,
+	  "amountPerPack": 75,
+	  "amount": 2.85,
+	  "quantityType": "Oz",
+	  "name": "Pillsbury Biscuit Golden Buttermilk Easy",
+	  "price": "0.166502924"
+	},
+	{
+	  "itemNumber": 63033900,
+	  "amountPerPack": 216,
+	  "amount": 2.2,
+	  "quantityType": "Oz",
+	  "name": "Pillsbury Biscuit Dough Southern Style",
+	  "price": "0.123989899"
+	},
+	{
+	  "itemNumber": 63051700,
+	  "amountPerPack": 6,
+	  "amount": 32,
+	  "quantityType": "Oz",
+	  "name": "Ottenber Bread Multigrain 22 Slices",
+	  "price": "0.227916667"
+	},
+	{
+	  "itemNumber": 63053400,
+	  "amountPerPack": 96,
+	  "amount": 1.5,
+	  "quantityType": "Oz",
+	  "name": "Ottenber Bun Plain Hamburger 4in Sliced",
+	  "price": "0.241458333"
+	},
+	{
+	  "itemNumber": 63055300,
+	  "amountPerPack": 36,
+	  "amount": 4.5,
+	  "quantityType": "Oz",
+	  "name": "Ottenber Roll Jr Sub 8in Sliced Fb",
+	  "price": "0.196049383"
+	},
+	{
+	  "itemNumber": 63060300,
+	  "amountPerPack": 1,
+	  "amount": 60,
+	  "quantityType": "Count",
+	  "name": "Amoroso Roll Sub Italian 7in Sliced",
+	  "price": "0.466833333"
+	},
+	{
+	  "itemNumber": 63104400,
+	  "amountPerPack": 120,
+	  "amount": 3.3,
+	  "quantityType": "Oz",
+	  "name": "Rich's Bread Herb Flatbread Baked Appx",
+	  "price": "0.224823232"
+	},
+	{
+	  "itemNumber": 63109100,
+	  "amountPerPack": 144,
+	  "amount": 1.5,
+	  "quantityType": "Oz",
+	  "name": "Advance/P Breadstick White Whole Wheat",
+	  "price": "0.18625"
+	},
+	{
+	  "itemNumber": 63109300,
+	  "amountPerPack": 175,
+	  "amount": 6,
+	  "quantityType": "Inch",
+	  "name": "New York Breadsticks Crispy 6in",
+	  "price": "0.02947619"
+	},
+	{
+	  "itemNumber": 64068600,
+	  "amountPerPack": 1,
+	  "amount": 40,
+	  "quantityType": "Lb",
+	  "name": "Packer Chicken * Whole Wings Jumbo",
+	  "price": "3.21"
+	},
+	{
+	  "itemNumber": 64069100,
+	  "amountPerPack": 1,
+	  "amount": 40,
+	  "quantityType": "Lb",
+	  "name": "Case Chicken * Whole Fryers",
+	  "price": "1.32"
+	},
+	{
+	  "itemNumber": 64069500,
+	  "amountPerPack": 48,
+	  "amount": 7,
+	  "quantityType": "Oz",
+	  "name": "Tyson Chicken Split Breast Iqf",
+	  "price": "0.26297619"
+	},
+	{
+	  "itemNumber": 66071000,
+	  "amountPerPack": 4,
+	  "amount": 13,
+	  "quantityType": "Lb",
+	  "name": "Packer Turkey Whole 12-14lb U.S. Grade A",
+	  "price": "2.31"
+	},
+	{
+	  "itemNumber": 66073000,
+	  "amountPerPack": 4,
+	  "amount": 11,
+	  "quantityType": "Lb",
+	  "name": "Packer Turkey Breast Raw-Rib Bone In",
+	  "price": "1.84"
+	},
+	{
+	  "itemNumber": 66073400,
+	  "amountPerPack": 2,
+	  "amount": 5,
+	  "quantityType": "Lb",
+	  "name": "Jennie-O Turkey Thigh Roast*Raw=Bnls*",
+	  "price": "3.84"
+	},
+	{
+	  "itemNumber": 68061200,
+	  "amountPerPack": 2,
+	  "amount": 5,
+	  "quantityType": "Lb",
+	  "name": "Dole Fruit Diced Strawberries Iqf Chef",
+	  "price": "3.205"
+	},
+	{
+	  "itemNumber": 68509000,
+	  "amountPerPack": 12,
+	  "amount": 32,
+	  "quantityType": "Oz",
+	  "name": "Gregory Juice Orange 3+1 Conc Frozen",
+	  "price": "0.113541667"
+	},
+	{
+	  "itemNumber": 68600600,
+	  "amountPerPack": 72,
+	  "amount": 4,
+	  "quantityType": "Oz",
+	  "name": "Sun Cup Juice Apple Frozen",
+	  "price": "0.068090278"
+	},
+	{
+	  "itemNumber": 68602600,
+	  "amountPerPack": 72,
+	  "amount": 4,
+	  "quantityType": "Oz",
+	  "name": "Sun Cup Juice Orange Frozen",
+	  "price": "0.069930556"
+	},
+	{
+	  "itemNumber": 72001200,
+	  "amountPerPack": 6,
+	  "amount": 2.5,
+	  "quantityType": "Lb",
+	  "name": "Hanover Asparagus Cuts&Tips Frozen Iqf",
+	  "price": "3.172666667"
+	},
+	{
+	  "itemNumber": 72012200,
+	  "amountPerPack": 12,
+	  "amount": 2,
+	  "quantityType": "Lb",
+	  "name": "Hanover Broccoli Spears Baby Iqf Frozen",
+	  "price": "1.368333333"
+	},
+	{
+	  "itemNumber": 72013200,
+	  "amountPerPack": 12,
+	  "amount": 2,
+	  "quantityType": "Lb",
+	  "name": "Hanover Brussels Sprouts Frozen Iqf",
+	  "price": "1.807916667"
+	},
+	{
+	  "itemNumber": 72024200,
+	  "amountPerPack": 12,
+	  "amount": 2,
+	  "quantityType": "Lb",
+	  "name": "Packer Corn Cut Yellow Sw(12/2lb)",
+	  "price": "0.9725"
+	},
+	{
+	  "itemNumber": 72038000,
+	  "amountPerPack": 12,
+	  "amount": 2.5,
+	  "quantityType": "Lb",
+	  "name": "Hanover Beans Lima Baby Frozen",
+	  "price": "1.740666667"
+	},
+	{
+	  "itemNumber": 72046500,
+	  "amountPerPack": 12,
+	  "amount": 2,
+	  "quantityType": "Lb",
+	  "name": "Simplot Fajita Blend Pepper&Onion - Frozen",
+	  "price": "1.899583333"
+	},
+	{
+	  "itemNumber": 72047500,
+	  "amountPerPack": 12,
+	  "amount": 2,
+	  "quantityType": "Lb",
+	  "name": "Cornerst California Normandy Blend",
+	  "price": "1.333333333"
+	},
+	{
+	  "itemNumber": 72058000,
+	  "amountPerPack": 12,
+	  "amount": 2.5,
+	  "quantityType": "Lb",
+	  "name": "Simplot Peas Green - Frozen",
+	  "price": "1.525"
+	},
+	{
+	  "itemNumber": 72061100,
+	  "amountPerPack": 12,
+	  "amount": 2.5,
+	  "quantityType": "Lb",
+	  "name": "Hanover Peas & Pearl Onions Frozen Iqf",
+	  "price": "1.489"
+	},
+	{
+	  "itemNumber": 72063000,
+	  "amountPerPack": 12,
+	  "amount": 3,
+	  "quantityType": "Lb",
+	  "name": "Packer Spinach Cut Leaf Iqf Frozen",
+	  "price": "1.712222222"
+	},
+	{
+	  "itemNumber": 72207000,
+	  "amountPerPack": 1,
+	  "amount": 20,
+	  "quantityType": "Lb",
+	  "name": "Packer Corn Cut Frozen",
+	  "price": "1.393"
+	},
+	{
+	  "itemNumber": 72221000,
+	  "amountPerPack": 1,
+	  "amount": 20,
+	  "quantityType": "Lb",
+	  "name": "Simplot Peas Green 20 Lb - Frozen",
+	  "price": "1.4845"
+	},
+	{
+	  "itemNumber": 72228000,
+	  "amountPerPack": 1,
+	  "amount": 20,
+	  "quantityType": "Lb",
+	  "name": "Packer California Blend",
+	  "price": "1.2885"
+	},
+	{
+	  "itemNumber": 72411200,
+	  "amountPerPack": 6,
+	  "amount": 3,
+	  "quantityType": "Lb",
+	  "name": "Simplot Potato Freezer Fridge Shreds",
+	  "price": "1.322222222"
+	},
+	{
+	  "itemNumber": 72411400,
+	  "amountPerPack": 4,
+	  "amount": 5,
+	  "quantityType": "Lb",
+	  "name": "Simplot Potato Cubes Freezer Fridge",
+	  "price": "2.0345"
+	},
+	{
+	  "itemNumber": 72454500,
+	  "amountPerPack": 6,
+	  "amount": 5,
+	  "quantityType": "Lb",
+	  "name": "Simplot Fries Season Crisp Savory Wedge 10",
+	  "price": "2.094"
+	},
+	{
+	  "itemNumber": 81031200,
+	  "amountPerPack": 2,
+	  "amount": 6,
+	  "quantityType": "Lb",
+	  "name": "Kunzler Hotdog Beef Deli 5/1",
+	  "price": "4.27"
+	},
+	{
+	  "itemNumber": 81055000,
+	  "amountPerPack": 2,
+	  "amount": 15,
+	  "quantityType": "Lb",
+	  "name": "Smithfiel Ham Round Smoked Xtra Lean",
+	  "price": "4.2"
+	},
+	{
+	  "itemNumber": 81067200,
+	  "amountPerPack": 2,
+	  "amount": 8,
+	  "quantityType": "Lb",
+	  "name": "Kunzler Ham Black Forest Honey Bnls",
+	  "price": "5.35"
+	},
+	{
+	  "itemNumber": 81082500,
+	  "amountPerPack": 6,
+	  "amount": 2.5,
+	  "quantityType": "Lb",
+	  "name": "Thomas Ham Center Country Slices *Cs",
+	  "price": "6.23"
+	},
+	{
+	  "itemNumber": 81260000,
+	  "amountPerPack": 6,
+	  "amount": 2,
+	  "quantityType": "Lb",
+	  "name": "Hormel Sliced Ham Cooked 4x6",
+	  "price": "5.908333333"
+	},
+	{
+	  "itemNumber": 81260200,
+	  "amountPerPack": 6,
+	  "amount": 2,
+	  "quantityType": "Lb",
+	  "name": "Hormel Sliced Turkey Breast *Use 81260205",
+	  "price": "8.078333333"
+	},
+	{
+	  "itemNumber": 81260400,
+	  "amountPerPack": 6,
+	  "amount": 2,
+	  "quantityType": "Lb",
+	  "name": "Hormel Sliced Roast Beef 1/2 Oz Cn",
+	  "price": "8.591666667"
+	},
+	{
+	  "itemNumber": 81275400,
+	  "amountPerPack": 4,
+	  "amount": 3,
+	  "quantityType": "Lb",
+	  "name": "Hormel Pepperoni Turkey Frozen",
+	  "price": "8.184166667"
+	},
+	{
+	  "itemNumber": 81276500,
+	  "amountPerPack": 2,
+	  "amount": 5,
+	  "quantityType": "Lb",
+	  "name": "Hormel Pepperoni Sliced - Frozen",
+	  "price": "4.49"
+	},
+	{
+	  "itemNumber": 81593000,
+	  "amountPerPack": 6,
+	  "amount": 16,
+	  "quantityType": "Oz",
+	  "name": "Packer Bacon Bits Real",
+	  "price": "0.799895833"
+	},
+	{
+	  "itemNumber": 81597000,
+	  "amountPerPack": 2,
+	  "amount": 5,
+	  "quantityType": "Lb",
+	  "name": "Hormel Bacon Pieces Diced 3/8in - Ref",
+	  "price": "8.715"
+	},
+	{
+	  "itemNumber": 81601000,
+	  "amountPerPack": 1,
+	  "amount": 10,
+	  "quantityType": "Lb",
+	  "name": "Kunzler Bacon Slab Sliced - Fresh",
+	  "price": "4.864"
+	},
+	{
+	  "itemNumber": 81605400,
+	  "amountPerPack": 1,
+	  "amount": 10,
+	  "quantityType": "Lb",
+	  "name": "Larry's Sausage Bulk Loose",
+	  "price": "3.318"
+	},
+	{
+	  "itemNumber": 81630600,
+	  "amountPerPack": 2,
+	  "amount": 5,
+	  "quantityType": "Lb",
+	  "name": "Kunzler Sausage Ragin Cajun Hot Half",
+	  "price": "3.916"
+	},
+	{
+	  "itemNumber": 81634100,
+	  "amountPerPack": 107,
+	  "amount": 1.5,
+	  "quantityType": "Oz",
+	  "name": "Jones Sausage Patty - Mild Fc",
+	  "price": "0.199501558"
+	},
+	{
+	  "itemNumber": 87346000,
+	  "amountPerPack": 4,
+	  "amount": 5,
+	  "quantityType": "Lb",
+	  "name": "Rest.Pride Cheese Cheddar Monterey Jack",
+	  "price": "3.489"
+	},
+	{
+	  "itemNumber": 87348000,
+	  "amountPerPack": 4,
+	  "amount": 5,
+	  "quantityType": "Lb",
+	  "name": "Rest.Pride Cheese Mild Cheddar Feather",
+	  "price": "2.9285"
+	},
+	{
+	  "itemNumber": 87349200,
+	  "amountPerPack": 4,
+	  "amount": 5,
+	  "quantityType": "Lb",
+	  "name": "Great Cheese Mozzarella Feather Shred",
+	  "price": "3.1585"
+	},
+	{
+	  "itemNumber": 87352400,
+	  "amountPerPack": 10,
+	  "amount": 3,
+	  "quantityType": "Lb",
+	  "name": "Rest.Pride Cheese Cream Loaf - Ref",
+	  "price": "2.753"
+	},
+	{
+	  "itemNumber": 87354400,
+	  "amountPerPack": 100,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Philadelp Cheese *Temp/Ua* Cream Pouches",
+	  "price": "0.2739"
+	},
+	{
+	  "itemNumber": 87410200,
+	  "amountPerPack": 30,
+	  "amount": 1,
+	  "quantityType": "Lb",
+	  "name": "Bluebonn Margarine",
+	  "price": "1.192"
+	},
+	{
+	  "itemNumber": 87410400,
+	  "amountPerPack": 30,
+	  "amount": 1,
+	  "quantityType": "Lb",
+	  "name": "Ventura Margarine Solids",
+	  "price": "1.274"
+	},
+	{
+	  "itemNumber": 87420600,
+	  "amountPerPack": 36,
+	  "amount": 1,
+	  "quantityType": "Lb",
+	  "name": "Grassland Salted Butter Solids",
+	  "price": "4.012222222"
+	},
+	{
+	  "itemNumber": 87421800,
+	  "amountPerPack": 1,
+	  "amount": 17,
+	  "quantityType": "Lb",
+	  "name": "Grassland Butter Chips Continental 59 Cut Aa",
+	  "price": "5.295294118"
+	},
+	{
+	  "itemNumber": 87431700,
+	  "amountPerPack": 384,
+	  "amount": 0.375,
+	  "quantityType": "Oz",
+	  "name": "Int.Deligh Creamer Non Dairy Original",
+	  "price": "0.113125"
+	},
+	{
+	  "itemNumber": 87433000,
+	  "amountPerPack": 4,
+	  "amount": 5,
+	  "quantityType": "Lb",
+	  "name": "Hood Cheese % Cottage Small Curd Ref",
+	  "price": "2.079"
+	},
+	{
+	  "itemNumber": 87433300,
+	  "amountPerPack": 100,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Daisy Sour Cream Packets Ref",
+	  "price": "0.1419"
+	},
+	{
+	  "itemNumber": 87433400,
+	  "amountPerPack": 4,
+	  "amount": 5,
+	  "quantityType": "Lb",
+	  "name": "Daisy Sour Cream Tubs",
+	  "price": "1.669"
+	},
+	{
+	  "itemNumber": 87440200,
+	  "amountPerPack": 2,
+	  "amount": 2.5,
+	  "quantityType": "Gal",
+	  "name": "Packer Mix Vanilla Ice Cream 10% Soft",
+	  "price": "15.478"
+	},
+	{
+	  "itemNumber": 87441200,
+	  "amountPerPack": 2,
+	  "amount": 2.5,
+	  "quantityType": "Gal",
+	  "name": "Dean Mix Chocolate Ice Cream 10% Soft",
+	  "price": "15.29"
+	},
+	{
+	  "itemNumber": 87450200,
+	  "amountPerPack": 48,
+	  "amount": 4,
+	  "quantityType": "Oz",
+	  "name": "Upstate Yogurt Cherry Vanilla Non-Fat",
+	  "price": "0.114427083"
+	},
+	{
+	  "itemNumber": 87450400,
+	  "amountPerPack": 48,
+	  "amount": 4,
+	  "quantityType": "Oz",
+	  "name": "Upstate Yogurt Peach Non-Fat",
+	  "price": "0.114427083"
+	},
+	{
+	  "itemNumber": 87450600,
+	  "amountPerPack": 48,
+	  "amount": 4,
+	  "quantityType": "Oz",
+	  "name": "Upstate Yogurt Raspberry Non-Fat",
+	  "price": "0.114427083"
+	},
+	{
+	  "itemNumber": 87450800,
+	  "amountPerPack": 48,
+	  "amount": 4,
+	  "quantityType": "Oz",
+	  "name": "Upstate Yogurt Strawberry Non-Fat",
+	  "price": "0.114427083"
+	},
+	{
+	  "itemNumber": 87451000,
+	  "amountPerPack": 48,
+	  "amount": 4,
+	  "quantityType": "Oz",
+	  "name": "Upstate Yogurt Strawberry Banana Non-",
+	  "price": "0.114427083"
+	},
+	{
+	  "itemNumber": 87501000,
+	  "amountPerPack": 12,
+	  "amount": 8,
+	  "quantityType": "Oz",
+	  "name": "Hood Milk Whole 1/2 Pint Ultra",
+	  "price": "0.096145833"
+	},
+	{
+	  "itemNumber": 87610200,
+	  "amountPerPack": 1,
+	  "amount": 360,
+	  "quantityType": "Ea",
+	  "name": "Rest.Pride Eggs Medium 30dz Loose Fresh",
+	  "price": "0.15472"
+	},
+	{
+	  "itemNumber": 87610400,
+	  "amountPerPack": 1,
+	  "amount": 180,
+	  "quantityType": "Ea",
+	  "name": "Rest.Pride Eggs X-Large 15dz Loose Fresh",
+	  "price": "0.3033"
+	},
+	{
+	  "itemNumber": 87610600,
+	  "amountPerPack": 1,
+	  "amount": 360,
+	  "quantityType": "Ea",
+	  "name": "Rest.Pride Eggs X-Large 30dz Loose Fresh",
+	  "price": "0.28103"
+	},
+	{
+	  "itemNumber": 90002000,
+	  "amountPerPack": 15,
+	  "amount": 1,
+	  "quantityType": "Ct",
+	  "name": "Packer Cabbage Box",
+	  "price": "1.454"
+	},
+	{
+	  "itemNumber": 90006000,
+	  "amountPerPack": 15,
+	  "amount": 1,
+	  "quantityType": "Ct",
+	  "name": "Packer Cabbage Red Apx 50# Produce",
+	  "price": "1.949333333"
+	},
+	{
+	  "itemNumber": 90010000,
+	  "amountPerPack": 48,
+	  "amount": 1,
+	  "quantityType": "Lb",
+	  "name": "Packer Carrots Retail Bag",
+	  "price": "1.235208333"
+	},
+	{
+	  "itemNumber": 90014000,
+	  "amountPerPack": 30,
+	  "amount": 1,
+	  "quantityType": "Lb",
+	  "name": "Grimmwa Carrots Baby Whole Peeled",
+	  "price": "1.45"
+	},
+	{
+	  "itemNumber": 90018000,
+	  "amountPerPack": 30,
+	  "amount": 1,
+	  "quantityType": "Ct",
+	  "name": "Packer Celery 30 Ct Produce",
+	  "price": "1.430333333"
+	},
+	{
+	  "itemNumber": 90030000,
+	  "amountPerPack": 24,
+	  "amount": 3,
+	  "quantityType": "Ct",
+	  "name": "Packer Cucumbers Super Select 72ct",
+	  "price": "0.670694444"
+	},
+	{
+	  "itemNumber": 90040000,
+	  "amountPerPack": 24,
+	  "amount": 1,
+	  "quantityType": "Ct",
+	  "name": "Packer Lettuce Iceberg 24 Ct",
+	  "price": "1.2775"
+	},
+	{
+	  "itemNumber": 90046500,
+	  "amountPerPack": 20,
+	  "amount": 3,
+	  "quantityType": "Ct",
+	  "name": "Packer Onions White Lg Appx 50# Produce",
+	  "price": "0.8535"
+	},
+	{
+	  "itemNumber": 90054000,
+	  "amountPerPack": 10,
+	  "amount": 3,
+	  "quantityType": "Ct",
+	  "name": "Packer Onions Red Approx 25# Produce",
+	  "price": "1.458666667"
+	},
+	{
+	  "itemNumber": 90058000,
+	  "amountPerPack": 18,
+	  "amount": 3,
+	  "quantityType": "Ct",
+	  "name": "Packer Peppers Green",
+	  "price": "0.598703704"
+	},
+	{
+	  "itemNumber": 90061000,
+	  "amountPerPack": 10,
+	  "amount": 3,
+	  "quantityType": "Ct",
+	  "name": "Packer Peppers Red Appx 11#",
+	  "price": "1.417"
+	},
+	{
+	  "itemNumber": 90082000,
+	  "amountPerPack": 30,
+	  "amount": 6,
+	  "quantityType": "Oz",
+	  "name": "Packer Radishes",
+	  "price": "0.1365"
+	},
+	{
+	  "itemNumber": 90086500,
+	  "amountPerPack": 24,
+	  "amount": 1,
+	  "quantityType": "Ct",
+	  "name": "Packer Romaine Loose",
+	  "price": "1.559583333"
+	},
+	{
+	  "itemNumber": 90090000,
+	  "amountPerPack": 1,
+	  "amount": 10,
+	  "quantityType": "Lb",
+	  "name": "Packer Tomatoes 5x6 10 Lb Produce",
+	  "price": "1.749"
+	},
+	{
+	  "itemNumber": 90092000,
+	  "amountPerPack": 1,
+	  "amount": 25,
+	  "quantityType": "Lb",
+	  "name": "Packer Tomatoes 5x6 Xlg",
+	  "price": "1.048"
+	},
+	{
+	  "itemNumber": 90703000,
+	  "amountPerPack": 14,
+	  "amount": 1,
+	  "quantityType": "Ct",
+	  "name": "Mann's Broccoli W/Stems Produce",
+	  "price": "2.004285714"
+	},
+	{
+	  "itemNumber": 90703500,
+	  "amountPerPack": 12,
+	  "amount": 3,
+	  "quantityType": "Ct",
+	  "name": "Packer Broccoli Crowns 20 Lb",
+	  "price": "0.866944444"
+	},
+	{
+	  "itemNumber": 90710010,
+	  "amountPerPack": 48,
+	  "amount": 1,
+	  "quantityType": "Ct",
+	  "name": "Packer Onions Green Spring",
+	  "price": "0.753958333"
+	},
+	{
+	  "itemNumber": 90726200,
+	  "amountPerPack": 1,
+	  "amount": 50,
+	  "quantityType": "Lb",
+	  "name": "Packer Potatoes Red 'A'",
+	  "price": "0.6002"
+	},
+	{
+	  "itemNumber": 91000000,
+	  "amountPerPack": 4,
+	  "amount": 3,
+	  "quantityType": "Lb",
+	  "name": "Packer Broccoli Florets Produce",
+	  "price": "3.295"
+	},
+	{
+	  "itemNumber": 91003000,
+	  "amountPerPack": 12,
+	  "amount": 10,
+	  "quantityType": "Oz",
+	  "name": "Packer Carrots Shredded 1/16'",
+	  "price": "0.1785"
+	},
+	{
+	  "itemNumber": 91007100,
+	  "amountPerPack": 4,
+	  "amount": 5,
+	  "quantityType": "Lb",
+	  "name": "Taylor Lettuce Shredded",
+	  "price": "1.39"
+	},
+	{
+	  "itemNumber": 59147,
+	  "amountPerPack": 12,
+	  "amount": 24,
+	  "quantityType": "Ea",
+	  "name": "La Banderita Tortilla Flour 6in Pressed Shelf Stable",
+	  "price": "0.080625"
+	},
+	{
+	  "itemNumber": 2005569,
+	  "amountPerPack": 6,
+	  "amount": 16,
+	  "quantityType": "Oz",
+	  "name": "Lays Chip Potato Regular",
+	  "price": "0.215416667"
+	},
+	{
+	  "itemNumber": 416354,
+	  "amountPerPack": 6,
+	  "amount": 16,
+	  "quantityType": "Oz",
+	  "name": "Rold Gold Pretzel Twist Classic Tiny",
+	  "price": "0.1440625"
+	},
+	{
+	  "itemNumber": 4432837,
+	  "amountPerPack": 1,
+	  "amount": 10,
+	  "quantityType": "Lb",
+	  "name": "Keebler Cracker Graham Rectangle Sleeve Original",
+	  "price": "3.178"
+	},
+	{
+	  "itemNumber": 7939879,
+	  "amountPerPack": 6,
+	  "amount": 13,
+	  "quantityType": "Oz",
+	  "name": "Monarch Cookie Vanilla Wafer Bag Shelf Stable",
+	  "price": "None"
+	},
+	{
+	  "itemNumber": 5002274,
+	  "amountPerPack": 1,
+	  "amount": 25,
+	  "quantityType": "Lb",
+	  "name": "Domino Sugar White Extra Fine Cane",
+	  "price": "0.94"
+	},
+	{
+	  "itemNumber": 5463237,
+	  "amountPerPack": 1,
+	  "amount": 50,
+	  "quantityType": "Lb",
+	  "name": "Domino Sugar Powdered Confectioner 10x Cane",
+	  "price": "0.9704"
+	},
+	{
+	  "itemNumber": 700575,
+	  "amountPerPack": 720,
+	  "amount": 5,
+	  "quantityType": "Gr",
+	  "name": "Glenview Farms Butter Whipped Salted Ss Cup Ref",
+	  "price": "0.01195"
+	},
+	{
+	  "itemNumber": 7775421,
+	  "amountPerPack": 30,
+	  "amount": 1,
+	  "quantityType": "Lb",
+	  "name": "Glenview Farms Margarine Salted Solid Iw Ref",
+	  "price": "1.232"
+	},
+	{
+	  "itemNumber": 4247565,
+	  "amountPerPack": 4,
+	  "amount": 5,
+	  "quantityType": "Lb",
+	  "name": "Great Lakes Cheese Cheese Cheddar Mild Shred Feather Bag Yellow Ref",
+	  "price": "3.0445"
+	},
+	{
+	  "itemNumber": 1735885,
+	  "amountPerPack": 1,
+	  "amount": 32,
+	  "quantityType": "Lb",
+	  "name": "Glenview Farms Sour Cream Cultured Pail Ref",
+	  "price": "2.0428125"
+	},
+	{
+	  "itemNumber": 8328106,
+	  "amountPerPack": 6,
+	  "amount": 113,
+	  "quantityType": "Oz",
+	  "name": "Monarch-D Peach Sliced In Water Canned Yellow Cling",
+	  "price": "0.09359882"
+	},
+	{
+	  "itemNumber": 4885180,
+	  "amountPerPack": 6,
+	  "amount": 113,
+	  "quantityType": "Oz",
+	  "name": "Sunsweet Growers Prune Whole Stewed Pitted In Water 160-180 Count Canned",
+	  "price": "0.145929204"
+	},
+	{
+	  "itemNumber": 9327651,
+	  "amountPerPack": 2,
+	  "amount": 10,
+	  "quantityType": "Lb",
+	  "name": "Roseli Pasta Macaroni Elbow Heavy Wall Shelf Stable",
+	  "price": "1.417"
+	},
+	{
+	  "itemNumber": 6028831,
+	  "amountPerPack": 1,
+	  "amount": 20,
+	  "quantityType": "Lb",
+	  "name": "Uncle Ben's Rice Wild Blend Natural",
+	  "price": "2.7695"
+	},
+	{
+	  "itemNumber": 3327780,
+	  "amountPerPack": 20,
+	  "amount": 1,
+	  "quantityType": "Lb",
+	  "name": "Roseli Pasta Spaghetti 10in Shelf Stable",
+	  "price": "1.4565"
+	},
+	{
+	  "itemNumber": 2911441,
+	  "amountPerPack": 1,
+	  "amount": 15,
+	  "quantityType": "Lb",
+	  "name": "Patuxent Farms Bacon Pork 14-18 Count Sliced Laid Out Maplewood Smoked Uncured Natural Ra",
+	  "price": "6.152666667"
+	},
+	{
+	  "itemNumber": 8328569,
+	  "amountPerPack": 1,
+	  "amount": 10,
+	  "quantityType": "Lb",
+	  "name": "Patuxent Farms Sausage Pork Patty 1.5 Oz 3in Cooked Frozen 2-Diamond Breakfast",
+	  "price": "3.444"
+	},
+	{
+	  "itemNumber": 9328824,
+	  "amountPerPack": 6,
+	  "amount": 113,
+	  "quantityType": "Oz",
+	  "name": "Harvest Value Filling Cherry Pie Rtu Can Shelf Stable",
+	  "price": "0.136415929"
+	},
+	{
+	  "itemNumber": 4001947,
+	  "amountPerPack": 12,
+	  "amount": 50,
+	  "quantityType": "Oz",
+	  "name": "Campbell's Soup Chicken Cream Shelf Stable",
+	  "price": "0.079116667"
+	},
+	{
+	  "itemNumber": 7001951,
+	  "amountPerPack": 12,
+	  "amount": 50,
+	  "quantityType": "Oz",
+	  "name": "Campbell's Soup Mushroom Cream Canned Shelf Stable",
+	  "price": "0.084283333"
+	},
+	{
+	  "itemNumber": 8355281,
+	  "amountPerPack": 1,
+	  "amount": 20,
+	  "quantityType": "Lb",
+	  "name": "Cross Valley Farms Broccoli Crown Iceless Box Fresh Ref",
+	  "price": "2.058"
+	},
+	{
+	  "itemNumber": 4342010,
+	  "amountPerPack": 4,
+	  "amount": 5,
+	  "quantityType": "Lb",
+	  "name": "Cross Valley Farms Carrot Matchstick Shred Fresh Ref",
+	  "price": "1.3535"
+	},
+	{
+	  "itemNumber": 9328261,
+	  "amountPerPack": 12,
+	  "amount": 2.5,
+	  "quantityType": "Lb",
+	  "name": "Monarch Corn Kernel Yellow Fancy Frozen",
+	  "price": "1.400666667"
+	},
+	{
+	  "itemNumber": 5326418,
+	  "amountPerPack": 1,
+	  "amount": 24,
+	  "quantityType": "Ea",
+	  "name": "Cross Valley Farms Lettuce Romaine Fresh Ref",
+	  "price": "2.32375"
+	},
+	{
+	  "itemNumber": 2326411,
+	  "amountPerPack": 1,
+	  "amount": 24,
+	  "quantityType": "Ea",
+	  "name": "Cross Valley Farms Lettuce Iceberg Fresh Ref",
+	  "price": "2.212916667"
+	},
+	{
+	  "itemNumber": 8326696,
+	  "amountPerPack": 1,
+	  "amount": 50,
+	  "quantityType": "Lb",
+	  "name": "Cross Valley Farms Onion Yellow Jumbo 3in+ Bag Fresh Ref",
+	  "price": "1.028"
+	},
+	{
+	  "itemNumber": 4732525,
+	  "amountPerPack": 1,
+	  "amount": 25,
+	  "quantityType": "Lb",
+	  "name": "Cross Valley Farms Tomato Plum Medium #1 Grade Bulk Fresh Ref Roma",
+	  "price": "1.1156"
+	},
+	{
+	  "itemNumber": 8117632,
+	  "amountPerPack": 96,
+	  "amount": 4,
+	  "quantityType": "Oz",
+	  "name": "Ardmore Farms Juice Orange 100% Ss Plastic Cup Frozen",
+	  "price": "0.05625"
+	},
+	{
+	  "itemNumber": 1117647,
+	  "amountPerPack": 96,
+	  "amount": 4,
+	  "quantityType": "Oz",
+	  "name": "Ardmore Farms Juice Apple 100% Ss Cup Frozen",
+	  "price": "0.046145833"
+	},
+	{
+	  "itemNumber": 11197,
+	  "amountPerPack": 100,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Philadelphia Cheese Cream Plain Spread Ss Plastic Cup Ref",
+	  "price": "0.3384"
+	},
+	{
+	  "itemNumber": 8227670,
+	  "amountPerPack": 6,
+	  "amount": 2,
+	  "quantityType": "Lb",
+	  "name": "Hormel Ham Sliced .5 Oz Water-Added Buffet Cooked Ref Pork",
+	  "price": "4.799166667"
+	},
+	{
+	  "itemNumber": 8340770,
+	  "amountPerPack": 4,
+	  "amount": 5,
+	  "quantityType": "Lb",
+	  "name": "Glenview Farms Cheese American White Sliced 160 Count Processed Plastic Wrapped Ref",
+	  "price": "3.275"
+	},
+	{
+	  "itemNumber": 8117129,
+	  "amountPerPack": 12,
+	  "amount": 1,
+	  "quantityType": "Lb",
+	  "name": "Jennie-O Turkey Store Turkey Breast Sliced .5 Oz Skinless Cooked Frozen",
+	  "price": "3.353333333"
+	},
+	{
+	  "itemNumber": 7058803,
+	  "amountPerPack": 6,
+	  "amount": 113,
+	  "quantityType": "Oz",
+	  "name": "Alta Cucina Tomato Whole Plum W/ Basil In Juice Peeled Canned Roma",
+	  "price": "0.042433628"
+	},
+	{
+	  "itemNumber": 4217519,
+	  "amountPerPack": 4,
+	  "amount": 5,
+	  "quantityType": "Lb",
+	  "name": "Glenview Farms Cheese Monterey Jack Shred Feather Bag Ref",
+	  "price": "3.1865"
+	},
+	{
+	  "itemNumber": 4411450,
+	  "amountPerPack": 6,
+	  "amount": 36,
+	  "quantityType": "Oz",
+	  "name": "Monarch Rice Spanish Parboiled",
+	  "price": "0.1325"
+	},
+	{
+	  "itemNumber": 9326430,
+	  "amountPerPack": 4,
+	  "amount": 1,
+	  "quantityType": "Lb",
+	  "name": "Cross Valley Farms Cilantro Washed & Trimmed Fresh Herb",
+	  "price": "5.34"
+	},
+	{
+	  "itemNumber": 1328269,
+	  "amountPerPack": 12,
+	  "amount": 2,
+	  "quantityType": "Lb",
+	  "name": "Monarch Bean Green Italian Cut Fancy Imported & Domestic Frozen",
+	  "price": "1.413333333"
+	},
+	{
+	  "itemNumber": 9330994,
+	  "amountPerPack": 6,
+	  "amount": 113,
+	  "quantityType": "Oz",
+	  "name": "Monarch Filling Blueberry Pie Rtu Can Shelf Stable",
+	  "price": "0.119941003"
+	},
+	{
+	  "itemNumber": 5635602,
+	  "amountPerPack": 18,
+	  "amount": 3.2,
+	  "quantityType": "Oz",
+	  "name": "Hidden Valley Mix Dressing Ranch Original 1 Gal Yield Pouch",
+	  "price": "0.697569444"
+	},
+	{
+	  "itemNumber": 9512120,
+	  "amountPerPack": 1,
+	  "amount": 80,
+	  "quantityType": "Rl",
+	  "name": "Scott Paper Tissue Toilet Std Roll 4.1inx188' 550 Sheet 2 Ply White Soft Blend",
+	  "price": "0.83275"
+	},
+	{
+	  "itemNumber": 6696848,
+	  "amountPerPack": 6,
+	  "amount": 1,
+	  "quantityType": "Ga",
+	  "name": "Monogram Bleach Disinfectant Liquid Jug Clear",
+	  "price": "4.106666667"
+	},
+	{
+	  "itemNumber": 9997750,
+	  "amountPerPack": 1,
+	  "amount": 1,
+	  "quantityType": "Rl",
+	  "name": "Western Plastics Foil Aluminum 18inx500' Standard Roll Cutter Box Wrap",
+	  "price": "28.11"
+	},
+	{
+	  "itemNumber": 4836169,
+	  "amountPerPack": 1,
+	  "amount": 1,
+	  "quantityType": "Rl",
+	  "name": "Monogram Film 18inx2000' Plastic Roll Cutter Box Food Wrap",
+	  "price": "21.35"
+	},
+	{
+	  "itemNumber": 2002046,
+	  "amountPerPack": 40,
+	  "amount": 25,
+	  "quantityType": "Ea",
+	  "name": "Dart Cup Foam 16 Oz White",
+	  "price": "0.07617"
+	},
+	{
+	  "itemNumber": 9122441,
+	  "amountPerPack": 40,
+	  "amount": 25,
+	  "quantityType": "Ea",
+	  "name": "Dart Cup Foam 8 Oz White",
+	  "price": "0.03174"
+	},
+	{
+	  "itemNumber": 8648131,
+	  "amountPerPack": 12,
+	  "amount": 500,
+	  "quantityType": "Ea",
+	  "name": "Monogram Napkin Luncheon White 13x11.25 1 Ply 1/4 Fold Paper",
+	  "price": "0.008105"
+	},
+	{
+	  "itemNumber": 4176376,
+	  "amountPerPack": 16,
+	  "amount": 125,
+	  "quantityType": "Ea",
+	  "name": "Pacific Blue Select Towel Paper 9.25x9.5 Multifold Embossed White 2 Ply",
+	  "price": "0.01677"
+	},
+	{
+	  "itemNumber": 4935367,
+	  "amountPerPack": 1,
+	  "amount": 1000,
+	  "quantityType": "Ea",
+	  "name": "Dixie Foodservice Fork Heavyweight Black Polystyrene Wrapped Plastic",
+	  "price": "0.05372"
+	},
+	{
+	  "itemNumber": 4934535,
+	  "amountPerPack": 1,
+	  "amount": 1000,
+	  "quantityType": "Ea",
+	  "name": "Dixie Foodservice Spoon Tea Mediumweight Black Polystyrene Bulk Plastic",
+	  "price": "0.02616"
+	},
+	{
+	  "itemNumber": 4936118,
+	  "amountPerPack": 1,
+	  "amount": 1000,
+	  "quantityType": "Ea",
+	  "name": "Dixie Foodservice Knife Heavy-Mediumweight Black Polystyrene Bulk Plastic",
+	  "price": "0.02276"
+	},
+	{
+	  "itemNumber": 9258807,
+	  "amountPerPack": 1,
+	  "amount": 200,
+	  "quantityType": "Ea",
+	  "name": "Monogram Liner 55 Gal 36x60 Translucent 13 Micron Flat Pack High Density Can",
+	  "price": "0.2455"
+	},
+	{
+	  "itemNumber": 8329153,
+	  "amountPerPack": 1,
+	  "amount": 100,
+	  "quantityType": "Ea",
+	  "name": "Monogram Liner 55 Gal 36x58 Black 1.2 Mil Flat Pack Linear Low Density Can",
+	  "price": "0.4583"
+	},
+	{
+	  "itemNumber": 3364635,
+	  "amountPerPack": 1,
+	  "amount": 25,
+	  "quantityType": "Ea",
+	  "name": "Monogram Liner 33 Gal 33x39 Clear .5 Mil Roll Linear Low Density Can",
+	  "price": "1.476"
+	},
+	{
+	  "itemNumber": 7853146,
+	  "amountPerPack": 4,
+	  "amount": 125,
+	  "quantityType": "Ea",
+	  "name": "Monogram Plate Molded Fiber 10in Natural Round Compostable Unbleached Paper",
+	  "price": "0.15936"
+	},
+	{
+	  "itemNumber": 4005245,
+	  "amountPerPack": 20,
+	  "amount": 25,
+	  "quantityType": "Ea",
+	  "name": "Dart Container Foam 12 Oz Squat White",
+	  "price": "0.10538"
+	},
+	{
+	  "itemNumber": 791558,
+	  "amountPerPack": 25,
+	  "amount": 40,
+	  "quantityType": "Ea",
+	  "name": "Monogram Container Foam 4 Oz Squat White",
+	  "price": "0.03762"
+	},
+	{
+	  "itemNumber": 9329327,
+	  "amountPerPack": 3,
+	  "amount": 1000,
+	  "quantityType": "Ea",
+	  "name": "Monarch Salt .5 Gr Ss 2 Flute Iodized",
+	  "price": "0.00302"
+	},
+	{
+	  "itemNumber": 3329323,
+	  "amountPerPack": 3,
+	  "amount": 1000,
+	  "quantityType": "Ea",
+	  "name": "Monarch Spice Pepper Black .1 Gr Ss 2 Flute",
+	  "price": "0.0056"
+	},
+	{
+	  "itemNumber": 185363,
+	  "amountPerPack": 32,
+	  "amount": 4,
+	  "quantityType": "Oz",
+	  "name": "Rituals Tea Bag Iced Black Orange Pekoe Caffeinated 4 Gal Yield Foil Pouch W/ Filt",
+	  "price": "0.319453125"
+	},
+	{
+	  "itemNumber": 2949182,
+	  "amountPerPack": 1,
+	  "amount": 100,
+	  "quantityType": "Ea",
+	  "name": "Monogram Kit Cutlery K-F-S Nap Salt-&-Pepper Plastic White Compostable",
+	  "price": "0.3322"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 128,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Dairy - Milk - Whole",
+	  "price": "0.023984375"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 16,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Spice - Black Pepper",
+	  "price": "0.666667"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 5,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Spice - Whole Oregano",
+	  "price": "0.698"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 1,
+	  "amount": 2,
+	  "quantityType": "Bags",
+	  "name": "Chips - Doritos/Nacho",
+	  "price": "3.99"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 30,
+	  "amount": 2,
+	  "quantityType": "Oz",
+	  "name": "Spice - worcestershire sauce",
+	  "price": "0.108166667"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 76.5,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Cereal - Raisin Brand",
+	  "price": "0.11751634"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 70,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Cereal - Mini Wheats",
+	  "price": "0.121285714"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 49.5,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Cereal - Cinnamon Toast",
+	  "price": "0.127070707"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 46,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Cereal - Lucky Charms",
+	  "price": "0.180217391"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 10.8,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Spice - Cinnamon",
+	  "price": "0.462037037"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 33,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Spice - Garlic Salt",
+	  "price": "0.181515152"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 56,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Coffee Mate Powder",
+	  "price": "0.117678571"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 1,
+	  "amount": 1,
+	  "quantityType": "LB",
+	  "name": "Meat - Pork Loin",
+	  "price": "1.89"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 16,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Spice - Cumin",
+	  "price": "0.293125"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 1,
+	  "amount": 1,
+	  "quantityType": "lb",
+	  "name": "Fruit - Strawberries fresh",
+	  "price": "2.99"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 24,
+	  "amount": 1,
+	  "quantityType": "ea",
+	  "name": "Cookies - Oatmeal Raisin / Choc Chip",
+	  "price": "0.332916667"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 24,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Bread - Regular Bread",
+	  "price": "2.15"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 16,
+	  "amount": 1,
+	  "quantityType": "Ea.",
+	  "name": "Bread - butter and egg din rolls",
+	  "price": "2.60"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 6,
+	  "amount": 1,
+	  "quantityType": "Ea.",
+	  "name": "Bread -Sub Rolls 8",
+	  "price": "3"
+	},
+	{
+	  "itemNumber": 4793,
+	  "amountPerPack": 105,
+	  "amount": 1,
+	  "quantityType": "Ea.",
+	  "name": "Condiment - Mustard French's",
+	  "price": "0.051333333"
+	},
+	{
+	  "itemNumber": 389340,
+	  "amountPerPack": 128,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Condiment - Oil",
+	  "price": "0.04671875"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 40,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Condiments - Peanut Butter",
+	  "price": "0.1485"
+	},
+	{
+	  "itemNumber": 32911,
+	  "amountPerPack": 4,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Condiment - Vanilla",
+	  "price": "2.31"
+	},
+	{
+	  "itemNumber": 399318,
+	  "amountPerPack": 48,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Condiments - Choc hersheys syrup",
+	  "price": "0.082916667"
+	},
+	{
+	  "itemNumber": 1377400,
+	  "amountPerPack": 101,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Condiment - Ketchup Fancy",
+	  "price": "0.076039604"
+	},
+	{
+	  "itemNumber": 4445,
+	  "amountPerPack": 96,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Drinks - Coffee",
+	  "price": "0.124791667"
+	},
+	{
+	  "itemNumber": 71003,
+	  "amountPerPack": 26,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Condiment - Olive oil",
+	  "price": "0.210384615"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 128,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Spice - Soy sauce",
+	  "price": "0.08765625"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 64,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Dairy - Butter Milk",
+	  "price": "0.0421875"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 2,
+	  "amount": 1,
+	  "quantityType": "LB",
+	  "name": "Dairy - Cheese-Velveta",
+	  "price": "3.99"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 16,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Chocolate Frosting",
+	  "price": "0.09375"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 200,
+	  "amount": 1,
+	  "quantityType": "Ea.",
+	  "name": "Condiment - Sweetner Splenda",
+	  "price": "0.03485"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 12,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Condiments - Honey",
+	  "price": "0.31"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 15,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Fruit - Mandarin Orange Slices w/Juice",
+	  "price": "0.142666667"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 16,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Condiment - Baking Soda",
+	  "price": "0.045"
+	},
+	{
+	  "itemNumber": 22171900,
+	  "amountPerPack": 1,
+	  "amount": 1,
+	  "quantityType": "LB",
+	  "name": "Mixes - Vanilla Cake Mix",
+	  "price": "1.24"
+	},
+	{
+	  "itemNumber": 10061500,
+	  "amountPerPack": 160,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Sauce - Barbecue bulls eye",
+	  "price": "0.064875"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 26,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Spice - Salt",
+	  "price": "0.7475"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 2.2,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Soup - Lipton beefy Onion instant",
+	  "price": "0.763636364"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 4,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Spice - Kitchen Boquet",
+	  "price": "0.6825"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 16,
+	  "amount": 1,
+	  "quantityType": "Slices",
+	  "name": "Bread - French Loaves",
+	  "price": "0.0625"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 10,
+	  "amount": 1,
+	  "quantityType": "Sleeves",
+	  "name": "Crackers - Ritz (Butter Rounds)",
+	  "price": "0.548"
+	},
+	{
+	  "itemNumber": 993477,
+	  "amountPerPack": 64,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Condiments - Jelly",
+	  "price": "0.18734375"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 18,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Fruit - Blueberries fresh",
+	  "price": "0.228888889"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 32,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Spice - Garlic chopped",
+	  "price": "0.124375"
+	},
+	{
+	  "itemNumber": 90054000,
+	  "amountPerPack": 3,
+	  "amount": 1,
+	  "quantityType": "lb",
+	  "name": "Vegetable - Onions Red",
+	  "price": "0.946666667"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 32,
+	  "amount": 1,
+	  "quantityType": "OZ",
+	  "name": "Vegetable - Jalepeno Slices",
+	  "price": "0.09875"
+	},
+	{
+	  "itemNumber": 20006000,
+	  "amountPerPack": 6,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Mixes - Jell-o Orange Gelatin",
+	  "price": "0.186666667"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 2,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Spice - Orange Extract",
+	  "price": "1.885"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 24,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Condiment - Hot Sauce",
+	  "price": "0.114166667"
+	},
+	{
+	  "itemNumber": 12302000,
+	  "amountPerPack": 14,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Dairy - Milk - Sweetened Condensed",
+	  "price": "0.105714286"
+	},
+	{
+	  "itemNumber": 12302000,
+	  "amountPerPack": 32,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Spices - lemon juice",
+	  "price": "0.093125"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 15,
+	  "amount": 1,
+	  "quantityType": "oz",
+	  "name": "Spices - lime juice",
+	  "price": "0.066666667"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 3.4,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Pudding - Lemon Instant",
+	  "price": "0.364705882"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 14,
+	  "amount": 12,
+	  "quantityType": "oz",
+	  "name": "Cookies - Lemon Snaps",
+	  "price": "0.285595238"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 1500,
+	  "amount": 1,
+	  "quantityType": "ea",
+	  "name": "Condiments - Sweet n Low",
+	  "price": "0.00888"
+	},
+	{
+	  "itemNumber": 10185700,
+	  "amountPerPack": 16,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Condiment - Pickles",
+	  "price": "0.148125"
+	},
+	{
+	  "itemNumber": 40032000,
+	  "amountPerPack": 16,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Condiment - Sugar - Brown",
+	  "price": "0.16125"
+	},
+	{
+	  "itemNumber": 10092500,
+	  "amountPerPack": 32,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Condiment - Cider Vinegar",
+	  "price": "0.07"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 100,
+	  "amount": 1,
+	  "quantityType": "ea",
+	  "name": "Drinks - Hot tea Bags Small",
+	  "price": "0.0899"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 9.5,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Spice - Fajita Seasoning Badia",
+	  "price": "0.518947368"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 4.25,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Spice - Lemon Pepper Great Value",
+	  "price": "0.230588235"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 3.4,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Spice - Garlic Power",
+	  "price": "0.288235294"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 2.7,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Spice - Parsley Flakes",
+	  "price": "2.133333333"
+	},
+	{
+	  "itemNumber": 90018000,
+	  "amountPerPack": 1,
+	  "amount": 1,
+	  "quantityType": "Ea.",
+	  "name": "Vegetable - Celery",
+	  "price": "1.96"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 1.75,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Spice - Dry Mustard",
+	  "price": "2.72"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 4,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Spice - Marjoram",
+	  "price": "2.1175"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 2,
+	  "amount": 1,
+	  "quantityType": "LB",
+	  "name": "Dairy - Butter - Real Butter Salted",
+	  "price": "3.07"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 128,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Dairy - Milk - 2%",
+	  "price": "0.02375"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 1,
+	  "amount": 1,
+	  "quantityType": "LB",
+	  "name": "Fruit - Bananas",
+	  "price": "0.44"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 16,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Condiments - Cocoa Powder",
+	  "price": "0.39"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 4,
+	  "amount": 1,
+	  "quantityType": "Oz",
+	  "name": "Spice - Liquid smoke",
+	  "price": "0.335"
+	},
+	{
+	  "itemNumber": 876991725,
+	  "amountPerPack": 10,
+	  "amount": 2.5,
+	  "quantityType": "LB",
+	  "name": "Bread - Croutons-Classic Seasoned",
+	  "price": "1.0596"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 200,
+	  "amount": 1,
+	  "quantityType": "ea",
+	  "name": "Parmesan Cheese Packets",
+	  "price": "0.07995"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 102,
+	  "amount": 6,
+	  "quantityType": "OZ",
+	  "name": "Condiments - Pam",
+	  "price": "0.053088235"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 1,
+	  "amount": 1,
+	  "quantityType": "LB",
+	  "name": "Meat - Shreded Chicken Breasts",
+	  "price": "3.95"
+	},
+	{
+	  "itemNumber": null,
+	  "amountPerPack": 1,
+	  "amount": 1,
+	  "quantityType": "OZ",
+	  "name": "Milk - Evaporated Carnation",
+	  "price": "0.26"
+	},
+	{
+	  "itemNumber": 7776883,
+	  "amountPerPack": 1,
+	  "amount": 1,
+	  "quantityType": "LB",
+	  "name": "Patuxent Farms Chicken Tenders",
+	  "price": "4.885"
+	},
+	{
+	  "itemNumber": 3332830,
+	  "amountPerPack": 5,
+	  "amount": 4,
+	  "quantityType": "LB",
+	  "name": "Cross Valley Coleslaw Mix",
+	  "price": "0.989"
+	},
+	{
+		"itemNumber": 3352192,
+		"amountPerPack": 72,
+		"amount": 3.5,
+		"quantityType": "OZ",
+		"name": "Hilltop Hearth 8in Hoagie Roll Unsliced",
+		"price": "0.181547619047619"
+	  },
+	  {
+		"itemNumber": 8637470,
+		"amountPerPack": 12,
+		"amount": 12,
+		"quantityType": "OZ",
+		"name": "Cookie Vanilla Wafer Bag",
+		"price": "0.16917"
+	  },
+	  {
+		"itemNumber": 10700,
+		"amountPerPack": 2,
+		"amount": 30,
+		"quantityType": "OZ",
+		"name": "French's Yellow Mustard",
+		"price": "0.09983"
+	  },
+	  {
+		"itemNumber": null,
+		"amountPerPack": 1,
+		"amount": 75,
+		"quantityType": "OZ",
+		"name": "Canned Chicken",
+		"price": "0.19987"
+	  },
+	  {
+		"itemNumber": null,
+		"amountPerPack": 1,
+		"amount": 10,
+		"quantityType": "LB",
+		"name": "Patuxent Farms Diced .5in Chicken",
+		"price": "3.707"
+	  },
+	  {
+		"itemNumber": null,
+		"amountPerPack": 1,
+		"amount": 10,
+		"quantityType": "LB",
+		"name": "Tysons Diced .5in Chicken",
+		"price": "4.217"
+	  },
+	  {
+		"itemNumber": null,
+		"amountPerPack": 1,
+		"amount": 30,
+		"quantityType": "Ea",
+		"name": "Oscar Mayer Meat Franks",
+		"price": "0.233"
+	  },
+	  {
+		"itemNumber": null,
+		"amountPerPack": 1,
+		"amount": 16,
+		"quantityType": "Ea",
+		"name": "Wesley Farms Hot Dog Rolls",
+		"price": "0.180625"
+	  },
+	  {
+		"itemNumber": null,
+		"amountPerPack": 1,
+		"amount": 48,
+		"quantityType": "OZ",
+		"name": "Condiment - Vlasic Sweet Relish",
+		"price": "0.135208"
+	  },
+	  {
+		"itemNumber": null,
+		"amountPerPack": 1,
+		"amount": 552,
+		"quantityType": "OZ",
+		"name": "Sauce - Pace Salsa",
+		"price": "0.11663"
+	  },
+	  {
+		"itemNumber": null,
+		"amountPerPack": 1,
+		"amount": 1,
+		"quantityType": "LB",
+		"name": "Meat - Pork Shoulder",
+		"price": "1.39"
+	  },
+	  {
+		"itemNumber": 1404383,
+		"amountPerPack": 4,
+		"amount": 5,
+		"quantityType": "LB",
+		"name": "Glenview Farms American Sliced Cheese",
+		"price": "3.794"
+	  },
+	  {
+		"itemNumber": null,
+		"amountPerPack": 5,
+		"amount": 12.5,
+		"quantityType": "OZ",
+		"name": "Wellsley Farms Premium Chunk Chicken Breast Can",
+		"price": "0.23984"
+	  },
+	  {
+		"itemNumber": 7277528,
+		"amountPerPack": 4,
+		"amount": 1,
+		"quantityType": "Gal",
+		"name": "Dressing Caesar Classic",
+		"price": "21.335"
+	  },
+	  {
+		"itemNumber": 6342158,
+		"amountPerPack": 4,
+		"amount": 1,
+		"quantityType": "Gal",
+		"name": "Dressing Caesar TFF Traditional",
+		"price": "16.8825"
+	  },
+	  {
+		"itemNumber": 6342158,
+		"amountPerPack": 240,
+		"amount": 1.5,
+		"quantityType": "OZ",
+		"name": "Rich's Dough Roll Dinner Sweet Yeast Raised",
+		"price": "8.9374379"
+	  },
+	  {
+		"itemNumber": null,
+		"amountPerPack": 1,
+		"amount": 5,
+		"quantityType": "LB",
+		"name": "Apples",
+		"price": "5.97"
+	  },
+	  {
+		"itemNumber": 2329670,
+		"amountPerPack": 200,
+		"amount": 0.5,
+		"quantityType": "OZ",
+		"name": "Monarch Assorted Jelly",
+		"price": "0.1808"
+	  },
+	  {
+		"itemNumber": null,
+		"amountPerPack": 1,
+		"amount": 96,
+		"quantityType": "OZ",
+		"name": "Vegetable - Petitte Diced Tomatoes",
+		"price": "0.015625"
+	  },
+	  {
+		"itemNumber": null,
+		"amountPerPack": 1,
+		"amount": 28,
+		"quantityType": "OZ",
+		"name": "Vegetable -  Mild Rotel Tomatoes",
+		"price": "0.0707142857"
+	  },
+	  {
+		"itemNumber": 8788739,
+		"amountPerPack": 12,
+		"amount": 15,
+		"quantityType": "OZ",
+		"name": "Bushs Best Canned Black Beans ",
+		"price": "0.182333"
+	  },
+	  {
+		"itemNumber": 7682493,
+		"amountPerPack": 24,
+		"amount": 14.75,
+		"quantityType": "OZ",
+		"name": "Libbys Creamed Canned Corn",
+		"price": "0.10672316"
+	  },
+	  {
+		"itemNumber": 1038000,
+		"amountPerPack": 1,
+		"amount": 576,
+		"quantityType": "OZ",
+		"name": "Vegetable - Beets - Pickeled",
+		"price": "0.056979167"
+	  },
+	  {
+		"itemNumber": 4004776,
+		"amountPerPack": 12,
+		"amount": 28,
+		"quantityType": "OZ",
+		"name": "Jell-o Vanilla Pudding & Pie Filling Mix",
+		"price": "0.283125"
+	  },
+	  {
+		"itemNumber": null,
+		"amountPerPack": 1,
+		"amount": 40,
+		"quantityType": "OZ",
+		"name": "Wellsley Farms Nonfat Grade A Naturally-Flavored Vanilla Greek Yogurt",
+		"price": "4.49"
+	  }
+   ]
