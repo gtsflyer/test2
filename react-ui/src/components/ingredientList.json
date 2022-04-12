@@ -4402,10 +4402,10 @@
 	{
 	  "itemNumber": "6328157",
 	  "amountPerPack": 4,
-	  "amount": 1,
-	  "quantityType": "Gal",
+	  "amount": 128,
+	  "quantityType": "OZ",
 	  "name": "Monarch Mayonnaise",
-	  "price": 17.2325,
+	  "price": 0.1346289,
 	  "storageType": "Shelf Stable",
 	  "vendor": "US Foods"
 	}
