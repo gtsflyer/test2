@@ -4398,5 +4398,15 @@
 	  "price": 4.49,
 	  "storageType": "Refrigerator",
 	  "vendor": "Grocery"
+	},
+	{
+	  "itemNumber": "6328157",
+	  "amountPerPack": 4,
+	  "amount": 1,
+	  "quantityType": "Gal",
+	  "name": "Monarch Mayonnaise",
+	  "price": 17.2325,
+	  "storageType": "Shelf Stable",
+	  "vendor": "US Foods"
 	}
   ]
