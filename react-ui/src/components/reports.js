@@ -522,6 +522,8 @@ menus.map(menu => {
           <th>Minimum Order Quantity</th>
           <th>Quantity Type</th>
           <th>Price</th>
+          <th>Storage Type</th>
+          <th>Vendor</th>
         </tr>
         {displayedReport.map(function(item, key) {
           return (
@@ -533,6 +535,8 @@ menus.map(menu => {
               <td>{item.minimumOrder}</td>
               <td>{item.quantityType}</td>
               <td>{dollarFormatter.format(item.price)}</td>
+              <td>{item.storageType}</td>
+              <td>{item.vendor}</td>
             </tr>
           )
         })}</tbody>
