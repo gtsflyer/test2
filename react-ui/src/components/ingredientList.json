@@ -77,7 +77,7 @@
 	  "name": "Angela Tomatoes Whole Peeled",
 	  "price": 0.052669617,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "US Foods"
 	},
 	{
 	  "itemNumber": 1245800,
@@ -87,7 +87,7 @@
 	  "name": "Idahoan Potatoes Mashed Idaho W/Vitamin C",
 	  "price": 0.255352564,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "Schenk's"
 	},
 	{
 	  "itemNumber": 1250010,
@@ -97,7 +97,7 @@
 	  "name": "Idahoan Potatoes Mashed Original Flakes",
 	  "price": 3.006333333,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "Schenk's"
 	},
 	{
 	  "itemNumber": 1380000,
@@ -237,7 +237,7 @@
 	  "name": "Kraft Dressing Honey Dijon",
 	  "price": 18.13,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "Schenk's"
 	},
 	{
 	  "itemNumber": 9916000,
@@ -247,7 +247,7 @@
 	  "name": "Kraft Dressing Catalina",
 	  "price": 17.6925,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "Schenk's"
 	},
 	{
 	  "itemNumber": 9917500,
@@ -327,7 +327,7 @@
 	  "name": "Wesson Oil Canola",
 	  "price": 18.38,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "Schenk's"
 	},
 	{
 	  "itemNumber": 12113800,
@@ -387,7 +387,7 @@
 	  "name": "Borden's Milk Condensed Eagle",
 	  "price": 0.177404762,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "Grocery"
 	},
 	{
 	  "itemNumber": 12871200,
@@ -527,7 +527,7 @@
 	  "name": "Hellman's Mayonnaise Heavy Pack Pc",
 	  "price": 0.37556391,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "Schenk's"
 	},
 	{
 	  "itemNumber": 19304100,
@@ -537,7 +537,7 @@
 	  "name": "Ken's Dressing Golden Italian",
 	  "price": 0.230888889,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "Schenk's"
 	},
 	{
 	  "itemNumber": 19306300,
@@ -777,7 +777,7 @@
 	  "name": "Le Gout Soup Cream Of Chicken",
 	  "price": 0.118080357,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "US Foods"
 	},
 	{
 	  "itemNumber": 28265000,
@@ -867,7 +867,7 @@
 	  "name": "Abuelita Chips Tortilla Corn White Salted",
 	  "price": 2.911666667,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "Schenk's"
 	},
 	{
 	  "itemNumber": 31202000,
