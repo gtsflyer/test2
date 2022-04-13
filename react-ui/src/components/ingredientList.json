@@ -4320,12 +4320,12 @@
 	  "vendor": "Grocery"
 	},
 	{
-	  "itemNumber": 2329670,
+	  "itemNumber": 2329563,
 	  "amountPerPack": 200,
 	  "amount": 0.5,
 	  "quantityType": "OZ",
 	  "name": "Monarch Assorted Jelly",
-	  "price": 0.1808,
+	  "price": 0.1501,
 	  "storageType": "Shelf Stable",
 	  "vendor": "US Foods"
 	},
@@ -4406,6 +4406,36 @@
 	  "quantityType": "OZ",
 	  "name": "Monarch Mayonnaise",
 	  "price": 0.1346289,
+	  "storageType": "Shelf Stable",
+	  "vendor": "US Foods"
+	},
+	{
+	  "itemNumber": "949446",
+	  "amountPerPack": 2,
+	  "amount": 1.5,
+	  "quantityType": "Lt",
+	  "name": "Coffee Mate Creamer French Vanilla Pump",
+	  "price": 10.0366667,
+	  "storageType": "Shelf Stable",
+	  "vendor": "US Foods"
+	},
+	{
+	  "itemNumber": "2017028",
+	  "amountPerPack": 1,
+	  "amount": 10,
+	  "quantityType": "Lb",
+	  "name": "Keebler Crumb Graham Cracker Plain Fine",
+	  "price": 3.127,
+	  "storageType": "Shelf Stable",
+	  "vendor": "US Foods"
+	},
+	{
+	  "itemNumber": "8330094",
+	  "amountPerPack": 6,
+	  "amount": 113,
+	  "quantityType": "OZ",
+	  "name": "Monarch Beets Sliced Medium Fancy Canned",
+	  "price": 0.061356932,
 	  "storageType": "Shelf Stable",
 	  "vendor": "US Foods"
 	}
