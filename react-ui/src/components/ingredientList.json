@@ -4438,5 +4438,35 @@
 	  "price": 0.061356932,
 	  "storageType": "Shelf Stable",
 	  "vendor": "US Foods"
+	},
+	{
+	  "itemNumber": "6330088",
+	  "amountPerPack": 6,
+	  "amount": 113,
+	  "quantityType": "OZ",
+	  "name": "Monarch Corn Whole Kernal Canned",
+	  "price": 0.05535398,
+	  "storageType": "Shelf Stable",
+	  "vendor": "US Foods"
+	},
+	{
+	  "itemNumber": "24575",
+	  "amountPerPack": 1,
+	  "amount": 20,
+	  "quantityType": "OZ",
+	  "name": "Wellsley Farms Shredded Parmesan",
+	  "price": 0.3395,
+	  "storageType": "Shelf Stable",
+	  "vendor": "Grocery"
+	},
+	{
+	  "itemNumber": "2278104",
+	  "amountPerPack": 1,
+	  "amount": 10,
+	  "quantityType": "LB",
+	  "name": "Rykoff Sexton Rice Basmati Raw",
+	  "price": 1.993,
+	  "storageType": "Shelf Stable",
+	  "vendor": "US Foods"
 	}
   ]
