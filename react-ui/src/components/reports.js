@@ -495,7 +495,8 @@ menus.map(menu => {
     return res;
   }, {});
 
-  const tuesDinnerOrders = orderReport.filter(order => order.menuMeal === "Dinner").filter(order => order.menuDay === "Tuesday")
+  var tuesDinnerOrders = [];
+  orderReport.filter(order => order.menuMeal === "Dinner").filter(order => order.menuDay === "Tuesday")
   .reduce(function(res, value) {
     if (!res[value.name]) {
       res[value.name] = { 
@@ -510,13 +511,14 @@ menus.map(menu => {
         vendor: value.vendor,
         storageType: value.storageType
       };
-      breakfastOrders.push(res[value.name])
+      tuesDinnerOrders.push(res[value.name])
     }
     res[value.name].amountNeeded += value.amountNeeded;
     return res;
   }, {});
 
-  const wedBreakfastOrders = orderReport.filter(order => order.menuMeal === "Breakfast").filter(order => order.menuDay === "Wednesday")
+  var wedBreakfastOrders = [];
+  orderReport.filter(order => order.menuMeal === "Breakfast").filter(order => order.menuDay === "Wednesday")
   .reduce(function(res, value) {
     if (!res[value.name]) {
       res[value.name] = { 
@@ -531,12 +533,13 @@ menus.map(menu => {
         vendor: value.vendor,
         storageType: value.storageType
       };
-      breakfastOrders.push(res[value.name])
+      wedBreakfastOrders.push(res[value.name])
     }
     res[value.name].amountNeeded += value.amountNeeded;
     return res;
   }, {});
-  const wedLunchOrders = orderReport.filter(order => order.menuMeal === "Lunch").filter(order => order.menuDay === "Wednesday")
+  var wedLunchOrders = [];
+  orderReport.filter(order => order.menuMeal === "Lunch").filter(order => order.menuDay === "Wednesday")
   .reduce(function(res, value) {
     if (!res[value.name]) {
       res[value.name] = { 
@@ -551,12 +554,13 @@ menus.map(menu => {
         vendor: value.vendor,
         storageType: value.storageType
       };
-      breakfastOrders.push(res[value.name])
+      wedLunchOrders.push(res[value.name])
     }
     res[value.name].amountNeeded += value.amountNeeded;
     return res;
   }, {});
-  const wedDinnerOrders = orderReport.filter(order => order.menuMeal === "Dinner").filter(order => order.menuDay === "Wednesday")
+  var wedDinnerOrders = [];
+  orderReport.filter(order => order.menuMeal === "Dinner").filter(order => order.menuDay === "Wednesday")
   .reduce(function(res, value) {
     if (!res[value.name]) {
       res[value.name] = { 
@@ -571,13 +575,14 @@ menus.map(menu => {
         vendor: value.vendor,
         storageType: value.storageType
       };
-      breakfastOrders.push(res[value.name])
+      wedDinnerOrders.push(res[value.name])
     }
     res[value.name].amountNeeded += value.amountNeeded;
     return res;
   }, {});
 
-  const thursBreakfastOrders = orderReport.filter(order => order.menuMeal === "Breakfast").filter(order => order.menuDay === "Thursday")
+  var thursBreakfastOrders = [];
+  orderReport.filter(order => order.menuMeal === "Breakfast").filter(order => order.menuDay === "Thursday")
   .reduce(function(res, value) {
     if (!res[value.name]) {
       res[value.name] = { 
@@ -592,12 +597,13 @@ menus.map(menu => {
         vendor: value.vendor,
         storageType: value.storageType
       };
-      breakfastOrders.push(res[value.name])
+      thursBreakfastOrders.push(res[value.name])
     }
     res[value.name].amountNeeded += value.amountNeeded;
     return res;
   }, {});
-  const thursLunchOrders = orderReport.filter(order => order.menuMeal === "Lunch").filter(order => order.menuDay === "Thursday")
+  var thursLunchOrders = [];
+  orderReport.filter(order => order.menuMeal === "Lunch").filter(order => order.menuDay === "Thursday")
   .reduce(function(res, value) {
     if (!res[value.name]) {
       res[value.name] = { 
@@ -612,12 +618,13 @@ menus.map(menu => {
         vendor: value.vendor,
         storageType: value.storageType
       };
-      breakfastOrders.push(res[value.name])
+      thursLunchOrders.push(res[value.name])
     }
     res[value.name].amountNeeded += value.amountNeeded;
     return res;
   }, {});
-  const thursDinnerOrders = orderReport.filter(order => order.menuMeal === "Dinner").filter(order => order.menuDay === "Thursday")
+  var thursDinnerOrders = [];
+  orderReport.filter(order => order.menuMeal === "Dinner").filter(order => order.menuDay === "Thursday")
   .reduce(function(res, value) {
     if (!res[value.name]) {
       res[value.name] = { 
@@ -632,13 +639,14 @@ menus.map(menu => {
         vendor: value.vendor,
         storageType: value.storageType
       };
-      breakfastOrders.push(res[value.name])
+      thursDinnerOrders.push(res[value.name])
     }
     res[value.name].amountNeeded += value.amountNeeded;
     return res;
   }, {});
   
-  const friBreakfastOrders = orderReport.filter(order => order.menuMeal === "Breakfast").filter(order => order.menuDay === "Friday")
+  var friBreakfastOrders = [];
+  orderReport.filter(order => order.menuMeal === "Breakfast").filter(order => order.menuDay === "Friday")
   .reduce(function(res, value) {
     if (!res[value.name]) {
       res[value.name] = { 
@@ -653,12 +661,13 @@ menus.map(menu => {
         vendor: value.vendor,
         storageType: value.storageType
       };
-      breakfastOrders.push(res[value.name])
+      friBreakfastOrders.push(res[value.name])
     }
     res[value.name].amountNeeded += value.amountNeeded;
     return res;
   }, {});
-  const friLunchOrders = orderReport.filter(order => order.menuMeal === "Lunch").filter(order => order.menuDay === "Friday")
+  var friLunchOrders = [];
+  orderReport.filter(order => order.menuMeal === "Lunch").filter(order => order.menuDay === "Friday")
   .reduce(function(res, value) {
     if (!res[value.name]) {
       res[value.name] = { 
@@ -673,12 +682,13 @@ menus.map(menu => {
         vendor: value.vendor,
         storageType: value.storageType
       };
-      breakfastOrders.push(res[value.name])
+      friLunchOrders.push(res[value.name])
     }
     res[value.name].amountNeeded += value.amountNeeded;
     return res;
   }, {});
-  const friDinnerOrders = orderReport.filter(order => order.menuMeal === "Dinner").filter(order => order.menuDay === "Friday")
+  var friDinnerOrders = [];
+  orderReport.filter(order => order.menuMeal === "Dinner").filter(order => order.menuDay === "Friday")
   .reduce(function(res, value) {
     if (!res[value.name]) {
       res[value.name] = { 
@@ -693,74 +703,14 @@ menus.map(menu => {
         vendor: value.vendor,
         storageType: value.storageType
       };
-      breakfastOrders.push(res[value.name])
-    }
-    res[value.name].amountNeeded += value.amountNeeded;
-    return res;
-  }, {});
-
-  const satBreakfastOrders = orderReport.filter(order => order.menuMeal === "Breakfast").filter(order => order.menuDay === "Saturday")
-  .reduce(function(res, value) {
-    if (!res[value.name]) {
-      res[value.name] = { 
-        itemNumber: value.itemNumber,
-        name: value.name,
-        menuDay: value.menuDay,
-        menuMeal: value.menuMeal,
-        amountNeeded: 0,
-        minimumOrder: value.minimumOrder,
-        quantityType: value.quantityType,
-        price: value.price,
-        vendor: value.vendor,
-        storageType: value.storageType
-      };
-      breakfastOrders.push(res[value.name])
-    }
-    res[value.name].amountNeeded += value.amountNeeded;
-    return res;
-  }, {});
-  const satLunchOrders = orderReport.filter(order => order.menuMeal === "Lunch").filter(order => order.menuDay === "Saturday")
-  .reduce(function(res, value) {
-    if (!res[value.name]) {
-      res[value.name] = { 
-        itemNumber: value.itemNumber,
-        name: value.name,
-        menuDay: value.menuDay,
-        menuMeal: value.menuMeal,
-        amountNeeded: 0,
-        minimumOrder: value.minimumOrder,
-        quantityType: value.quantityType,
-        price: value.price,
-        vendor: value.vendor,
-        storageType: value.storageType
-      };
-      breakfastOrders.push(res[value.name])
-    }
-    res[value.name].amountNeeded += value.amountNeeded;
-    return res;
-  }, {});
-  const satDinnerOrders = orderReport.filter(order => order.menuMeal === "Dinner").filter(order => order.menuDay === "Saturday")
-  .reduce(function(res, value) {
-    if (!res[value.name]) {
-      res[value.name] = { 
-        itemNumber: value.itemNumber,
-        name: value.name,
-        menuDay: value.menuDay,
-        menuMeal: value.menuMeal,
-        amountNeeded: 0,
-        minimumOrder: value.minimumOrder,
-        quantityType: value.quantityType,
-        price: value.price,
-        vendor: value.vendor,
-        storageType: value.storageType
-      };
-      breakfastOrders.push(res[value.name])
+      friDinnerOrders.push(res[value.name])
     }
     res[value.name].amountNeeded += value.amountNeeded;
     return res;
   }, {});
 
-  const sunBreakfastOrders = orderReport.filter(order => order.menuMeal === "Breakfast").filter(order => order.menuDay === "Sunday")
+  var satBreakfastOrders = [];
+  orderReport.filter(order => order.menuMeal === "Breakfast").filter(order => order.menuDay === "Saturday")
   .reduce(function(res, value) {
     if (!res[value.name]) {
       res[value.name] = { 
@@ -775,12 +725,13 @@ menus.map(menu => {
         vendor: value.vendor,
         storageType: value.storageType
       };
-      breakfastOrders.push(res[value.name])
+      satBreakfastOrders.push(res[value.name])
     }
     res[value.name].amountNeeded += value.amountNeeded;
     return res;
   }, {});
-  const sunLunchOrders = orderReport.filter(order => order.menuMeal === "Lunch").filter(order => order.menuDay === "Sunday")
+  var satLunchOrders = [];
+  orderReport.filter(order => order.menuMeal === "Lunch").filter(order => order.menuDay === "Saturday")
   .reduce(function(res, value) {
     if (!res[value.name]) {
       res[value.name] = { 
@@ -795,12 +746,13 @@ menus.map(menu => {
         vendor: value.vendor,
         storageType: value.storageType
       };
-      breakfastOrders.push(res[value.name])
+      satLunchOrders.push(res[value.name])
     }
     res[value.name].amountNeeded += value.amountNeeded;
     return res;
   }, {});
-  const sunDinnerOrders = orderReport.filter(order => order.menuMeal === "Dinner").filter(order => order.menuDay === "Sunday")
+  var satDinnerOrders = [];
+  orderReport.filter(order => order.menuMeal === "Dinner").filter(order => order.menuDay === "Saturday")
   .reduce(function(res, value) {
     if (!res[value.name]) {
       res[value.name] = { 
@@ -815,7 +767,71 @@ menus.map(menu => {
         vendor: value.vendor,
         storageType: value.storageType
       };
-      breakfastOrders.push(res[value.name])
+      satDinnerOrders.push(res[value.name])
+    }
+    res[value.name].amountNeeded += value.amountNeeded;
+    return res;
+  }, {});
+
+  var sunBreakfastOrders = [];
+  orderReport.filter(order => order.menuMeal === "Breakfast").filter(order => order.menuDay === "Sunday")
+  .reduce(function(res, value) {
+    if (!res[value.name]) {
+      res[value.name] = { 
+        itemNumber: value.itemNumber,
+        name: value.name,
+        menuDay: value.menuDay,
+        menuMeal: value.menuMeal,
+        amountNeeded: 0,
+        minimumOrder: value.minimumOrder,
+        quantityType: value.quantityType,
+        price: value.price,
+        vendor: value.vendor,
+        storageType: value.storageType
+      };
+      sunBreakfastOrders.push(res[value.name])
+    }
+    res[value.name].amountNeeded += value.amountNeeded;
+    return res;
+  }, {});
+  var sunLunchOrders = [];
+  orderReport.filter(order => order.menuMeal === "Lunch").filter(order => order.menuDay === "Sunday")
+  .reduce(function(res, value) {
+    if (!res[value.name]) {
+      res[value.name] = { 
+        itemNumber: value.itemNumber,
+        name: value.name,
+        menuDay: value.menuDay,
+        menuMeal: value.menuMeal,
+        amountNeeded: 0,
+        minimumOrder: value.minimumOrder,
+        quantityType: value.quantityType,
+        price: value.price,
+        vendor: value.vendor,
+        storageType: value.storageType
+      };
+      sunLunchOrders.push(res[value.name])
+    }
+    res[value.name].amountNeeded += value.amountNeeded;
+    return res;
+  }, {});
+  var sunDinnerOrders = [];
+  orderReport.filter(order => order.menuMeal === "Dinner").filter(order => order.menuDay === "Sunday")
+  .reduce(function(res, value) {
+    if (!res[value.name]) {
+      res[value.name] = { 
+        itemNumber: value.itemNumber,
+        name: value.name,
+        menuDay: value.menuDay,
+        menuMeal: value.menuMeal,
+        amountNeeded: 0,
+        minimumOrder: value.minimumOrder,
+        quantityType: value.quantityType,
+        price: value.price,
+        vendor: value.vendor,
+        storageType: value.storageType
+      };
+      sunDinnerOrders.push(res[value.name])
     }
     res[value.name].amountNeeded += value.amountNeeded;
     return res;
