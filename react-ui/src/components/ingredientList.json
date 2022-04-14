@@ -4468,5 +4468,45 @@
 	  "price": 1.993,
 	  "storageType": "Shelf Stable",
 	  "vendor": "US Foods"
+	},
+	{
+	  "itemNumber": "3680942",
+	  "amountPerPack": 2,
+	  "amount": 5,
+	  "quantityType": "LB",
+	  "name": "Patuxent Farms Chicken Strips Breast Meat .5in thick cooked",
+	  "price": 6.176,
+	  "storageType": "Frozen",
+	  "vendor": "US Foods"
+	},
+	{
+	  "itemNumber": "9260258",
+	  "amountPerPack": 6,
+	  "amount": 22,
+	  "quantityType": "OZ",
+	  "name": "Sara Lee Bakery Cake Angel Food Round",
+	  "price": 0.2835606060606061,
+	  "storageType": "Frozen",
+	  "vendor": "US Foods"
+	},
+	{
+	  "itemNumber": "9865361",
+	  "amountPerPack": 220,
+	  "amount": 1,
+	  "quantityType": "OZ",
+	  "name": "Flowers Food Specialty Breadstick Whole Grain 6in Unsliced",
+	  "price": 0.1160454545454545,
+	  "storageType": "Frozen",
+	  "vendor": "US Foods"
+	},
+	{
+	  "itemNumber": "102996653",
+	  "amountPerPack": 12,
+	  "amount": 1,
+	  "quantityType": "LB",
+	  "name": "Knorr Beef Base",
+	  "price": 7.235,
+	  "storageType": "Frozen",
+	  "vendor": "Grocery - Webstaurant"
 	}
   ]
