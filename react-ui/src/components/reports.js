@@ -27,15 +27,39 @@ export default function Reports() {
 
   const reportSelectionList = [
     {"value": "allOrders", "label": "All items in the order with combined quantity based on menus"},
+
     {"value": "breakfastOrders", "label": "Order list for Breakfast"},
     {"value": "lunchOrders", "label": "Order list for Lunch"},
     {"value": "dinnerOrders", "label": "Order list for Dinner"},
+
     {"value": "tuesdayOrders", "label": "Order list for Tuesday"},
     {"value": "wednesdayOrders", "label": "Order list for Wednesday"},
     {"value": "thursdayOrders", "label": "Order list for Thursday"},
     {"value": "fridayOrders", "label": "Order list for Friday"},
     {"value": "saturdayOrders", "label": "Order list for Saturday"},
     {"value": "sundayOrders", "label": "Order list for Sunday"},
+
+    {"value": "tuesDinnerOrders", "label": "Order list for Dinner on Tuesday"},
+
+    {"value": "wedBreakfastOrders", "label": "Order list for Breakfast on Wednesday"},
+    {"value": "wedLunchOrders", "label": "Order list for Lunch on Wednesday"},
+    {"value": "wedDinnerOrders", "label": "Order list for Dinner on Wednesday"},
+
+    {"value": "thursBreakfastOrders", "label": "Order list for Breakfast on Thursday"},
+    {"value": "thursLunchOrders", "label": "Order list for Lunch on Thursday"},
+    {"value": "thursDinnerOrders", "label": "Order list for Dinner on Thursday"},
+    
+    {"value": "friBreakfastOrders", "label": "Order list for Breakfast on Friday"},
+    {"value": "friLunchOrders", "label": "Order list for Lunch on Friday"},
+    {"value": "friDinnerOrders", "label": "Order list for Dinner on Friday"},
+
+    {"value": "satBreakfastOrders", "label": "Order list for Breakfast on Saturday"},
+    {"value": "satLunchOrders", "label": "Order list for Lunch on Saturday"},
+    {"value": "satDinnerOrders", "label": "Order list for Dinner on Saturday"},
+
+    {"value": "sunBreakfastOrders", "label": "Order list for Breakfast on Sunday"},
+    {"value": "sunLunchOrders", "label": "Order list for Lunch on Sunday"},
+    {"value": "sunDinnerOrders", "label": "Order list for Dinner on Sunday"},
 
     {"value": "usFoodsOrders", "label": "Order list for US Foods"},
     {"value": "schencksOrders", "label": "Order list for Schencks"},
@@ -44,6 +68,7 @@ export default function Reports() {
     {"value": "shelfStableOrders", "label": "Order list for Shelf Stable Items"},
     {"value": "refrigeratedOrders", "label": "Order list for Refrigerated Items"},
     {"value": "frozenOrders", "label": "Order list for Frozen Items"}    
+
   ];
 
   // This method fetches the records from the database.
@@ -469,6 +494,28 @@ menus.map(menu => {
     res[value.name].amountNeeded += value.amountNeeded;
     return res;
   }, {});
+
+  const tuesDinnerOrders = orderReport.filter(order => order.menuMeal === "Dinner").filter(order => order.menuDay === "Tuesday")
+
+  const wedBreakfastOrders = orderReport.filter(order => order.menuMeal === "Breakfast").filter(order => order.menuDay === "Wednesday")
+  const wedLunchOrders = orderReport.filter(order => order.menuMeal === "Lunch").filter(order => order.menuDay === "Wednesday")
+  const wedDinnerOrders = orderReport.filter(order => order.menuMeal === "Dinner").filter(order => order.menuDay === "Wednesday")
+
+  const thursBreakfastOrders = orderReport.filter(order => order.menuMeal === "Breakfast").filter(order => order.menuDay === "Thursday")
+  const thursLunchOrders = orderReport.filter(order => order.menuMeal === "Lunch").filter(order => order.menuDay === "Thursday")
+  const thursDinnerOrders = orderReport.filter(order => order.menuMeal === "Dinner").filter(order => order.menuDay === "Thursday")
+  
+  const friBreakfastOrders = orderReport.filter(order => order.menuMeal === "Breakfast").filter(order => order.menuDay === "Friday")
+  const friLunchOrders = orderReport.filter(order => order.menuMeal === "Lunch").filter(order => order.menuDay === "Friday")
+  const friDinnerOrders = orderReport.filter(order => order.menuMeal === "Dinner").filter(order => order.menuDay === "Friday")
+
+  const satBreakfastOrders = orderReport.filter(order => order.menuMeal === "Breakfast").filter(order => order.menuDay === "Saturday")
+  const satLunchOrders = orderReport.filter(order => order.menuMeal === "Lunch").filter(order => order.menuDay === "Saturday")
+  const satDinnerOrders = orderReport.filter(order => order.menuMeal === "Dinner").filter(order => order.menuDay === "Saturday")
+
+  const sunBreakfastOrders = orderReport.filter(order => order.menuMeal === "Breakfast").filter(order => order.menuDay === "Sunday")
+  const sunLunchOrders = orderReport.filter(order => order.menuMeal === "Lunch").filter(order => order.menuDay === "Sunday")
+  const sunDinnerOrders = orderReport.filter(order => order.menuMeal === "Dinner").filter(order => order.menuDay === "Sunday")
 
   return (
     <div class="container" style={{ display: 'block', width: '100%', padding: 30, align: 'center' }}>
