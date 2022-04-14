@@ -4508,5 +4508,15 @@
 	  "price": 7.235,
 	  "storageType": "Frozen",
 	  "vendor": "Grocery - Webstaurant"
+	},
+	{
+	  "itemNumber": "91215",
+	  "amountPerPack": 1,
+	  "amount": 40,
+	  "quantityType": "OZ",
+	  "name": "Wellsley Farms Plain Nonfat Greek Yogurt",
+	  "price": 0.11225,
+	  "storageType": "Refrigerator",
+	  "vendor": "Grocery - BJs"
 	}
   ]
