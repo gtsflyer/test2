@@ -90,8 +90,8 @@ export default function EditInventory() {
 // }
 
 let updateSelectbox = (value) => {
-  alert(JSON.stringify(allIngredients.filter(ingredientDetails => ingredientDetails.name === value)));
-  setForm(allIngredients.filter(ingredientDetails => ingredientDetails.name === value));
+  alert(JSON.stringify(allIngredients.filter(ingredientDetails => ingredientDetails.name === value))[0]);
+  setForm(allIngredients.filter(ingredientDetails => ingredientDetails.name === value)[0]);
 }
  
  async function onSubmit(e) {
