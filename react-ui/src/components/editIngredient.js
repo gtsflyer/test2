@@ -149,7 +149,7 @@ let updateSelectbox = (value) => {
               type="number"
               className="form-control"
               id="servings"
-              value={form.servings}
+              value={form.itemNumber}
               onChange={(e) => updateForm({ itemNumber: e.target.value })}
             />
           </div>
@@ -159,7 +159,7 @@ let updateSelectbox = (value) => {
               type="number"
               className="form-control"
               id="servings"
-              value={form.servings}
+              value={form.amountPerPack}
               onChange={(e) => updateForm({ amountPerPack: e.target.value })}
             />
           </div>
@@ -169,7 +169,7 @@ let updateSelectbox = (value) => {
               type="number"
               className="form-control"
               id="servings"
-              value={form.servings}
+              value={form.amount}
               onChange={(e) => updateForm({ amount: e.target.value })}
             />
           </div>
@@ -179,7 +179,7 @@ let updateSelectbox = (value) => {
               type="text"
               className="form-control"
               id="recipeName"
-              value={form.recipeName}
+              value={form.quantityType}
               onChange={(e) => updateForm({ quantityType: e.target.value })}
             />
           </div>
@@ -189,7 +189,7 @@ let updateSelectbox = (value) => {
               type="text"
               className="form-control"
               id="recipeName"
-              value={form.recipeName}
+              value={form.name}
               onChange={(e) => updateForm({ name: e.target.value })}
             />
           </div>
@@ -199,7 +199,7 @@ let updateSelectbox = (value) => {
               type="number"
               className="form-control"
               id="servings"
-              value={form.servings}
+              value={form.price}
               onChange={(e) => updateForm({ price: e.target.value })}
             />
           </div>
@@ -213,7 +213,7 @@ let updateSelectbox = (value) => {
                     captureMenuScroll={false}
                     classNamePrefix="custom-select"
                     components={{ Option: CustomOption, MenuList: CustomMenuList }}
-                    placeholder={"Select Storage Type..."}
+                    placeholder={form.storageType ? form.storageType : "Select Storage Type..."}
                   />
           </div>
           <div className="form-group">
@@ -226,7 +226,7 @@ let updateSelectbox = (value) => {
                     captureMenuScroll={false}
                     classNamePrefix="custom-select"
                     components={{ Option: CustomOption, MenuList: CustomMenuList }}
-                    placeholder={"Select Vendor..."}
+                    placeholder={form.vendor ? form.vendor : "Select Vendor..."}
                   />
           </div>
           <div className="form-group">
@@ -239,7 +239,7 @@ let updateSelectbox = (value) => {
                     captureMenuScroll={false}
                     classNamePrefix="custom-select"
                     components={{ Option: CustomOption, MenuList: CustomMenuList }}
-                    placeholder={"Select yes if an order has been placed..."}
+                    placeholder={form.orderPlaced ? form.orderPlaced : "Select yes if an order has been placed..."}
                   />
           </div>
           <div className="form-group">
@@ -248,7 +248,7 @@ let updateSelectbox = (value) => {
               type="text"
               className="form-control"
               id="recipeName"
-              value={form.recipeName}
+              value={form.expectedDelivery}
               onChange={(e) => updateForm({ expectedDelivery: e.target.value })}
             />
           </div>
@@ -258,7 +258,7 @@ let updateSelectbox = (value) => {
               type="number"
               className="form-control"
               id="servings"
-              value={form.servings}
+              value={form.inventoryOnHand}
               onChange={(e) => updateForm({ inventoryOnHand: e.target.value })}
             />
           </div>
@@ -272,7 +272,7 @@ let updateSelectbox = (value) => {
                     captureMenuScroll={false}
                     classNamePrefix="custom-select"
                     components={{ Option: CustomOption, MenuList: CustomMenuList }}
-                    placeholder={"Select yes is order has been delivered..."}
+                    placeholder={form.isDelivered ? form.isDelivered : "Select yes is order has been delivered..."}
                   />
           </div>
         </form>
