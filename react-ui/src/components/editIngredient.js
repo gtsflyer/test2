@@ -139,7 +139,7 @@ let updateSelectbox = (i, e) => {
             <label htmlFor="recipeName">Recipe Name</label>
               <Select
                 isSearchable="true"
-                onChange={(e) => updateSelectbox(index, e)}
+                onChange={(e) => updateSelectbox()}
                 options={searchList}
                 filterOption={createFilter({ ignoreAccents: false })}
                 captureMenuScroll={false}
@@ -212,7 +212,7 @@ let updateSelectbox = (i, e) => {
             <label htmlFor="servings">storageType</label>
             <Select
                     isSearchable="true"
-                    onChange={(e) => updateSelectbox(index, e)}
+                    onChange={(e) => updateSelectbox()}
                     options={searchList}
                     filterOption={createFilter({ ignoreAccents: false })}
                     captureMenuScroll={false}
@@ -225,7 +225,7 @@ let updateSelectbox = (i, e) => {
             <label htmlFor="servings">vendor</label>
             <Select
                     isSearchable="true"
-                    onChange={(e) => updateSelectbox(index, e)}
+                    onChange={(e) => updateSelectbox()}
                     options={searchList}
                     filterOption={createFilter({ ignoreAccents: false })}
                     captureMenuScroll={false}
