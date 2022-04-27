@@ -6,6 +6,36 @@ import CustomMenuList from "./CustomMenuList";
 import "./customOptions.css";
 
 export default function EditIngredient() {
+
+  useEffect(() => {
+    alert("hello world");
+    async function fetchData() {
+      const id = params.id.toString();
+      alert(`Fetching ${id}`);
+      const response = await fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/ingredients/${params.id.toString()}`);
+  
+      if (!response.ok) {
+        const message = `An error has occurred: ${response.statusText}`;
+        window.alert(message);
+        return;
+      }
+  
+      const record = await response.json();
+      if (!record) {
+        window.alert(`Record with id ${id} not found`);
+        navigate("/reports");
+        return;
+      }
+ 
+      setForm(record);
+    }
+  
+    alert("going to fetch");
+    fetchData();
+  
+    return;
+  }, [params.id, navigate]);
+
  const [form, setForm] = useState({
   itemNumber: "",
   amountPerPack: "",
@@ -19,7 +49,6 @@ export default function EditIngredient() {
   expectedDelivery: "",
   inventoryOnHand: "",
   isDelivered: ""
-
  });
  const params = useParams();
  const navigate = useNavigate();
@@ -40,34 +69,6 @@ export default function EditIngredient() {
     {"value": "yes", "label": "Yes"},
     {"value": "no", "label": "No"}
   ];
- 
- useEffect(() => {
-   async function fetchData() {
-     const id = params.id.toString();
-     alert(`Fetching ${id}`);
-     const response = await fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/ingredients/${params.id.toString()}`);
- 
-     if (!response.ok) {
-       const message = `An error has occurred: ${response.statusText}`;
-       window.alert(message);
-       return;
-     }
- 
-     const record = await response.json();
-     if (!record) {
-       window.alert(`ingredient with id ${id} not found`);
-       navigate("/reports");
-       return;
-     }
-
-     setForm(record);
-   }
- 
-   alert("going to fetch");
-   fetchData();
- 
-   return;
- }, [params.id, navigate]);
  
  // These methods will update the state properties.
  function updateForm(value) {
