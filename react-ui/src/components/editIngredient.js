@@ -33,8 +33,8 @@ export default function EditInventory() {
 
  const searchList = allIngredients.map(ingredientItem => {
     return{ 
-     value: `${ingredientItem.name},${ingredientItem.quantityType},${ingredientItem.price}`, 
-     label: `${ingredientItem.name} in ${ingredientItem.quantityType} (${formatter.format(ingredientItem.price)} per ${ingredientItem.quantityType})`
+     value: `${ingredientItem.name}`, 
+     label: `${ingredientItem.name}`
     }
    }
   );
@@ -89,7 +89,8 @@ export default function EditInventory() {
 //   updateForm({ingredientList: newIngredientList});
 // }
 
-let updateSelectbox = () => {
+let updateSelectbox = (value) => {
+  alert(allIngredients.filter(ingredientDetails => ingredientDetails.name === value));
 //  let newIngredientList = [...form.ingredientList];
 //  newIngredientList[i]["ingredient"] = e.value.split(',')[0];
 //  newIngredientList[i]["quantityType"] = e.value.split(',')[1];
@@ -133,7 +134,7 @@ let updateSelectbox = () => {
             <label htmlFor="recipeName">Recipe Name</label>
               <Select
                 isSearchable="true"
-                onChange={(e) => updateSelectbox()}
+                onChange={(e) => updateSelectbox(e.value)}
                 options={searchList}
                 filterOption={createFilter({ ignoreAccents: false })}
                 captureMenuScroll={false}
