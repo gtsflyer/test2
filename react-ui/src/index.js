@@ -31,7 +31,7 @@ ReactDOM.render(
           <Route path='/reports' element={<Reports />} />
           <Route path='/ingredientList' element={<IngredientList />} />
           <Route path='/createIngredient' element={<CreateIngredient />} />
-          <Route path='/editIngredient' element={<EditIngredient />} />
+          <Route path='/editIngredient/:id' element={<EditIngredient />} />
       </Routes>
     </Router>
   </React.StrictMode>,
