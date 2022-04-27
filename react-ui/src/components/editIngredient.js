@@ -5,7 +5,7 @@ import CustomOption from "./customOption";
 import CustomMenuList from "./CustomMenuList";
 import "./customOptions.css";
 
-export default function EditInventory() {
+export default function EditIngredient() {
  const [form, setForm] = useState({
   itemNumber: "",
   amountPerPack: "",
@@ -94,8 +94,6 @@ export default function EditInventory() {
  
    navigate("/");
  }
-
- /*git add -A;git commit -m "testing";git push;git push heroku main*/
 
  // This following section will display the form that takes input from the user to update the data.
  return (
