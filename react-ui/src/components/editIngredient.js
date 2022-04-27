@@ -91,11 +91,7 @@ export default function EditInventory() {
 
 let updateSelectbox = (value) => {
   alert(JSON.stringify(allIngredients.filter(ingredientDetails => ingredientDetails.name === value)));
-//  let newIngredientList = [...form.ingredientList];
-//  newIngredientList[i]["ingredient"] = e.value.split(',')[0];
-//  newIngredientList[i]["quantityType"] = e.value.split(',')[1];
-//  newIngredientList[i]["price"] = e.value.split(',')[2];
- updateForm(allIngredients.filter(ingredientDetails => ingredientDetails.name === value));
+  setForm(allIngredients.filter(ingredientDetails => ingredientDetails.name === value));
 }
  
  async function onSubmit(e) {
