@@ -69,23 +69,28 @@ let updateSelectbox = (value) => {
     <div class="container">
       <div class="row">
         {ingredientList.length > 0 ? 
-        <Select
-          isSearchable="true"
-          onChange={(e) => updateSelectbox(e.value)}
-          options={ingredientSearchList}
-          filterOption={createFilter({ ignoreAccents: false })}
-          captureMenuScroll={false}
-          classNamePrefix="custom-select"
-          components={{ Option: CustomOption, MenuList: CustomMenuList }}
-          placeholder={"Select Ingredient..."}
-        />
+        <div className="form-group">
+          <label htmlFor="servings">Item Number</label>
+          <Select
+            isSearchable="true"
+            onChange={(e) => updateSelectbox(e.value)}
+            options={ingredientSearchList}
+            filterOption={createFilter({ ignoreAccents: false })}
+            captureMenuScroll={false}
+            classNamePrefix="custom-select"
+            components={{ Option: CustomOption, MenuList: CustomMenuList }}
+            placeholder={"Select Ingredient..."}
+          />
+        </div>
         :
         <center>Please create an ingredient</center>
         }
       </div>
         <div class="row">
           <div class="col">
-            <Button href="/createIngredient">➕ Create a New Ingredient</Button>
+            <div className="form-group">
+              <Button href="/createIngredient">➕ Create a New Ingredient</Button>
+            </div>
           </div>
         </div>
     </div>
