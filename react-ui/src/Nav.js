@@ -19,6 +19,9 @@ export default function Nav() {
         <Navbar.Brand href="/reports">
             Reports
         </Navbar.Brand>
+        <Navbar.Brand href="/ingredientList">
+            Ingredients
+        </Navbar.Brand>
       </Navbar> 
     </div>
   );
