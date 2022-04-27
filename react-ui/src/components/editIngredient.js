@@ -126,116 +126,117 @@ let updateSelectbox = (i, e) => {
  // This following section will display the form that takes input from the user to update the data.
  return (
   <div class="container">
-      <div class="row">
-        <div class="col">
+    <div class="row">
+      <div class="col">
         <form onSubmit={onSubmit}>
-  <h3>Update Ingredient <input
-        type="submit"
-        value="💾 Save"
-        className="btn btn-primary"
-      /></h3>
-    <div className="form-group">
-      <label htmlFor="recipeName">Recipe Name</label>
-      <Select
-              isSearchable="true"
-              onChange={(e) => updateSelectbox(index, e)}
-              options={searchList}
-              filterOption={createFilter({ ignoreAccents: false })}
-              captureMenuScroll={false}
-              classNamePrefix="custom-select"
-              components={{ Option: CustomOption, MenuList: CustomMenuList }}
-              placeholder={"Select Ingredient..."}
+          <h3>Update Ingredient <input
+            type="submit"
+            value="💾 Save"
+            className="btn btn-primary"
             />
-    </div>
-    <div className="form-group">
-      <label htmlFor="servings">Item Number</label>
-      <input
-        type="number"
-        className="form-control"
-        id="servings"
-        value={form.servings}
-        onChange={(e) => updateForm({ servings: e.target.value })}
-      />
-    </div>
-    <div className="form-group">
-      <label htmlFor="servings">amountPerPack</label>
-      <input
-        type="number"
-        className="form-control"
-        id="servings"
-        value={form.servings}
-        onChange={(e) => updateForm({ servings: e.target.value })}
-      />
-    </div>
-    <div className="form-group">
-      <label htmlFor="servings">amount</label>
-      <input
-        type="number"
-        className="form-control"
-        id="servings"
-        value={form.servings}
-        onChange={(e) => updateForm({ servings: e.target.value })}
-      />
-    </div>
-    <div className="form-group">
-      <label htmlFor="recipeName">quantityType</label>
-      <input
-        type="text"
-        className="form-control"
-        id="recipeName"
-        value={form.recipeName}
-        onChange={(e) => updateForm({ recipeName: e.target.value })}
-      />
-    </div>
-    <div className="form-group">
-      <label htmlFor="recipeName">Name</label>
-      <input
-        type="text"
-        className="form-control"
-        id="recipeName"
-        value={form.recipeName}
-        onChange={(e) => updateForm({ recipeName: e.target.value })}
-      />
-    </div>
-    <div className="form-group">
-      <label htmlFor="servings">price</label>
-      <input
-        type="number"
-        className="form-control"
-        id="servings"
-        value={form.servings}
-        onChange={(e) => updateForm({ servings: e.target.value })}
-      />
-    </div>
-    <div className="form-group">
-      <label htmlFor="servings">storageType</label>
-      <Select
-              isSearchable="true"
-              onChange={(e) => updateSelectbox(index, e)}
-              options={searchList}
-              filterOption={createFilter({ ignoreAccents: false })}
-              captureMenuScroll={false}
-              classNamePrefix="custom-select"
-              components={{ Option: CustomOption, MenuList: CustomMenuList }}
-              placeholder={form.ingredientList[index].ingredient ? `${form.ingredientList[index].ingredient} in ${form.ingredientList[index].quantityType} (${formatter.format(form.ingredientList[index].price)} per ${form.ingredientList[index].quantityType})` : "Select Ingredient..."}
+          </h3>
+          <div className="form-group">
+            <label htmlFor="recipeName">Recipe Name</label>
+              <Select
+                isSearchable="true"
+                onChange={(e) => updateSelectbox(index, e)}
+                options={searchList}
+                filterOption={createFilter({ ignoreAccents: false })}
+                captureMenuScroll={false}
+                classNamePrefix="custom-select"
+                components={{ Option: CustomOption, MenuList: CustomMenuList }}
+                placeholder={"Select Ingredient..."}
+              />
+          </div>
+          <div className="form-group">
+            <label htmlFor="servings">Item Number</label>
+            <input
+              type="number"
+              className="form-control"
+              id="servings"
+              value={form.servings}
+              onChange={(e) => updateForm({ servings: e.target.value })}
             />
-    </div>
-    <div className="form-group">
-      <label htmlFor="servings">vendor</label>
-      <Select
-              isSearchable="true"
-              onChange={(e) => updateSelectbox(index, e)}
-              options={searchList}
-              filterOption={createFilter({ ignoreAccents: false })}
-              captureMenuScroll={false}
-              classNamePrefix="custom-select"
-              components={{ Option: CustomOption, MenuList: CustomMenuList }}
-              placeholder={form.ingredientList[index].ingredient ? `${form.ingredientList[index].ingredient} in ${form.ingredientList[index].quantityType} (${formatter.format(form.ingredientList[index].price)} per ${form.ingredientList[index].quantityType})` : "Select Ingredient..."}
+          </div>
+          <div className="form-group">
+            <label htmlFor="servings">amountPerPack</label>
+            <input
+              type="number"
+              className="form-control"
+              id="servings"
+              value={form.servings}
+              onChange={(e) => updateForm({ servings: e.target.value })}
             />
+          </div>
+          <div className="form-group">
+            <label htmlFor="servings">amount</label>
+            <input
+              type="number"
+              className="form-control"
+              id="servings"
+              value={form.servings}
+              onChange={(e) => updateForm({ servings: e.target.value })}
+            />
+          </div>
+          <div className="form-group">
+            <label htmlFor="recipeName">quantityType</label>
+            <input
+              type="text"
+              className="form-control"
+              id="recipeName"
+              value={form.recipeName}
+              onChange={(e) => updateForm({ recipeName: e.target.value })}
+            />
+          </div>
+          <div className="form-group">
+            <label htmlFor="recipeName">Name</label>
+            <input
+              type="text"
+              className="form-control"
+              id="recipeName"
+              value={form.recipeName}
+              onChange={(e) => updateForm({ recipeName: e.target.value })}
+            />
+          </div>
+          <div className="form-group">
+            <label htmlFor="servings">price</label>
+            <input
+              type="number"
+              className="form-control"
+              id="servings"
+              value={form.servings}
+              onChange={(e) => updateForm({ servings: e.target.value })}
+            />
+          </div>
+          <div className="form-group">
+            <label htmlFor="servings">storageType</label>
+            <Select
+                    isSearchable="true"
+                    onChange={(e) => updateSelectbox(index, e)}
+                    options={searchList}
+                    filterOption={createFilter({ ignoreAccents: false })}
+                    captureMenuScroll={false}
+                    classNamePrefix="custom-select"
+                    components={{ Option: CustomOption, MenuList: CustomMenuList }}
+                    placeholder={"Select Storage Type..."}
+                  />
+          </div>
+          <div className="form-group">
+            <label htmlFor="servings">vendor</label>
+            <Select
+                    isSearchable="true"
+                    onChange={(e) => updateSelectbox(index, e)}
+                    options={searchList}
+                    filterOption={createFilter({ ignoreAccents: false })}
+                    captureMenuScroll={false}
+                    classNamePrefix="custom-select"
+                    components={{ Option: CustomOption, MenuList: CustomMenuList }}
+                    placeholder={"Select Vendor..."}
+                  />
+          </div>
+        </form>
+      </div>
     </div>
-    </form>
-    </div>
-    </div>
-    </div>
+  </div>
  );
 }
