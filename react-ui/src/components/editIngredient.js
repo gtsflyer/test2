@@ -88,26 +88,8 @@ export default function EditInventory() {
      return { ...prev, ...value };
    });
  }
- 
-//  function addFormFields() {
-//   let newIngredientList = form.ingredientList.push({ ingredient: "", quantity: "" , quantityType: "", price: ""});
-//   updateForm(newIngredientList);
-// }
-
-// function removeFormFields(i) {
-//   let newIngredientList = [...form.ingredientList];
-//   newIngredientList.splice(i, 1);
-//   updateForm({ingredientList: newIngredientList})
-// }
-
-//  let updateIngredient = (i, e) => {
-//   let newIngredientList = [...form.ingredientList];
-//   newIngredientList[i][e.target.name] = e.target.value;
-//   updateForm({ingredientList: newIngredientList});
-// }
 
 let updateSelectbox = (value) => {
-  alert(JSON.stringify(allIngredients.filter(ingredientDetails => ingredientDetails.name === value))[0]);
   setForm(allIngredients.filter(ingredientDetails => ingredientDetails.name === value)[0]);
 }
  
@@ -246,7 +228,7 @@ let updateSelectbox = (value) => {
             <label htmlFor="servings">Order Placed</label>
             <Select
                     isSearchable="true"
-                    onChange={(e) => updateForm({ orderPlaced: e.target.value})}
+                    onChange={(e) => updateForm({ orderPlaced: e.value})}
                     options={yesNoOptions}
                     filterOption={createFilter({ ignoreAccents: false })}
                     captureMenuScroll={false}
@@ -279,7 +261,7 @@ let updateSelectbox = (value) => {
             <label htmlFor="servings">Delivered</label>
             <Select
                     isSearchable="true"
-                    onChange={(e) => updateForm({ isDelivered: e.target.value})}
+                    onChange={(e) => updateForm({ isDelivered: e.value})}
                     options={yesNoOptions}
                     filterOption={createFilter({ ignoreAccents: false })}
                     captureMenuScroll={false}
