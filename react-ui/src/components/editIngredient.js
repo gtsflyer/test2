@@ -234,6 +234,52 @@ let updateSelectbox = (i, e) => {
                     placeholder={"Select Vendor..."}
                   />
           </div>
+          <div className="form-group">
+            <label htmlFor="servings">Order Placed</label>
+            <Select
+                    isSearchable="true"
+                    onChange={(e) => updateSelectbox()}
+                    options={searchList}
+                    filterOption={createFilter({ ignoreAccents: false })}
+                    captureMenuScroll={false}
+                    classNamePrefix="custom-select"
+                    components={{ Option: CustomOption, MenuList: CustomMenuList }}
+                    placeholder={"Select yes if an order has been placed..."}
+                  />
+          </div>
+          <div className="form-group">
+            <label htmlFor="recipeName">Expected Delivery Date</label>
+            <input
+              type="text"
+              className="form-control"
+              id="recipeName"
+              value={form.recipeName}
+              onChange={(e) => updateForm({ recipeName: e.target.value })}
+            />
+          </div>
+          <div className="form-group">
+            <label htmlFor="servings">Inventory on hand</label>
+            <input
+              type="number"
+              className="form-control"
+              id="servings"
+              value={form.servings}
+              onChange={(e) => updateForm({ servings: e.target.value })}
+            />
+          </div>
+          <div className="form-group">
+            <label htmlFor="servings">Delivered</label>
+            <Select
+                    isSearchable="true"
+                    onChange={(e) => updateSelectbox()}
+                    options={searchList}
+                    filterOption={createFilter({ ignoreAccents: false })}
+                    captureMenuScroll={false}
+                    classNamePrefix="custom-select"
+                    components={{ Option: CustomOption, MenuList: CustomMenuList }}
+                    placeholder={"Select yes is order has been delivered..."}
+                  />
+          </div>
         </form>
       </div>
     </div>
