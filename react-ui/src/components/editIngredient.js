@@ -1,17 +1,26 @@
 import React, { useState, useEffect } from "react";
 import { useParams, useNavigate } from "react-router";
-import { Form } from 'react-bootstrap';
 import Select, { createFilter } from "react-select";
 import allIngredients from "./ingredientList.json";
 import CustomOption from "./customOption";
 import CustomMenuList from "./CustomMenuList";
 import "./customOptions.css";
- 
+
 export default function EditInventory() {
  const [form, setForm] = useState({
-  recipeName: "",
-  ingredientList: [{ ingredient: "", quantity: "", quantityType: "", price: ""}],
-  servings: 0,
+  itemNumber: "",
+  amountPerPack: "",
+  amount: "",
+  quantityType: "",
+  name: "",
+  price: "",
+  storageType: "",
+  vendor: "",
+  orderPlaced: "",
+  expectedDelivery: "",
+  inventoryOnHand: "",
+  isDelivered: ""
+
  });
  const params = useParams();
  const navigate = useNavigate();
@@ -63,39 +72,39 @@ export default function EditInventory() {
    });
  }
  
- function addFormFields() {
-  let newIngredientList = form.ingredientList.push({ ingredient: "", quantity: "" , quantityType: "", price: ""});
-  updateForm(newIngredientList);
-}
+//  function addFormFields() {
+//   let newIngredientList = form.ingredientList.push({ ingredient: "", quantity: "" , quantityType: "", price: ""});
+//   updateForm(newIngredientList);
+// }
 
-function removeFormFields(i) {
-  let newIngredientList = [...form.ingredientList];
-  newIngredientList.splice(i, 1);
-  updateForm({ingredientList: newIngredientList})
-}
+// function removeFormFields(i) {
+//   let newIngredientList = [...form.ingredientList];
+//   newIngredientList.splice(i, 1);
+//   updateForm({ingredientList: newIngredientList})
+// }
 
- let updateIngredient = (i, e) => {
-  let newIngredientList = [...form.ingredientList];
-  newIngredientList[i][e.target.name] = e.target.value;
-  updateForm({ingredientList: newIngredientList});
-}
+//  let updateIngredient = (i, e) => {
+//   let newIngredientList = [...form.ingredientList];
+//   newIngredientList[i][e.target.name] = e.target.value;
+//   updateForm({ingredientList: newIngredientList});
+// }
 
-let updateSelectbox = (i, e) => {
- let newIngredientList = [...form.ingredientList];
- newIngredientList[i]["ingredient"] = e.value.split(',')[0];
- newIngredientList[i]["quantityType"] = e.value.split(',')[1];
- newIngredientList[i]["price"] = e.value.split(',')[2];
- updateForm({ingredientList: newIngredientList});
+let updateSelectbox = () => {
+//  let newIngredientList = [...form.ingredientList];
+//  newIngredientList[i]["ingredient"] = e.value.split(',')[0];
+//  newIngredientList[i]["quantityType"] = e.value.split(',')[1];
+//  newIngredientList[i]["price"] = e.value.split(',')[2];
+//  updateForm({ingredientList: newIngredientList});
 }
  
  async function onSubmit(e) {
    e.preventDefault();
-   const editedRecipe = { ...form };
+   const editedIngredient = { ...form };
 
    // This will send a post request to update the data in the database.
-   await fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/updateRecipe/${params.id}`, {
+   await fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/updateIngredient/${params.id}`, {
      method: "POST",
-     body: JSON.stringify(editedRecipe),
+     body: JSON.stringify(editedIngredient),
      headers: {
        'Content-Type': 'application/json'
      },
@@ -105,24 +114,9 @@ let updateSelectbox = (i, e) => {
     return;
   });
  
-   navigate("/recipeList");
+   navigate("/reports");
  }
 
- /*
- Drop down with all the ingeredients in it
- edit boxes for the below.
-	{
-	  "itemNumber": 87431700,
-	  "amountPerPack": 384,
-	  "amount": 0.375,
-	  "quantityType": "Oz",
-	  "name": "Int.Deligh Creamer Non Dairy Original",
-	  "price": 0.113125,
-	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
-	},
-  */
- 
  // This following section will display the form that takes input from the user to update the data.
  return (
   <div class="container">
@@ -155,7 +149,7 @@ let updateSelectbox = (i, e) => {
               className="form-control"
               id="servings"
               value={form.servings}
-              onChange={(e) => updateForm({ servings: e.target.value })}
+              onChange={(e) => updateForm({ itemNumber: e.target.value })}
             />
           </div>
           <div className="form-group">
@@ -165,7 +159,7 @@ let updateSelectbox = (i, e) => {
               className="form-control"
               id="servings"
               value={form.servings}
-              onChange={(e) => updateForm({ servings: e.target.value })}
+              onChange={(e) => updateForm({ amountPerPack: e.target.value })}
             />
           </div>
           <div className="form-group">
@@ -175,7 +169,7 @@ let updateSelectbox = (i, e) => {
               className="form-control"
               id="servings"
               value={form.servings}
-              onChange={(e) => updateForm({ servings: e.target.value })}
+              onChange={(e) => updateForm({ amount: e.target.value })}
             />
           </div>
           <div className="form-group">
@@ -185,7 +179,7 @@ let updateSelectbox = (i, e) => {
               className="form-control"
               id="recipeName"
               value={form.recipeName}
-              onChange={(e) => updateForm({ recipeName: e.target.value })}
+              onChange={(e) => updateForm({ quantityType: e.target.value })}
             />
           </div>
           <div className="form-group">
@@ -195,7 +189,7 @@ let updateSelectbox = (i, e) => {
               className="form-control"
               id="recipeName"
               value={form.recipeName}
-              onChange={(e) => updateForm({ recipeName: e.target.value })}
+              onChange={(e) => updateForm({ name: e.target.value })}
             />
           </div>
           <div className="form-group">
@@ -205,14 +199,14 @@ let updateSelectbox = (i, e) => {
               className="form-control"
               id="servings"
               value={form.servings}
-              onChange={(e) => updateForm({ servings: e.target.value })}
+              onChange={(e) => updateForm({ price: e.target.value })}
             />
           </div>
           <div className="form-group">
             <label htmlFor="servings">storageType</label>
             <Select
                     isSearchable="true"
-                    onChange={(e) => updateSelectbox()}
+                    onChange={(e) => updateForm({ storageType: e.target.value})}
                     options={searchList}
                     filterOption={createFilter({ ignoreAccents: false })}
                     captureMenuScroll={false}
@@ -225,7 +219,7 @@ let updateSelectbox = (i, e) => {
             <label htmlFor="servings">vendor</label>
             <Select
                     isSearchable="true"
-                    onChange={(e) => updateSelectbox()}
+                    onChange={(e) => updateForm({ vendor: e.target.value})}
                     options={searchList}
                     filterOption={createFilter({ ignoreAccents: false })}
                     captureMenuScroll={false}
@@ -238,7 +232,7 @@ let updateSelectbox = (i, e) => {
             <label htmlFor="servings">Order Placed</label>
             <Select
                     isSearchable="true"
-                    onChange={(e) => updateSelectbox()}
+                    onChange={(e) => updateForm({ orderPlaced: e.target.value})}
                     options={searchList}
                     filterOption={createFilter({ ignoreAccents: false })}
                     captureMenuScroll={false}
@@ -254,7 +248,7 @@ let updateSelectbox = (i, e) => {
               className="form-control"
               id="recipeName"
               value={form.recipeName}
-              onChange={(e) => updateForm({ recipeName: e.target.value })}
+              onChange={(e) => updateForm({ expectedDelivery: e.target.value })}
             />
           </div>
           <div className="form-group">
@@ -264,14 +258,14 @@ let updateSelectbox = (i, e) => {
               className="form-control"
               id="servings"
               value={form.servings}
-              onChange={(e) => updateForm({ servings: e.target.value })}
+              onChange={(e) => updateForm({ inventoryOnHand: e.target.value })}
             />
           </div>
           <div className="form-group">
             <label htmlFor="servings">Delivered</label>
             <Select
                     isSearchable="true"
-                    onChange={(e) => updateSelectbox()}
+                    onChange={(e) => updateForm({ isDelivered: e.target.value})}
                     options={searchList}
                     filterOption={createFilter({ ignoreAccents: false })}
                     captureMenuScroll={false}
