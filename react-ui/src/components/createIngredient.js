@@ -157,7 +157,7 @@ export default function CreateIngredient() {
             <label htmlFor="servings">storageType</label>
             <Select
                     isSearchable="true"
-                    onChange={(e) => updateForm({ storageType: e.target.value})}
+                    onChange={(e) => updateForm({ storageType: e.value})}
                     options={storageTypeList}
                     filterOption={createFilter({ ignoreAccents: false })}
                     captureMenuScroll={false}
@@ -170,7 +170,7 @@ export default function CreateIngredient() {
             <label htmlFor="servings">vendor</label>
             <Select
                     isSearchable="true"
-                    onChange={(e) => updateForm({ vendor: e.target.value})}
+                    onChange={(e) => updateForm({ vendor: e.value})}
                     options={vendorList}
                     filterOption={createFilter({ ignoreAccents: false })}
                     captureMenuScroll={false}
