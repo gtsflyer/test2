@@ -70,7 +70,7 @@ let updateSelectbox = (value) => {
       <div class="row">
         {ingredientList.length > 0 ? 
         <div className="form-group">
-          <label htmlFor="servings">Item Number</label>
+          <label htmlFor="servings">Select an ingredient to update</label>
           <Select
             isSearchable="true"
             onChange={(e) => updateSelectbox(e.value)}
@@ -86,6 +86,11 @@ let updateSelectbox = (value) => {
         <center>Please create an ingredient</center>
         }
       </div>
+        <div class="row">
+          <div class="col">
+            <label htmlFor="servings">&nbsp;</label>
+          </div>
+        </div>
         <div class="row">
           <div class="col">
             <div className="form-group">
