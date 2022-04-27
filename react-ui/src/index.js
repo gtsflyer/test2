@@ -10,6 +10,7 @@ import MenuList from './components/menuList';
 import CreateMenu from './components/createMenu';
 import EditMenu from './components/editMenu';
 import Reports from './components/reports';
+import EditIngredient from './components/editIngredient';
 import { BrowserRouter as Router, Routes, Route}
     from 'react-router-dom';
 
@@ -26,6 +27,7 @@ ReactDOM.render(
           <Route path='/createMenu' element={<CreateMenu />} />
           <Route path='/editMenu/:id' element={<EditMenu />} />
           <Route path='/reports' element={<Reports />} />
+          <Route path='/editIngredient' element={<EditIngredient />} />
       </Routes>
     </Router>
   </React.StrictMode>,

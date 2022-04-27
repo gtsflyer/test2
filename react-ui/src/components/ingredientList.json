@@ -327,7 +327,7 @@
 	  "name": "Wesson Oil Canola",
 	  "price": 18.38,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Grocery"
 	},
 	{
 	  "itemNumber": 12113800,
@@ -2357,7 +2357,7 @@
 	  "name": "Grassland Salted Butter Solids",
 	  "price": 4.012222222,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "Grocery"
 	},
 	{
 	  "itemNumber": 87421800,
@@ -2607,7 +2607,7 @@
 	  "name": "Packer Onions Red Approx 25# Produce",
 	  "price": 1.458666667,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Grocery"
 	},
 	{
 	  "itemNumber": 90058000,
