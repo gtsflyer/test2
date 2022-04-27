@@ -1,5 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import React, { useEffect, useState } from "react";
+import { useNavigate } from "react-router";
 import Select, { createFilter } from "react-select";
 import { Button } from 'react-bootstrap';
 import CustomOption from "./customOption";
@@ -7,6 +8,7 @@ import CustomMenuList from "./CustomMenuList";
 import "./customOptions.css";
 
 function Ingredients() {
+  const navigate = useNavigate();
   const [ingredientList, setIngredients] = useState([]);
 
   // This method fetches the records from the database.
