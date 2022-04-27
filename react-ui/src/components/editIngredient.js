@@ -38,6 +38,23 @@ export default function EditInventory() {
     }
    }
   );
+
+  const storageTypeList = [
+    {"value": "Refrigerator", "label": "Refrigerator"},
+    {"value": "Shelf Stable", "label": "Shelf Stable"},
+    {"value": "Frozen", "label": "Frozen"},
+  ];
+
+  const vendorList = [
+    {"value": "Grocery", "label": "Grocery"},
+    {"value": "Schenk's", "label": "Schenk's"},
+    {"value": "US Foods", "label": "US Foods"}
+  ];
+
+  const yesNoOptions = [
+    {"value": "yes", "label": "Yes"},
+    {"value": "no", "label": "No"}
+  ];
  
  useEffect(() => {
    async function fetchData() {
@@ -204,7 +221,7 @@ let updateSelectbox = (value) => {
             <Select
                     isSearchable="true"
                     onChange={(e) => updateForm({ storageType: e.target.value})}
-                    options={searchList}
+                    options={storageTypeList}
                     filterOption={createFilter({ ignoreAccents: false })}
                     captureMenuScroll={false}
                     classNamePrefix="custom-select"
@@ -217,7 +234,7 @@ let updateSelectbox = (value) => {
             <Select
                     isSearchable="true"
                     onChange={(e) => updateForm({ vendor: e.target.value})}
-                    options={searchList}
+                    options={vendorList}
                     filterOption={createFilter({ ignoreAccents: false })}
                     captureMenuScroll={false}
                     classNamePrefix="custom-select"
@@ -230,7 +247,7 @@ let updateSelectbox = (value) => {
             <Select
                     isSearchable="true"
                     onChange={(e) => updateForm({ orderPlaced: e.target.value})}
-                    options={searchList}
+                    options={yesNoOptions}
                     filterOption={createFilter({ ignoreAccents: false })}
                     captureMenuScroll={false}
                     classNamePrefix="custom-select"
@@ -263,7 +280,7 @@ let updateSelectbox = (value) => {
             <Select
                     isSearchable="true"
                     onChange={(e) => updateForm({ isDelivered: e.target.value})}
-                    options={searchList}
+                    options={yesNoOptions}
                     filterOption={createFilter({ ignoreAccents: false })}
                     captureMenuScroll={false}
                     classNamePrefix="custom-select"
