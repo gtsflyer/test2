@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from "react";
-import { useParams, useNavigate } from "react-router";
+import React, { useState } from "react";
+import { useNavigate } from "react-router";
 import Select, { createFilter } from "react-select";
 import CustomOption from "./customOption";
 import CustomMenuList from "./CustomMenuList";
@@ -87,7 +87,7 @@ export default function CreateIngredient() {
     <div class="row">
       <div class="col">
         <form onSubmit={onSubmit}>
-          <h3>Update Ingredient <input
+          <h3>Create Ingredient <input
             type="submit"
             value="💾 Save"
             className="btn btn-primary"

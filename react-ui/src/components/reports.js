@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
-import allIngredients from "./ingredientList.json";
-import Select, { createFilter } from "react-select";
+import Select from "react-select";
 import CsvDownload from 'react-json-to-csv'
 import 'bootstrap/dist/css/bootstrap.css';
   
@@ -8,6 +7,29 @@ export default function Reports() {
   const [menus, setMenus] = useState([]);
   const [recipes, setRecipes] = useState([]);
   const [displayedReport, setDisplayedReport] = useState([]);
+  const [allIngredients, setIngredients] = useState([]);
+
+  // This method fetches the records from the database.
+  useEffect(() => {
+    async function getIngredients() {
+    const response = await fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/ingredients/`);
+
+    if (!response.ok) {
+        const message = `An error occurred: ${response.statusText}`;
+        window.alert(message);
+        return;
+    }
+
+    const ingredientList = await response.json();
+    if (ingredientList.length <= 0) {
+    }
+    setIngredients(ingredientList);
+    }
+
+    getIngredients();
+
+    return;
+}, [allIngredients.length]);
 
   const dollarFormatter = new Intl.NumberFormat('en-US', {
     style: 'currency',
