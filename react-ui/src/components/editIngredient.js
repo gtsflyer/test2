@@ -63,6 +63,7 @@ export default function EditIngredient() {
      setForm(record);
    }
  
+   alert("going to fetch");
    fetchData();
  
    return;
