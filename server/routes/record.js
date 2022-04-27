@@ -14,7 +14,7 @@ const ObjectId = require("mongodb").ObjectId;
 
 // This section will help you get a list of all the recipes.
 recordRoutes.route("/recipes").get(function (req, res) {
-  let db_connect = dbo.getDb("kitchen");
+  let db_connect = dbo.getDb();
   db_connect
     .collection("recipes")
     .find({})
@@ -26,7 +26,7 @@ recordRoutes.route("/recipes").get(function (req, res) {
 
 // This section will help you get a list of all the menus.
 recordRoutes.route("/menus").get(function (req, res) {
-    let db_connect = dbo.getDb("kitchen");
+    let db_connect = dbo.getDb();
     db_connect
       .collection("menus")
       .find({})
@@ -35,6 +35,18 @@ recordRoutes.route("/menus").get(function (req, res) {
         res.json(result);
       });
   });
+
+// This section will help you get a list of all the ingredients.
+recordRoutes.route("/ingredients").get(function (req, res) {
+  let db_connect = dbo.getDb();
+  db_connect
+    .collection("ingredients")
+    .find({})
+    .toArray(function (err, result) {
+      if (err) throw err;
+      res.json(result);
+    });
+});
 
 // This section will help you get a single recipe by id
 recordRoutes.route("/recipes/:id").get(function (req, res) {
@@ -60,6 +72,18 @@ recordRoutes.route("/menus/:id").get(function (req, res) {
       });
 });
 
+// This section will help you get a single ingredient by id
+recordRoutes.route("/ingredients/:id").get(function (req, res) {
+  let db_connect = dbo.getDb();
+  let myquery = { _id: ObjectId( req.params.id )};
+  db_connect
+      .collection("ingredients")
+      .findOne(myquery, function (err, result) {
+        if (err) throw err;
+        res.json(result);
+      });
+});
+
 // This section will help you create a new recipe.
 recordRoutes.route("/recipes/add").post(function (req, response) {
   let db_connect = dbo.getDb();
@@ -74,8 +98,6 @@ recordRoutes.route("/recipes/add").post(function (req, response) {
   });
 });
 
-
-
 // This section will help you create a new menu.
 recordRoutes.route("/menus/add").post(function (req, response) {
     let db_connect = dbo.getDb();
@@ -89,6 +111,29 @@ recordRoutes.route("/menus/add").post(function (req, response) {
       response.json(res);
     });
   });
+
+// This section will help you create a new ingredient.
+recordRoutes.route("/ingredients/add").post(function (req, response) {
+  let db_connect = dbo.getDb();
+  let myobj = {
+      itemNumber: req.body.itemNumber,
+      amountPerPack: req.body.amountPerPack,
+      amount: req.body.amount,
+      quantityType: req.body.quantityType,
+      name: req.body.name,
+      price: req.body.price,
+      storageType: req.body.storageType,
+      vendor: req.body.vendor,
+      orderPlaced: req.body.orderPlaced,
+      expectedDelivery: req.body.expectedDelivery,
+      inventoryOnHand: req.body.inventoryOnHand,
+      isDelivered: req.body.isDelivered
+  };
+  db_connect.collection("ingredients").insertOne(myobj, function (err, res) {
+    if (err) throw err;
+    response.json(res);
+  });
+});
 
 // This section will help you update a recipe by id.
 recordRoutes.route("/updateRecipe/:id").post(function (req, response) {
@@ -132,6 +177,35 @@ recordRoutes.route("/updateMenu/:id").post(function (req, response) {
     });
 });
 
+// This section will help you update an ingredient by id.
+recordRoutes.route("/updateIngredient/:id").post(function (req, response) {
+  let db_connect = dbo.getDb();
+  let myquery = { _id: ObjectId( req.params.id )};
+  let newvalues = {
+    $set: {
+      itemNumber: req.body.itemNumber,
+      amountPerPack: req.body.amountPerPack,
+      amount: req.body.amount,
+      quantityType: req.body.quantityType,
+      name: req.body.name,
+      price: req.body.price,
+      storageType: req.body.storageType,
+      vendor: req.body.vendor,
+      orderPlaced: req.body.orderPlaced,
+      expectedDelivery: req.body.expectedDelivery,
+      inventoryOnHand: req.body.inventoryOnHand,
+      isDelivered: req.body.isDelivered
+    },
+  };
+  db_connect
+    .collection("ingredients")
+    .updateOne(myquery, newvalues, function (err, res) {
+      if (err) throw err;
+      console.log("1 menu updated");
+      response.json(res);
+    });
+});
+
 // This section will help you delete a recipe
 recordRoutes.route("/deleteRecipe/:id").delete((req, response) => {
   console.log("trying to delete:");
@@ -156,6 +230,19 @@ recordRoutes.route("/deleteMenu/:id").delete((req, response) => {
       console.log("1 menu deleted");
       response.json(obj);
     });
+});
+
+// This section will help you delete an ingredient
+recordRoutes.route("/deleteIngredient/:id").delete((req, response) => {
+  console.log("trying to delete:");
+  console.log(req);
+  let db_connect = dbo.getDb();
+  let myquery = { _id: ObjectId( req.params.id )};
+  db_connect.collection("ingredients").deleteOne(myquery, function (err, obj) {
+    if (err) throw err;
+    console.log("1 ingredient deleted");
+    response.json(obj);
   });
+});
 
 module.exports = recordRoutes;

@@ -5,7 +5,7 @@ import CustomOption from "./customOption";
 import CustomMenuList from "./CustomMenuList";
 import "./customOptions.css";
 
-export default function EditInventory() {
+export default function CreateIngredient() {
  const [form, setForm] = useState({
   itemNumber: "",
   amountPerPack: "",
@@ -21,7 +21,6 @@ export default function EditInventory() {
   isDelivered: ""
 
  });
- const params = useParams();
  const navigate = useNavigate();
 
   const storageTypeList = [
@@ -41,47 +40,21 @@ export default function EditInventory() {
     {"value": "no", "label": "No"}
   ];
  
- useEffect(() => {
-   async function fetchData() {
-     const id = params.id.toString();
-     const response = await fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/ingredient/${params.id.toString()}`);
- 
-     if (!response.ok) {
-       const message = `An error has occurred: ${response.statusText}`;
-       window.alert(message);
-       return;
-     }
- 
-     const record = await response.json();
-     if (!record) {
-       window.alert(`ingredient with id ${id} not found`);
-       navigate("/reports");
-       return;
-     }
-
-     setForm(record);
-   }
- 
-   fetchData();
- 
-   return;
- }, [params.id, navigate]);
- 
  // These methods will update the state properties.
  function updateForm(value) {
    return setForm((prev) => {
      return { ...prev, ...value };
    });
  }
-
+ 
  async function onSubmit(e) {
    e.preventDefault();
-   const editedIngredient = { ...form };
+   const newIngredient = { ...form };
 
    // This will send a post request to update the data in the database.
-   await fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/updateIngredient/${params.id}`, {
+   await fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/ingredients/add`, {
      method: "POST",
-     body: JSON.stringify(editedIngredient),
+     body: JSON.stringify(newIngredient),
      headers: {
        'Content-Type': 'application/json'
      },
@@ -91,10 +64,22 @@ export default function EditInventory() {
     return;
   });
  
+   setForm({ 
+      itemNumber: "",
+      amountPerPack: "",
+      amount: "",
+      quantityType: "",
+      name: "",
+      price: "",
+      storageType: "",
+      vendor: "",
+      orderPlaced: "",
+      expectedDelivery: "",
+      inventoryOnHand: "",
+      isDelivered: ""
+   });
    navigate("/");
  }
-
- /*git add -A;git commit -m "testing";git push;git push heroku main*/
 
  // This following section will display the form that takes input from the user to update the data.
  return (

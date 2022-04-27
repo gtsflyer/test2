@@ -2,12 +2,36 @@ import React, { useState } from "react";
 import { useNavigate } from "react-router";
 import { Form } from 'react-bootstrap';
 import Select, { createFilter } from "react-select";
-import allIngredients from "./ingredientList.json";
 import CustomOption from "./customOption";
 import CustomMenuList from "./CustomMenuList";
 import "./customOptions.css";
  
 export default function CreateRecipe() {
+
+  const [allIngredients, setIngredients] = useState([]);
+
+  // This method fetches the records from the database.
+  useEffect(() => {
+    async function getIngredients() {
+    const response = await fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/ingredients/`);
+
+    if (!response.ok) {
+        const message = `An error occurred: ${response.statusText}`;
+        window.alert(message);
+        return;
+    }
+
+    const ingredientList = await response.json();
+    if (ingredientList.length <= 0) {
+    }
+    setIngredients(ingredientList);
+    }
+
+    getIngredients();
+
+    return;
+}, [allIngredients.length]);
+
  const [form, setForm] = useState({
    recipeName: "",
    ingredientList: [{ ingredient: "", quantity: "", quantityType: "", price: ""}],

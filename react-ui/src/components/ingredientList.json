@@ -7,7 +7,11 @@
 	  "name": "Hanover Beans Green Fancy Cut",
 	  "price": 0.04780236,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 1014000,
@@ -17,7 +21,11 @@
 	  "name": "Hanover Beans Light Kidney In Sauce",
 	  "price": 0.047286136,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 1016000,
@@ -27,7 +35,11 @@
 	  "name": "Packer Beans Dark Kidney In Sauce",
 	  "price": 0.054247788,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 1019100,
@@ -37,7 +49,11 @@
 	  "name": "Hanover Beans Pork Fancy",
 	  "price": 0.048480826,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 1038000,
@@ -47,7 +63,11 @@
 	  "name": "Hanover Beets Sliced Pickled",
 	  "price": 0.054882006,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 1044000,
@@ -57,7 +77,11 @@
 	  "name": "Libby Carrots Sliced Medium Fancy",
 	  "price": 0.058746313,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 1064000,
@@ -67,7 +91,11 @@
 	  "name": "Margaret Greens Mixed",
 	  "price": 0.081297935,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 1109000,
@@ -77,7 +105,11 @@
 	  "name": "Angela Tomatoes Whole Peeled",
 	  "price": 0.052669617,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 1245800,
@@ -87,7 +119,11 @@
 	  "name": "Idahoan Potatoes Mashed Idaho W/Vitamin C",
 	  "price": 0.255352564,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 1250010,
@@ -97,7 +133,11 @@
 	  "name": "Idahoan Potatoes Mashed Original Flakes",
 	  "price": 3.006333333,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 1380000,
@@ -107,7 +147,11 @@
 	  "name": "Red Gold Ketchup Fancy 33% Red Gold Can",
 	  "price": 0.052094395,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 1401700,
@@ -117,7 +161,11 @@
 	  "name": "Contadin Sauce Spaghetti Deluxe",
 	  "price": 0.070634218,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 1658000,
@@ -127,7 +175,11 @@
 	  "name": "Rest.Pride Fruit Apples Sliced In Water",
 	  "price": 0.10219764,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 1661100,
@@ -137,7 +189,11 @@
 	  "name": "Musselma Fruit Spiced Homestyle Country",
 	  "price": 0.116061947,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 1664000,
@@ -147,7 +203,11 @@
 	  "name": "Rest.Pride Fruit Applesauce Fancy",
 	  "price": 0.084144543,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 1685000,
@@ -157,7 +217,11 @@
 	  "name": "Dole Fruit Tropical Salad Syrup",
 	  "price": 0.08679941,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 1707000,
@@ -167,7 +231,11 @@
 	  "name": "Celebrity Fruit Pears Sliced In Light Syrup",
 	  "price": 0.088259587,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 1750000,
@@ -177,7 +245,11 @@
 	  "name": "Imported Fruit Peaches Sliced In Syrup",
 	  "price": 0.101238938,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 1750100,
@@ -187,7 +259,11 @@
 	  "name": "Ambrosia Fruit Peaches Sliced In Juice",
 	  "price": 0.105457227,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 4358600,
@@ -197,7 +273,11 @@
 	  "name": "Dole Juice Pineapple Unsweet",
 	  "price": 0.07423913,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 4386000,
@@ -207,7 +287,11 @@
 	  "name": "Pellegrin Drink Sparkling Water 500ml",
 	  "price": 0.080547337,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 9904000,
@@ -217,7 +301,11 @@
 	  "name": "Ken's Dressing Cole Slaw",
 	  "price": 16.2775,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 9907000,
@@ -227,7 +315,11 @@
 	  "name": "Ken's Dressing Golden Italian",
 	  "price": 15.16,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 9915000,
@@ -237,7 +329,11 @@
 	  "name": "Kraft Dressing Honey Dijon",
 	  "price": 18.13,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 9916000,
@@ -247,7 +343,11 @@
 	  "name": "Kraft Dressing Catalina",
 	  "price": 17.6925,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 9917500,
@@ -257,7 +357,11 @@
 	  "name": "Kraft Dressing Creamy Italian",
 	  "price": 13.2375,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 9928600,
@@ -267,7 +371,11 @@
 	  "name": "Ken's Dressing Sweet And Spicy Honey",
 	  "price": 21.82,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 10068500,
@@ -277,7 +385,11 @@
 	  "name": "Kikkoman Sauce Soy Plastic Jug",
 	  "price": 13.375,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 10092500,
@@ -287,7 +399,11 @@
 	  "name": "Rest.Pride Vinegar Apple Cider Flavored",
 	  "price": 4.2275,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 10093000,
@@ -297,7 +413,11 @@
 	  "name": "Rest.Pride Vinegar White Distilled 5%",
 	  "price": 3.83,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 10239900,
@@ -307,7 +427,11 @@
 	  "name": "Ambrosia Pepper Fire Roasted Red",
 	  "price": 0.09159292,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 10241000,
@@ -317,7 +441,11 @@
 	  "name": "Ambrosia Pepper Fire Roasted Red Whole",
 	  "price": 0.137946429,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 11025500,
@@ -327,7 +455,11 @@
 	  "name": "Wesson Oil Canola",
 	  "price": 18.38,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 12113800,
@@ -337,7 +469,11 @@
 	  "name": "Thirst Eas Mix Pink Lemonade Drink 2 Gal",
 	  "price": 0.259399225,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 12128200,
@@ -347,7 +483,11 @@
 	  "name": "Ronnoco Sweet Brew Lemonade",
 	  "price": 3.40625,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 12128400,
@@ -357,7 +497,11 @@
 	  "name": "Ronnoco Bib Lemonade",
 	  "price": 21.66,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 12238500,
@@ -367,7 +511,11 @@
 	  "name": "Albanese Candy Gummy Bears Assorted",
 	  "price": 2.2715,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 12248500,
@@ -377,7 +525,11 @@
 	  "name": "Oreo Topping Oreo Cookie Crumbs",
 	  "price": 4.835,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 12304200,
@@ -387,7 +539,11 @@
 	  "name": "Borden's Milk Condensed Eagle",
 	  "price": 0.177404762,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 12871200,
@@ -397,7 +553,11 @@
 	  "name": "Monin Sauce Dark Chocolate",
 	  "price": 0.23828125,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 12871400,
@@ -407,7 +567,11 @@
 	  "name": "Monin Sauce White Chocolate",
 	  "price": 0.269335938,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 12871600,
@@ -417,7 +581,11 @@
 	  "name": "Monin Sauce Caramel",
 	  "price": 0.269335938,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 13041900,
@@ -427,7 +595,11 @@
 	  "name": "Tulkoff Garlic Spread",
 	  "price": 3.44875,
 	  "storageType": "Refrigerator",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 16684100,
@@ -437,7 +609,11 @@
 	  "name": "Lipton Tea Iced Brewing Blend (4 Gal)",
 	  "price": 0.446015625,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 16684400,
@@ -447,7 +623,11 @@
 	  "name": "Lipton Tea Iced Bags",
 	  "price": 0.37,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 16738900,
@@ -457,7 +637,11 @@
 	  "name": "Coffeema Creamer Coffee Individual",
 	  "price": 0.04076,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 16743000,
@@ -467,7 +651,11 @@
 	  "name": "Coffeema Creamer French Vanilla Pump",
 	  "price": 11.48,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 17026400,
@@ -477,7 +665,11 @@
 	  "name": "Hospitalit Cereal Raisin Bran Bowl Pack",
 	  "price": 0.2946875,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 17026500,
@@ -487,7 +679,11 @@
 	  "name": "Hospitalit Cereal Crisp Rice Bowl Pack",
 	  "price": 0.289583333,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 17026700,
@@ -497,7 +693,11 @@
 	  "name": "Hospitalit Cereal Apple Cinn.Oats Bowl",
 	  "price": 0.289583333,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 17091900,
@@ -507,7 +707,11 @@
 	  "name": "Gen. Mills Cereal Cheerios Bulk",
 	  "price": 0.46637931,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 19246400,
@@ -517,7 +721,11 @@
 	  "name": "Kraft Syrup Table Cup 80 Count",
 	  "price": 0.136125,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 19300900,
@@ -527,7 +735,11 @@
 	  "name": "Hellman's Mayonnaise Heavy Pack Pc",
 	  "price": 0.37556391,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 19304100,
@@ -537,7 +749,11 @@
 	  "name": "Ken's Dressing Golden Italian",
 	  "price": 0.230888889,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 19306300,
@@ -547,7 +763,11 @@
 	  "name": "Ken's Dressing Caesar Pack",
 	  "price": 0.260333333,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 19306500,
@@ -557,7 +777,11 @@
 	  "name": "Kraft Dressing Catalina Pack",
 	  "price": 0.249444444,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 19315000,
@@ -567,7 +791,11 @@
 	  "name": "Kraft Sauce Barbecue Pack",
 	  "price": 0.159542857,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 20006000,
@@ -577,7 +805,11 @@
 	  "name": "Royal Gelatin Strawberry",
 	  "price": 0.134166667,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 20009000,
@@ -587,7 +819,11 @@
 	  "name": "Royal Gelatin Red Assorted",
 	  "price": 0.142673611,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 20028000,
@@ -597,7 +833,11 @@
 	  "name": "Jell-O Pudding Instant Vanilla",
 	  "price": 0.236577381,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 20029000,
@@ -607,7 +847,11 @@
 	  "name": "Jell-O Pudding Instant Chocolate",
 	  "price": 0.249910714,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 20033000,
@@ -617,7 +861,11 @@
 	  "name": "Packer Pudding Chocolate Ready To Go",
 	  "price": 0.060634218,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 20034000,
@@ -627,7 +875,11 @@
 	  "name": "Packer Pudding Vanilla Ready To Go",
 	  "price": 0.065766962,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 22176800,
@@ -637,7 +889,11 @@
 	  "name": "Cont.Mill Mix Pancake Buttermilk",
 	  "price": 0.892333333,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 22177700,
@@ -647,7 +903,11 @@
 	  "name": "Cont.Mill Mix Yellow Cake",
 	  "price": 1.142,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 22182600,
@@ -657,7 +917,11 @@
 	  "name": "Gen. Mills Mix Corn Muffin Gold Medal",
 	  "price": 2.495,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 22182800,
@@ -667,7 +931,11 @@
 	  "name": "Gen. Mills Mix*Biscuit Gold Medal *U/A*",
 	  "price": 1.647333333,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 22234400,
@@ -677,7 +945,11 @@
 	  "name": "Stove Top Mix Stuffing Chicken",
 	  "price": 3.701851852,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 22446700,
@@ -687,7 +959,11 @@
 	  "name": "Packer Sauce Taco",
 	  "price": 15.935,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 22446900,
@@ -697,7 +973,11 @@
 	  "name": "Mccormic Seasoning Mix Taco Pouch",
 	  "price": 0.452727273,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 22449200,
@@ -707,7 +987,11 @@
 	  "name": "Las Peppers Diced Green Chiles",
 	  "price": 0.170061728,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 22673400,
@@ -717,7 +1001,11 @@
 	  "name": "Sunshine Crackers Wheat Wafer",
 	  "price": 0.282847222,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 25100000,
@@ -727,7 +1015,11 @@
 	  "name": "Morton's Spice Season All",
 	  "price": 0.224428571,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 25538000,
@@ -737,7 +1029,11 @@
 	  "name": "Wright's Spice Liquid Smoke Hickory",
 	  "price": 0.158072917,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 26020400,
@@ -747,7 +1043,11 @@
 	  "name": "Spice Clas Spice White Pepper Ground",
 	  "price": 0.906296296,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 28006207,
@@ -757,7 +1057,11 @@
 	  "name": "Knorr Soup Potato Chowder Dujour",
 	  "price": 0.517763158,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 28020500,
@@ -767,7 +1071,11 @@
 	  "name": "Rest.Pride Broth Chicken",
 	  "price": 0.050364583,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 28022000,
@@ -777,7 +1085,11 @@
 	  "name": "Le Gout Soup Cream Of Chicken",
 	  "price": 0.118080357,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 28265000,
@@ -787,7 +1099,11 @@
 	  "name": "Le Gout Base Beef",
 	  "price": 7.595,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 28268600,
@@ -797,7 +1113,11 @@
 	  "name": "Le Gout Mix Brown Gravy Instant",
 	  "price": 0.358352144,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 28300000,
@@ -807,7 +1127,11 @@
 	  "name": "Packer Sauce Cheese Aged Cheddar",
 	  "price": 0.112669617,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 28309500,
@@ -817,7 +1141,11 @@
 	  "name": "Trio Mix Chicken Gravy Instant",
 	  "price": 4.078900709,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 28314500,
@@ -827,7 +1155,11 @@
 	  "name": "Le Gout Mix Chicken Gravy Instant",
 	  "price": 5.60375,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 28316500,
@@ -837,7 +1169,11 @@
 	  "name": "Le Gout Mix Turkey Gravy Instant",
 	  "price": 6.21,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 30019000,
@@ -847,7 +1183,11 @@
 	  "name": "Packer Snacks Pretzels Classic Tiny Twist",
 	  "price": 2.321666667,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 30019500,
@@ -857,7 +1197,11 @@
 	  "name": "Martin's Chips Plain Round Tortilla",
 	  "price": 2.055,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 30024100,
@@ -867,7 +1211,11 @@
 	  "name": "Abuelita Chips Tortilla Corn White Salted",
 	  "price": 2.911666667,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 31202000,
@@ -877,7 +1225,11 @@
 	  "name": "Hershey Candy Hershey Bar Almond",
 	  "price": 1.004236111,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 31202900,
@@ -887,7 +1239,11 @@
 	  "name": "Hershey Candy Kit Kat",
 	  "price": 1.004236111,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 31209500,
@@ -897,7 +1253,11 @@
 	  "name": "M & Candy Snickers",
 	  "price": 0.928177083,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34033500,
@@ -907,7 +1267,11 @@
 	  "name": "Tork Napkin Lunch 1/4 Fold 1 Ply Vintage",
 	  "price": 0.008351667,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34077210,
@@ -917,7 +1281,11 @@
 	  "name": "Tork Towel Hand Multifold Natural",
 	  "price": 0.0073875,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34096000,
@@ -927,7 +1295,11 @@
 	  "name": "Tork Towel Hand Roll White 7.7x700'",
 	  "price": 11.14833333,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34096200,
@@ -937,7 +1309,11 @@
 	  "name": "Tork Towel Hand Roll Brown 7.7x700'",
 	  "price": 10.35666667,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34183400,
@@ -947,7 +1323,11 @@
 	  "name": "Laminate Paper Butcher White 18inx650' Roll",
 	  "price": 17.98,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34237000,
@@ -957,7 +1337,11 @@
 	  "name": "Rest.Pride Foil Aluminum 18inx 500'",
 	  "price": 36.55,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34240500,
@@ -967,7 +1351,11 @@
 	  "name": "Rest.Pride Foil Aluminum 18in 500'Heavy",
 	  "price": 61.52,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34297600,
@@ -977,7 +1365,11 @@
 	  "name": "Dart Cups Foam 8 Oz.",
 	  "price": 0.06127,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34301600,
@@ -987,7 +1379,11 @@
 	  "name": "Dart Cups Foam 12 Oz.",
 	  "price": 0.05865,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34307600,
@@ -997,7 +1393,11 @@
 	  "name": "Dart Cups Foam 16 Oz",
 	  "price": 0.08338,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34321700,
@@ -1007,7 +1407,11 @@
 	  "name": "Dart Cups Foam 24 Oz Horizon 24lx16h",
 	  "price": 0.13102,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34338000,
@@ -1017,7 +1421,11 @@
 	  "name": "Dart Lid Foam Cup Rclsble 16rclblk",
 	  "price": 0.10414,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34344100,
@@ -1027,7 +1435,11 @@
 	  "name": "Dart Lid Clear Dome W/Hole 16lcdh",
 	  "price": 0.12623,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34410000,
@@ -1037,7 +1449,11 @@
 	  "name": "Dart Container Portion 1 Oz 100pc",
 	  "price": 0.027044,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34410200,
@@ -1047,7 +1463,11 @@
 	  "name": "Dart Container Portion 2 Oz 200pc",
 	  "price": 0.031784,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34410900,
@@ -1057,7 +1477,11 @@
 	  "name": "Dart Lid Portion Container 1oz Pl100n",
 	  "price": 0.015068,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34411000,
@@ -1067,7 +1491,11 @@
 	  "name": "Dart Lid Portion Container 2oz Pl200n",
 	  "price": 0.019072,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34463100,
@@ -1077,7 +1505,11 @@
 	  "name": "Dart Cup Translucent 9 Oz Y9",
 	  "price": 0.061328,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34464300,
@@ -1087,7 +1519,11 @@
 	  "name": "Dart Cup Clear Plastic Tall 9oz Tp9d",
 	  "price": 0.11066,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34464900,
@@ -1097,7 +1533,11 @@
 	  "name": "Dart Cup Plastic Clear 12oz Tp22",
 	  "price": 0.12119,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34465500,
@@ -1107,7 +1547,11 @@
 	  "name": "Dart Cup Plastic Clear 20 Oz Tp20",
 	  "price": 0.173783333,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34520000,
@@ -1117,7 +1561,11 @@
 	  "name": "Unicup Cups Paper Hot 12 Oz",
 	  "price": 0.07844,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34520500,
@@ -1127,7 +1575,11 @@
 	  "name": "Unicup Cups Paper Hot 16 Oz",
 	  "price": 0.0904,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34522000,
@@ -1137,7 +1589,11 @@
 	  "name": "Inter-Nat Cups Paper Cold 5 Oz",
 	  "price": 0.058176,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34658000,
@@ -1147,7 +1603,11 @@
 	  "name": "Dart Bowl Foam 5oz Laminated",
 	  "price": 0.07804,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34736500,
@@ -1157,7 +1617,11 @@
 	  "name": "Polar Pak Container Plastic Sandwich Wedge",
 	  "price": 0.15768,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34880400,
@@ -1167,7 +1631,11 @@
 	  "name": "Dart Knives Plastic Med Wt",
 	  "price": 0.03757,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34882400,
@@ -1177,7 +1645,11 @@
 	  "name": "Dart Forks Plastic Med Wt",
 	  "price": 0.03725,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34884400,
@@ -1187,7 +1659,11 @@
 	  "name": "Dart Spoons Plastic Med",
 	  "price": 0.03757,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 34963700,
@@ -1197,7 +1673,11 @@
 	  "name": "Tinicum Liner Pan Quilion 16x24",
 	  "price": 0.05091,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 37792800,
@@ -1207,7 +1687,11 @@
 	  "name": "Right Choice Trash Bag 24x23 Heavy 10 Gallon",
 	  "price": 0.07422,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 37793700,
@@ -1217,7 +1701,11 @@
 	  "name": "Packer Trash Bag 43x48 56gal 16m Natural",
 	  "price": 0.19965,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 37793900,
@@ -1227,7 +1715,11 @@
 	  "name": "Right Choice Trash Bag 24x33 16gal 6g Clear Liner",
 	  "price": 0.04712,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 37820500,
@@ -1237,7 +1729,11 @@
 	  "name": "Right Choice Trash Bag 40x46 45gal 1.5 Black",
 	  "price": 0.41,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 37821500,
@@ -1247,7 +1743,11 @@
 	  "name": "Right Choice Trash Bag 43x47 56gal 2.0 Black 3",
 	  "price": 0.609,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 37844600,
@@ -1257,7 +1757,11 @@
 	  "name": "Starbucks Filter*Paper Roll Serenade",
 	  "price": 49.47,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 40026000,
@@ -1267,7 +1771,11 @@
 	  "name": "Domino Sugar Extra Fine Granulated",
 	  "price": 0.928,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 40028000,
@@ -1277,7 +1785,11 @@
 	  "name": "Packer Sugar Extra Fine Granulated",
 	  "price": 0.7722,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 40032000,
@@ -1287,7 +1799,11 @@
 	  "name": "Domino Sugar Light Brown",
 	  "price": 1.836666667,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 40040000,
@@ -1297,7 +1813,11 @@
 	  "name": "Domino Sugar Confectioners Powder 10x",
 	  "price": 1.484583333,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 40045000,
@@ -1307,7 +1827,11 @@
 	  "name": "Gold Flour All Purpose H&R",
 	  "price": 0.7232,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 40050000,
@@ -1317,7 +1841,11 @@
 	  "name": "Washingt Flour Self Rising",
 	  "price": 0.6484,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 40075400,
@@ -1327,7 +1855,11 @@
 	  "name": "Ben's Orig Rice Long Grain White",
 	  "price": 1.3155,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 43066000,
@@ -1337,7 +1869,11 @@
 	  "name": "Haynes Lubricant Lubri-Film Sanitary",
 	  "price": 2.2025,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 43174000,
@@ -1347,7 +1883,11 @@
 	  "name": "Packer Germicidal Bleach",
 	  "price": 4.066666667,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 44008000,
@@ -1357,7 +1897,11 @@
 	  "name": "Nyco Hand Soap Antibacterial Foaming",
 	  "price": 9.6925,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 45004000,
@@ -1367,7 +1911,11 @@
 	  "name": "Simoniz Detergent Ap Powder Laundry",
 	  "price": 1.409714286,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 45004600,
@@ -1377,7 +1925,11 @@
 	  "name": "Simoniz Detergent Pink Beads",
 	  "price": 1.8336,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 54000500,
@@ -1387,7 +1939,11 @@
 	  "name": "I.B.P. Beef Ground Ibp Fresh 80/20 Fine",
 	  "price": 3.95,
 	  "storageType": "Frozen",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 54000600,
@@ -1397,7 +1953,11 @@
 	  "name": "I.B.P. Beef Ground 80/20 Frozen Fine Grind",
 	  "price": 3.95,
 	  "storageType": "Frozen",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 54050700,
@@ -1407,7 +1967,11 @@
 	  "name": "Double Beef Ribeye Steak Bnls 10#",
 	  "price": 0.580875,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 54050900,
@@ -1417,7 +1981,11 @@
 	  "name": "Double Beef T-Bone Steak",
 	  "price": 0.741488095,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 54052200,
@@ -1427,7 +1995,11 @@
 	  "name": "Double Beef Fillet Sirloin Steak Choice",
 	  "price": 0.7616875,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 54268700,
@@ -1437,7 +2009,11 @@
 	  "name": "I.B.P. Pork Ribs Baby Back B/I Frozen",
 	  "price": 0.273333333,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 54269500,
@@ -1447,7 +2023,11 @@
 	  "name": "Packer Pork * Boston Butts Frozen",
 	  "price": 1.33,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 56008100,
@@ -1457,7 +2037,11 @@
 	  "name": "Packer Shrimp Green 31/35 Domestic Brown",
 	  "price": 7.927,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 56010200,
@@ -1467,7 +2051,11 @@
 	  "name": "Fpi Shrimp Raw P & D 21/25 Tail-On",
 	  "price": 7.609,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 56020600,
@@ -1477,7 +2065,11 @@
 	  "name": "Packer Shrimp Cpd 71/90",
 	  "price": 6.451,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 56282600,
@@ -1487,7 +2079,11 @@
 	  "name": "Packer Crab Meat Lump Can Past.",
 	  "price": 34.16166667,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 59170200,
@@ -1497,7 +2093,11 @@
 	  "name": "Campbell Soup Pa Dutch Chicken Corn",
 	  "price": 3.885833333,
 	  "storageType": "Frozen",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 59610400,
@@ -1507,7 +2107,11 @@
 	  "name": "Brookwo Pork Bbq Chopped Carolina",
 	  "price": 5.3135,
 	  "storageType": "Frozen",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 59871900,
@@ -1517,7 +2121,11 @@
 	  "name": "Jimmy Sandwich Bacon Egg Cheese Biscuit",
 	  "price": 0.592824074,
 	  "storageType": "Frozen",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 59872900,
@@ -1527,7 +2135,11 @@
 	  "name": "Tony's Pizza Breakfast Bacon Scramble",
 	  "price": 0.192680921,
 	  "storageType": "Frozen",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 59892200,
@@ -1537,7 +2149,11 @@
 	  "name": "Bernardi Pasta Lasagna Sheets",
 	  "price": 0.1675625,
 	  "storageType": "Shelf Stable",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 59918400,
@@ -1547,7 +2163,11 @@
 	  "name": "Abuelita Tortilla Flour 6in Frozen",
 	  "price": 0.1359375,
 	  "storageType": "Frozen",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 59918500,
@@ -1557,7 +2177,11 @@
 	  "name": "Abuelita Tortilla Flour 8in Frozen",
 	  "price": 0.1614,
 	  "storageType": "Frozen",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 60011000,
@@ -1567,7 +2191,11 @@
 	  "name": "Chef Pierr Pie Apple 10in",
 	  "price": 0.161811594,
 	  "storageType": "Frozen",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 60039800,
@@ -1577,7 +2205,11 @@
 	  "name": "Chef Pierr Pie Dutch Apple Hi Pie 10in",
 	  "price": 0.229007092,
 	  "storageType": "Frozen",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 60124200,
@@ -1587,7 +2219,11 @@
 	  "name": "Pellman Cake *Temp/Ua* Pumpkin Spice Layer",
 	  "price": 0.186458333,
 	  "storageType": "Frozen",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 60124500,
@@ -1597,7 +2233,11 @@
 	  "name": "Pellman Cake Coconut Layer",
 	  "price": 0.215052083,
 	  "storageType": "Frozen",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 60184000,
@@ -1607,7 +2247,11 @@
 	  "name": "Sara Lee Cake Pound Large",
 	  "price": 0.340416667,
 	  "storageType": "Frozen",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 60409000,
@@ -1617,7 +2261,11 @@
 	  "name": "Rich's Bettercreme Vanilla",
 	  "price": 2.885227273,
 	  "storageType": "Frozen",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 60444000,
@@ -1627,7 +2275,11 @@
 	  "name": "Hood Ice Cream Chocolate",
 	  "price": 7.51,
 	  "storageType": "Frozen",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 60444500,
@@ -1637,7 +2289,11 @@
 	  "name": "Hood Ice Cream Strawberry 9%",
 	  "price": 7.78,
 	  "storageType": "Frozen",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 60445000,
@@ -1647,7 +2303,11 @@
 	  "name": "Hood Ice Cream Vanilla 11%",
 	  "price": 7.96,
 	  "storageType": "Frozen",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 60445011,
@@ -1657,7 +2317,11 @@
 	  "name": "Hood Ice Cream Blueberry N Cream",
 	  "price": 10.76,
 	  "storageType": "Frozen",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 60445012,
@@ -1667,7 +2331,11 @@
 	  "name": "Hood Ice Cream Butter Pecan",
 	  "price": 9.57,
 	  "storageType": "Frozen",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 60445013,
@@ -1677,7 +2345,11 @@
 	  "name": "Hood Ice Cream Cake & Ice Cream",
 	  "price": 10.22,
 	  "storageType": "Frozen",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 60445016,
@@ -1687,7 +2359,11 @@
 	  "name": "Hood Ice Cream Chocolate Chip Cookie",
 	  "price": 9.136666667,
 	  "storageType": "Frozen",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 60445017,
@@ -1697,7 +2373,11 @@
 	  "name": "Hood Ice Cream Choc. Peanut Butter",
 	  "price": 9.006666667,
 	  "storageType": "Frozen",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 60445018,
@@ -1707,7 +2387,11 @@
 	  "name": "Hood Ice Cream Coffee",
 	  "price": 7.623333333,
 	  "storageType": "Frozen",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 60445019,
@@ -1717,7 +2401,11 @@
 	  "name": "Hood Ice Cream Cookies N Cream",
 	  "price": 8.056666667,
 	  "storageType": "Frozen",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 60445021,
@@ -1727,7 +2415,11 @@
 	  "name": "Hood Ice Cream Mint Chocolate Chip",
 	  "price": 8.056666667,
 	  "storageType": "Frozen",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 60445040,
@@ -1737,7 +2429,11 @@
 	  "name": "Garbers Ice Cream Cup Vanilla",
 	  "price": 0.1446875,
 	  "storageType": "Frozen",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 60454000,
@@ -1747,7 +2443,11 @@
 	  "name": "Rich's Topping On Top Whipped Topping",
 	  "price": 0.271979167,
 	  "storageType": "Frozen",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 60459000,
@@ -1757,7 +2457,11 @@
 	  "name": "Cool Whip Topping Whipped Frozen",
 	  "price": 0.239375,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 63033200,
@@ -1767,7 +2471,11 @@
 	  "name": "Bakery Biscuit Buttermilk",
 	  "price": 0.1724,
 	  "storageType": "Refrigerator",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 63033500,
@@ -1777,7 +2485,11 @@
 	  "name": "Pillsbury Biscuit Southern Style Ztf Baked",
 	  "price": 0.168416667,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 63033700,
@@ -1787,7 +2499,11 @@
 	  "name": "Pillsbury Biscuit Golden Buttermilk Easy",
 	  "price": 0.166502924,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 63033900,
@@ -1797,7 +2513,11 @@
 	  "name": "Pillsbury Biscuit Dough Southern Style",
 	  "price": 0.123989899,
 	  "storageType": "Frozen",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 63051700,
@@ -1807,7 +2527,11 @@
 	  "name": "Ottenber Bread Multigrain 22 Slices",
 	  "price": 0.227916667,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 63053400,
@@ -1817,7 +2541,11 @@
 	  "name": "Ottenber Bun Plain Hamburger 4in Sliced",
 	  "price": 0.241458333,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 63055300,
@@ -1827,7 +2555,11 @@
 	  "name": "Ottenber Roll Jr Sub 8in Sliced Fb",
 	  "price": 0.196049383,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 63060300,
@@ -1837,7 +2569,11 @@
 	  "name": "Amoroso Roll Sub Italian 7in Sliced",
 	  "price": 0.466833333,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 63104400,
@@ -1847,7 +2583,11 @@
 	  "name": "Rich's Bread Herb Flatbread Baked Appx",
 	  "price": 0.224823232,
 	  "storageType": "Frozen",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 63109100,
@@ -1857,7 +2597,11 @@
 	  "name": "Advance/P Breadstick White Whole Wheat",
 	  "price": 0.18625,
 	  "storageType": "Frozen",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 63109300,
@@ -1867,7 +2611,11 @@
 	  "name": "New York Breadsticks Crispy 6in",
 	  "price": 0.02947619,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 64068600,
@@ -1877,7 +2625,11 @@
 	  "name": "Packer Chicken * Whole Wings Jumbo",
 	  "price": 3.21,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 64069100,
@@ -1887,7 +2639,11 @@
 	  "name": "Case Chicken * Whole Fryers",
 	  "price": 1.32,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 64069500,
@@ -1897,7 +2653,11 @@
 	  "name": "Tyson Chicken Split Breast Iqf",
 	  "price": 0.26297619,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 66071000,
@@ -1907,7 +2667,11 @@
 	  "name": "Packer Turkey Whole 12-14lb U.S. Grade A",
 	  "price": 2.31,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 66073000,
@@ -1917,7 +2681,11 @@
 	  "name": "Packer Turkey Breast Raw-Rib Bone In",
 	  "price": 1.84,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 66073400,
@@ -1927,7 +2695,11 @@
 	  "name": "Jennie-O Turkey Thigh Roast*Raw=Bnls*",
 	  "price": 3.84,
 	  "storageType": "Frozen",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 68061200,
@@ -1937,7 +2709,11 @@
 	  "name": "Dole Fruit Diced Strawberries Iqf Chef",
 	  "price": 3.205,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 68509000,
@@ -1947,7 +2723,11 @@
 	  "name": "Gregory Juice Orange 3+1 Conc Frozen",
 	  "price": 0.113541667,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 68600600,
@@ -1957,7 +2737,11 @@
 	  "name": "Sun Cup Juice Apple Frozen",
 	  "price": 0.068090278,
 	  "storageType": "Frozen",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 68602600,
@@ -1967,7 +2751,11 @@
 	  "name": "Sun Cup Juice Orange Frozen",
 	  "price": 0.069930556,
 	  "storageType": "Frozen",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 72001200,
@@ -1977,7 +2765,11 @@
 	  "name": "Hanover Asparagus Cuts&Tips Frozen Iqf",
 	  "price": 3.172666667,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 72012200,
@@ -1987,7 +2779,11 @@
 	  "name": "Hanover Broccoli Spears Baby Iqf Frozen",
 	  "price": 1.368333333,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 72013200,
@@ -1997,7 +2793,11 @@
 	  "name": "Hanover Brussels Sprouts Frozen Iqf",
 	  "price": 1.807916667,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 72024200,
@@ -2007,7 +2807,11 @@
 	  "name": "Packer Corn Cut Yellow Sw(12/2lb)",
 	  "price": 0.9725,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 72038000,
@@ -2017,7 +2821,11 @@
 	  "name": "Hanover Beans Lima Baby Frozen",
 	  "price": 1.740666667,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 72046500,
@@ -2027,7 +2835,11 @@
 	  "name": "Simplot Fajita Blend Pepper&Onion - Frozen",
 	  "price": 1.899583333,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 72047500,
@@ -2037,7 +2849,11 @@
 	  "name": "Cornerst California Normandy Blend",
 	  "price": 1.333333333,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 72058000,
@@ -2047,7 +2863,11 @@
 	  "name": "Simplot Peas Green - Frozen",
 	  "price": 1.525,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 72061100,
@@ -2057,7 +2877,11 @@
 	  "name": "Hanover Peas & Pearl Onions Frozen Iqf",
 	  "price": 1.489,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 72063000,
@@ -2067,7 +2891,11 @@
 	  "name": "Packer Spinach Cut Leaf Iqf Frozen",
 	  "price": 1.712222222,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 72207000,
@@ -2077,7 +2905,11 @@
 	  "name": "Packer Corn Cut Frozen",
 	  "price": 1.393,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 72221000,
@@ -2087,7 +2919,11 @@
 	  "name": "Simplot Peas Green 20 Lb - Frozen",
 	  "price": 1.4845,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 72228000,
@@ -2097,7 +2933,11 @@
 	  "name": "Packer California Blend",
 	  "price": 1.2885,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 72411200,
@@ -2107,7 +2947,11 @@
 	  "name": "Simplot Potato Freezer Fridge Shreds",
 	  "price": 1.322222222,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 72411400,
@@ -2117,7 +2961,11 @@
 	  "name": "Simplot Potato Cubes Freezer Fridge",
 	  "price": 2.0345,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 72454500,
@@ -2127,7 +2975,11 @@
 	  "name": "Simplot Fries Season Crisp Savory Wedge 10",
 	  "price": 2.094,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 81031200,
@@ -2137,7 +2989,11 @@
 	  "name": "Kunzler Hotdog Beef Deli 5/1",
 	  "price": 4.27,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 81055000,
@@ -2147,7 +3003,11 @@
 	  "name": "Smithfiel Ham Round Smoked Xtra Lean",
 	  "price": 4.2,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 81067200,
@@ -2157,7 +3017,11 @@
 	  "name": "Kunzler Ham Black Forest Honey Bnls",
 	  "price": 5.35,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 81082500,
@@ -2167,7 +3031,11 @@
 	  "name": "Thomas Ham Center Country Slices *Cs",
 	  "price": 6.23,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 81260000,
@@ -2177,7 +3045,11 @@
 	  "name": "Hormel Sliced Ham Cooked 4x6",
 	  "price": 5.908333333,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 81260200,
@@ -2187,7 +3059,11 @@
 	  "name": "Hormel Sliced Turkey Breast *Use 81260205",
 	  "price": 8.078333333,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 81260400,
@@ -2197,7 +3073,11 @@
 	  "name": "Hormel Sliced Roast Beef 1/2 Oz Cn",
 	  "price": 8.591666667,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 81275400,
@@ -2207,7 +3087,11 @@
 	  "name": "Hormel Pepperoni Turkey Frozen",
 	  "price": 8.184166667,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 81276500,
@@ -2217,7 +3101,11 @@
 	  "name": "Hormel Pepperoni Sliced - Frozen",
 	  "price": 4.49,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 81593000,
@@ -2227,7 +3115,11 @@
 	  "name": "Packer Bacon Bits Real",
 	  "price": 0.799895833,
 	  "storageType": "Refrigerator",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 81597000,
@@ -2237,7 +3129,11 @@
 	  "name": "Hormel Bacon Pieces Diced 3/8in - Ref",
 	  "price": 8.715,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 81601000,
@@ -2247,7 +3143,11 @@
 	  "name": "Kunzler Bacon Slab Sliced - Fresh",
 	  "price": 4.864,
 	  "storageType": "Refrigerator",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 81605400,
@@ -2257,7 +3157,11 @@
 	  "name": "Larry's Sausage Bulk Loose",
 	  "price": 3.318,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 81630600,
@@ -2267,7 +3171,11 @@
 	  "name": "Kunzler Sausage Ragin Cajun Hot Half",
 	  "price": 3.916,
 	  "storageType": "Frozen",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 81634100,
@@ -2277,7 +3185,11 @@
 	  "name": "Jones Sausage Patty - Mild Fc",
 	  "price": 0.199501558,
 	  "storageType": "Frozen",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 87346000,
@@ -2287,7 +3199,11 @@
 	  "name": "Rest.Pride Cheese Cheddar Monterey Jack",
 	  "price": 3.489,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 87348000,
@@ -2297,7 +3213,11 @@
 	  "name": "Rest.Pride Cheese Mild Cheddar Feather",
 	  "price": 2.9285,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 87349200,
@@ -2307,7 +3227,11 @@
 	  "name": "Great Cheese Mozzarella Feather Shred",
 	  "price": 3.1585,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 87352400,
@@ -2317,7 +3241,11 @@
 	  "name": "Rest.Pride Cheese Cream Loaf - Ref",
 	  "price": 2.753,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 87354400,
@@ -2327,7 +3255,11 @@
 	  "name": "Philadelp Cheese *Temp/Ua* Cream Pouches",
 	  "price": 0.2739,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 87410200,
@@ -2337,7 +3269,11 @@
 	  "name": "Bluebonn Margarine",
 	  "price": 1.192,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 87410400,
@@ -2347,7 +3283,11 @@
 	  "name": "Ventura Margarine Solids",
 	  "price": 1.274,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 87420600,
@@ -2357,7 +3297,11 @@
 	  "name": "Grassland Salted Butter Solids",
 	  "price": 4.012222222,
 	  "storageType": "Refrigerator",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 87421800,
@@ -2367,7 +3311,11 @@
 	  "name": "Grassland Butter Chips Continental 59 Cut Aa",
 	  "price": 5.295294118,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 87431700,
@@ -2377,7 +3325,11 @@
 	  "name": "Int.Deligh Creamer Non Dairy Original",
 	  "price": 0.113125,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 87433000,
@@ -2387,7 +3339,11 @@
 	  "name": "Hood Cheese % Cottage Small Curd Ref",
 	  "price": 2.079,
 	  "storageType": "Refrigerator",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 87433300,
@@ -2397,7 +3353,11 @@
 	  "name": "Daisy Sour Cream Packets Ref",
 	  "price": 0.1419,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 87433400,
@@ -2407,7 +3367,11 @@
 	  "name": "Daisy Sour Cream Tubs",
 	  "price": 1.669,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 87440200,
@@ -2417,7 +3381,11 @@
 	  "name": "Packer Mix Vanilla Ice Cream 10% Soft",
 	  "price": 15.478,
 	  "storageType": "Frozen",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 87441200,
@@ -2427,7 +3395,11 @@
 	  "name": "Dean Mix Chocolate Ice Cream 10% Soft",
 	  "price": 15.29,
 	  "storageType": "Frozen",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 87450200,
@@ -2437,7 +3409,11 @@
 	  "name": "Upstate Yogurt Cherry Vanilla Non-Fat",
 	  "price": 0.114427083,
 	  "storageType": "Refrigerator",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 87450400,
@@ -2447,7 +3423,11 @@
 	  "name": "Upstate Yogurt Peach Non-Fat",
 	  "price": 0.114427083,
 	  "storageType": "Refrigerator",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 87450600,
@@ -2457,7 +3437,11 @@
 	  "name": "Upstate Yogurt Raspberry Non-Fat",
 	  "price": 0.114427083,
 	  "storageType": "Refrigerator",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 87450800,
@@ -2467,7 +3451,11 @@
 	  "name": "Upstate Yogurt Strawberry Non-Fat",
 	  "price": 0.114427083,
 	  "storageType": "Refrigerator",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 87451000,
@@ -2477,7 +3465,11 @@
 	  "name": "Upstate Yogurt Strawberry Banana Non-",
 	  "price": 0.114427083,
 	  "storageType": "Refrigerator",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 87501000,
@@ -2487,7 +3479,11 @@
 	  "name": "Hood Milk Whole 1/2 Pint Ultra",
 	  "price": 0.096145833,
 	  "storageType": "Refrigerator",
-	  "vendor": ""
+	  "vendor": "",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 87610200,
@@ -2497,7 +3493,11 @@
 	  "name": "Rest.Pride Eggs Medium 30dz Loose Fresh",
 	  "price": 0.15472,
 	  "storageType": "Refrigerator",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 87610400,
@@ -2507,7 +3507,11 @@
 	  "name": "Rest.Pride Eggs X-Large 15dz Loose Fresh",
 	  "price": 0.3033,
 	  "storageType": "Refrigerator",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 87610600,
@@ -2517,7 +3521,11 @@
 	  "name": "Rest.Pride Eggs X-Large 30dz Loose Fresh",
 	  "price": 0.28103,
 	  "storageType": "Refrigerator",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 90002000,
@@ -2527,7 +3535,11 @@
 	  "name": "Packer Cabbage Box",
 	  "price": 1.454,
 	  "storageType": "Refrigerator",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 90006000,
@@ -2537,7 +3549,11 @@
 	  "name": "Packer Cabbage Red Apx 50# Produce",
 	  "price": 1.949333333,
 	  "storageType": "Refrigerator",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 90010000,
@@ -2547,7 +3563,11 @@
 	  "name": "Packer Carrots Retail Bag",
 	  "price": 1.235208333,
 	  "storageType": "Refrigerator",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 90014000,
@@ -2557,7 +3577,11 @@
 	  "name": "Grimmwa Carrots Baby Whole Peeled",
 	  "price": 1.45,
 	  "storageType": "Refrigerator",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 90018000,
@@ -2567,7 +3591,11 @@
 	  "name": "Packer Celery 30 Ct Produce",
 	  "price": 1.430333333,
 	  "storageType": "Refrigerator",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 90030000,
@@ -2577,7 +3605,11 @@
 	  "name": "Packer Cucumbers Super Select 72ct",
 	  "price": 0.670694444,
 	  "storageType": "Refrigerator",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 90040000,
@@ -2587,7 +3619,11 @@
 	  "name": "Packer Lettuce Iceberg 24 Ct",
 	  "price": 1.2775,
 	  "storageType": "Refrigerator",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 90046500,
@@ -2597,7 +3633,11 @@
 	  "name": "Packer Onions White Lg Appx 50# Produce",
 	  "price": 0.8535,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 90054000,
@@ -2607,7 +3647,11 @@
 	  "name": "Packer Onions Red Approx 25# Produce",
 	  "price": 1.458666667,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 90058000,
@@ -2617,7 +3661,11 @@
 	  "name": "Packer Peppers Green",
 	  "price": 0.598703704,
 	  "storageType": "Refrigerator",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 90061000,
@@ -2627,7 +3675,11 @@
 	  "name": "Packer Peppers Red Appx 11#",
 	  "price": 1.417,
 	  "storageType": "Refrigerator",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 90082000,
@@ -2637,7 +3689,11 @@
 	  "name": "Packer Radishes",
 	  "price": 0.1365,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 90086500,
@@ -2647,7 +3703,11 @@
 	  "name": "Packer Romaine Loose",
 	  "price": 1.559583333,
 	  "storageType": "Refrigerator",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 90090000,
@@ -2657,7 +3717,11 @@
 	  "name": "Packer Tomatoes 5x6 10 Lb Produce",
 	  "price": 1.749,
 	  "storageType": "Refrigerator",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 90092000,
@@ -2667,7 +3731,11 @@
 	  "name": "Packer Tomatoes 5x6 Xlg",
 	  "price": 1.048,
 	  "storageType": "Refrigerator",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 90703000,
@@ -2677,7 +3745,11 @@
 	  "name": "Mann's Broccoli W/Stems Produce",
 	  "price": 2.004285714,
 	  "storageType": "Refrigerator",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 90703500,
@@ -2687,7 +3759,11 @@
 	  "name": "Packer Broccoli Crowns 20 Lb",
 	  "price": 0.866944444,
 	  "storageType": "Refrigerator",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 90710010,
@@ -2697,7 +3773,11 @@
 	  "name": "Packer Onions Green Spring",
 	  "price": 0.753958333,
 	  "storageType": "Refrigerator",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 90726200,
@@ -2707,7 +3787,11 @@
 	  "name": "Packer Potatoes Red 'A'",
 	  "price": 0.6002,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 91000000,
@@ -2717,7 +3801,11 @@
 	  "name": "Packer Broccoli Florets Produce",
 	  "price": 3.295,
 	  "storageType": "Refrigerator",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 91003000,
@@ -2727,7 +3815,11 @@
 	  "name": "Packer Carrots Shredded 1/16'",
 	  "price": 0.1785,
 	  "storageType": "Refrigerator",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 91007100,
@@ -2737,7 +3829,11 @@
 	  "name": "Taylor Lettuce Shredded",
 	  "price": 1.39,
 	  "storageType": "Refrigerator",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 59147,
@@ -2747,7 +3843,11 @@
 	  "name": "La Banderita Tortilla Flour 6in Pressed Shelf Stable",
 	  "price": 0.080625,
 	  "storageType": "Frozen",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 2005569,
@@ -2757,7 +3857,11 @@
 	  "name": "Lays Chip Potato Regular",
 	  "price": 0.215416667,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 416354,
@@ -2767,7 +3871,11 @@
 	  "name": "Rold Gold Pretzel Twist Classic Tiny",
 	  "price": 0.1440625,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 4432837,
@@ -2777,7 +3885,11 @@
 	  "name": "Keebler Cracker Graham Rectangle Sleeve Original",
 	  "price": 3.178,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 7939879,
@@ -2787,7 +3899,11 @@
 	  "name": "Monarch Cookie Vanilla Wafer Bag Shelf Stable",
 	  "price": "None",
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 5002274,
@@ -2797,7 +3913,11 @@
 	  "name": "Domino Sugar White Extra Fine Cane",
 	  "price": 0.94,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 5463237,
@@ -2807,7 +3927,11 @@
 	  "name": "Domino Sugar Powdered Confectioner 10x Cane",
 	  "price": 0.9704,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 700575,
@@ -2817,7 +3941,11 @@
 	  "name": "Glenview Farms Butter Whipped Salted Ss Cup Ref",
 	  "price": 0.01195,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 7775421,
@@ -2827,7 +3955,11 @@
 	  "name": "Glenview Farms Margarine Salted Solid Iw Ref",
 	  "price": 1.232,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 4247565,
@@ -2837,7 +3969,11 @@
 	  "name": "Great Lakes Cheese Cheese Cheddar Mild Shred Feather Bag Yellow Ref",
 	  "price": 3.0445,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 1735885,
@@ -2847,7 +3983,11 @@
 	  "name": "Glenview Farms Sour Cream Cultured Pail Ref",
 	  "price": 2.0428125,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 8328106,
@@ -2857,7 +3997,11 @@
 	  "name": "Monarch-D Peach Sliced In Water Canned Yellow Cling",
 	  "price": 0.09359882,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 4885180,
@@ -2867,7 +4011,11 @@
 	  "name": "Sunsweet Growers Prune Whole Stewed Pitted In Water 160-180 Count Canned",
 	  "price": 0.145929204,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 9327651,
@@ -2877,7 +4025,11 @@
 	  "name": "Roseli Pasta Macaroni Elbow Heavy Wall Shelf Stable",
 	  "price": 1.417,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 6028831,
@@ -2887,7 +4039,11 @@
 	  "name": "Uncle Ben's Rice Wild Blend Natural",
 	  "price": 2.7695,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 3327780,
@@ -2897,7 +4053,11 @@
 	  "name": "Roseli Pasta Spaghetti 10in Shelf Stable",
 	  "price": 1.4565,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 2911441,
@@ -2907,7 +4067,11 @@
 	  "name": "Patuxent Farms Bacon Pork 14-18 Count Sliced Laid Out Maplewood Smoked Uncured Natural Ra",
 	  "price": 6.152666667,
 	  "storageType": "Frozen",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 8328569,
@@ -2917,7 +4081,11 @@
 	  "name": "Patuxent Farms Sausage Pork Patty 1.5 Oz 3in Cooked Frozen 2-Diamond Breakfast",
 	  "price": 3.444,
 	  "storageType": "Frozen",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 9328824,
@@ -2927,7 +4095,11 @@
 	  "name": "Harvest Value Filling Cherry Pie Rtu Can Shelf Stable",
 	  "price": 0.136415929,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 4001947,
@@ -2937,7 +4109,11 @@
 	  "name": "Campbell's Soup Chicken Cream Shelf Stable",
 	  "price": 0.079116667,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 7001951,
@@ -2947,7 +4123,11 @@
 	  "name": "Campbell's Soup Mushroom Cream Canned Shelf Stable",
 	  "price": 0.084283333,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 8355281,
@@ -2957,7 +4137,11 @@
 	  "name": "Cross Valley Farms Broccoli Crown Iceless Box Fresh Ref",
 	  "price": 2.058,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 4342010,
@@ -2967,7 +4151,11 @@
 	  "name": "Cross Valley Farms Carrot Matchstick Shred Fresh Ref",
 	  "price": 1.3535,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 9328261,
@@ -2977,7 +4165,11 @@
 	  "name": "Monarch Corn Kernel Yellow Fancy Frozen",
 	  "price": 1.400666667,
 	  "storageType": "Frozen",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 5326418,
@@ -2987,7 +4179,11 @@
 	  "name": "Cross Valley Farms Lettuce Romaine Fresh Ref",
 	  "price": 2.32375,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 2326411,
@@ -2997,7 +4193,11 @@
 	  "name": "Cross Valley Farms Lettuce Iceberg Fresh Ref",
 	  "price": 2.212916667,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 8326696,
@@ -3007,7 +4207,11 @@
 	  "name": "Cross Valley Farms Onion Yellow Jumbo 3in+ Bag Fresh Ref",
 	  "price": 1.028,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 4732525,
@@ -3017,7 +4221,11 @@
 	  "name": "Cross Valley Farms Tomato Plum Medium #1 Grade Bulk Fresh Ref Roma",
 	  "price": 1.1156,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 8117632,
@@ -3027,7 +4235,11 @@
 	  "name": "Ardmore Farms Juice Orange 100% Ss Plastic Cup Frozen",
 	  "price": 0.05625,
 	  "storageType": "Frozen",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 1117647,
@@ -3037,7 +4249,11 @@
 	  "name": "Ardmore Farms Juice Apple 100% Ss Cup Frozen",
 	  "price": 0.046145833,
 	  "storageType": "Frozen",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 11197,
@@ -3047,7 +4263,11 @@
 	  "name": "Philadelphia Cheese Cream Plain Spread Ss Plastic Cup Ref",
 	  "price": 0.3384,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 8227670,
@@ -3057,7 +4277,11 @@
 	  "name": "Hormel Ham Sliced .5 Oz Water-Added Buffet Cooked Ref Pork",
 	  "price": 4.799166667,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 8340770,
@@ -3067,7 +4291,11 @@
 	  "name": "Glenview Farms Cheese American White Sliced 160 Count Processed Plastic Wrapped Ref",
 	  "price": 3.275,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 8117129,
@@ -3077,7 +4305,11 @@
 	  "name": "Jennie-O Turkey Store Turkey Breast Sliced .5 Oz Skinless Cooked Frozen",
 	  "price": 3.353333333,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 7058803,
@@ -3087,7 +4319,11 @@
 	  "name": "Alta Cucina Tomato Whole Plum W/ Basil In Juice Peeled Canned Roma",
 	  "price": 0.042433628,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 4217519,
@@ -3097,7 +4333,11 @@
 	  "name": "Glenview Farms Cheese Monterey Jack Shred Feather Bag Ref",
 	  "price": 3.1865,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 4411450,
@@ -3107,7 +4347,11 @@
 	  "name": "Monarch Rice Spanish Parboiled",
 	  "price": 0.1325,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 9326430,
@@ -3117,7 +4361,11 @@
 	  "name": "Cross Valley Farms Cilantro Washed & Trimmed Fresh Herb",
 	  "price": 5.34,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 1328269,
@@ -3127,7 +4375,11 @@
 	  "name": "Monarch Bean Green Italian Cut Fancy Imported & Domestic Frozen",
 	  "price": 1.413333333,
 	  "storageType": "Frozen",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 9330994,
@@ -3137,7 +4389,11 @@
 	  "name": "Monarch Filling Blueberry Pie Rtu Can Shelf Stable",
 	  "price": 0.119941003,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 5635602,
@@ -3147,7 +4403,11 @@
 	  "name": "Hidden Valley Mix Dressing Ranch Original 1 Gal Yield Pouch",
 	  "price": 0.697569444,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 9512120,
@@ -3157,7 +4417,11 @@
 	  "name": "Scott Paper Tissue Toilet Std Roll 4.1inx188' 550 Sheet 2 Ply White Soft Blend",
 	  "price": 0.83275,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 6696848,
@@ -3167,7 +4431,11 @@
 	  "name": "Monogram Bleach Disinfectant Liquid Jug Clear",
 	  "price": 4.106666667,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 9997750,
@@ -3177,7 +4445,11 @@
 	  "name": "Western Plastics Foil Aluminum 18inx500' Standard Roll Cutter Box Wrap",
 	  "price": 28.11,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 4836169,
@@ -3187,7 +4459,11 @@
 	  "name": "Monogram Film 18inx2000' Plastic Roll Cutter Box Food Wrap",
 	  "price": 21.35,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 2002046,
@@ -3197,7 +4473,11 @@
 	  "name": "Dart Cup Foam 16 Oz White",
 	  "price": 0.07617,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 9122441,
@@ -3207,7 +4487,11 @@
 	  "name": "Dart Cup Foam 8 Oz White",
 	  "price": 0.03174,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 8648131,
@@ -3217,7 +4501,11 @@
 	  "name": "Monogram Napkin Luncheon White 13x11.25 1 Ply 1/4 Fold Paper",
 	  "price": 0.008105,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 4176376,
@@ -3227,7 +4515,11 @@
 	  "name": "Pacific Blue Select Towel Paper 9.25x9.5 Multifold Embossed White 2 Ply",
 	  "price": 0.01677,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 4935367,
@@ -3237,7 +4529,11 @@
 	  "name": "Dixie Foodservice Fork Heavyweight Black Polystyrene Wrapped Plastic",
 	  "price": 0.05372,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 4934535,
@@ -3247,7 +4543,11 @@
 	  "name": "Dixie Foodservice Spoon Tea Mediumweight Black Polystyrene Bulk Plastic",
 	  "price": 0.02616,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 4936118,
@@ -3257,7 +4557,11 @@
 	  "name": "Dixie Foodservice Knife Heavy-Mediumweight Black Polystyrene Bulk Plastic",
 	  "price": 0.02276,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 9258807,
@@ -3267,7 +4571,11 @@
 	  "name": "Monogram Liner 55 Gal 36x60 Translucent 13 Micron Flat Pack High Density Can",
 	  "price": 0.2455,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 8329153,
@@ -3277,7 +4585,11 @@
 	  "name": "Monogram Liner 55 Gal 36x58 Black 1.2 Mil Flat Pack Linear Low Density Can",
 	  "price": 0.4583,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 3364635,
@@ -3287,7 +4599,11 @@
 	  "name": "Monogram Liner 33 Gal 33x39 Clear .5 Mil Roll Linear Low Density Can",
 	  "price": 1.476,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 7853146,
@@ -3297,7 +4613,11 @@
 	  "name": "Monogram Plate Molded Fiber 10in Natural Round Compostable Unbleached Paper",
 	  "price": 0.15936,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 4005245,
@@ -3307,7 +4627,11 @@
 	  "name": "Dart Container Foam 12 Oz Squat White",
 	  "price": 0.10538,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 791558,
@@ -3317,7 +4641,11 @@
 	  "name": "Monogram Container Foam 4 Oz Squat White",
 	  "price": 0.03762,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 9329327,
@@ -3327,7 +4655,11 @@
 	  "name": "Monarch Salt .5 Gr Ss 2 Flute Iodized",
 	  "price": 0.00302,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 3329323,
@@ -3337,7 +4669,11 @@
 	  "name": "Monarch Spice Pepper Black .1 Gr Ss 2 Flute",
 	  "price": 0.0056,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 185363,
@@ -3347,7 +4683,11 @@
 	  "name": "Rituals Tea Bag Iced Black Orange Pekoe Caffeinated 4 Gal Yield Foil Pouch W/ Filt",
 	  "price": 0.319453125,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 2949182,
@@ -3357,7 +4697,11 @@
 	  "name": "Monogram Kit Cutlery K-F-S Nap Salt-&-Pepper Plastic White Compostable",
 	  "price": 0.3322,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3367,7 +4711,11 @@
 	  "name": "Dairy - Milk - Whole",
 	  "price": 0.023984375,
 	  "storageType": "Refrigerator",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3377,7 +4725,11 @@
 	  "name": "Spice - Black Pepper",
 	  "price": 0.666667,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3387,7 +4739,11 @@
 	  "name": "Spice - Whole Oregano",
 	  "price": 0.698,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3397,7 +4753,11 @@
 	  "name": "Chips - Doritos/Nacho",
 	  "price": 3.99,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3407,7 +4767,11 @@
 	  "name": "Spice - worcestershire sauce",
 	  "price": 0.108166667,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3417,7 +4781,11 @@
 	  "name": "Cereal - Raisin Brand",
 	  "price": 0.11751634,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3427,7 +4795,11 @@
 	  "name": "Cereal - Mini Wheats",
 	  "price": 0.121285714,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3437,7 +4809,11 @@
 	  "name": "Cereal - Cinnamon Toast",
 	  "price": 0.127070707,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3447,7 +4823,11 @@
 	  "name": "Cereal - Lucky Charms",
 	  "price": 0.180217391,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3457,7 +4837,11 @@
 	  "name": "Spice - Cinnamon",
 	  "price": 0.462037037,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3467,7 +4851,11 @@
 	  "name": "Spice - Garlic Salt",
 	  "price": 0.181515152,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3477,7 +4865,11 @@
 	  "name": "Coffee Mate Powder",
 	  "price": 0.117678571,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3487,7 +4879,11 @@
 	  "name": "Meat - Pork Loin",
 	  "price": 1.89,
 	  "storageType": "Frozen",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3497,7 +4893,11 @@
 	  "name": "Spice - Cumin",
 	  "price": 0.293125,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3507,7 +4907,11 @@
 	  "name": "Fruit - Strawberries fresh",
 	  "price": 2.99,
 	  "storageType": "Refrigerator",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3517,7 +4921,11 @@
 	  "name": "Cookies - Oatmeal Raisin / Choc Chip",
 	  "price": 0.332916667,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3527,7 +4935,11 @@
 	  "name": "Bread - Regular Bread",
 	  "price": 2.15,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3537,7 +4949,11 @@
 	  "name": "Bread - butter and egg din rolls",
 	  "price": 2.6,
 	  "storageType": "Frozen",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3547,7 +4963,11 @@
 	  "name": "Bread -Sub Rolls 8",
 	  "price": 3,
 	  "storageType": "Frozen",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 4793,
@@ -3557,7 +4977,11 @@
 	  "name": "Condiment - Mustard French's",
 	  "price": 0.051333333,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 389340,
@@ -3567,7 +4991,11 @@
 	  "name": "Condiment - Oil",
 	  "price": 0.04671875,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3577,7 +5005,11 @@
 	  "name": "Condiments - Peanut Butter",
 	  "price": 0.1485,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 32911,
@@ -3587,7 +5019,11 @@
 	  "name": "Condiment - Vanilla",
 	  "price": 2.31,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 399318,
@@ -3597,7 +5033,11 @@
 	  "name": "Condiments - Choc hersheys syrup",
 	  "price": 0.082916667,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 1377400,
@@ -3607,7 +5047,11 @@
 	  "name": "Condiment - Ketchup Fancy",
 	  "price": 0.076039604,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 4445,
@@ -3617,7 +5061,11 @@
 	  "name": "Drinks - Coffee",
 	  "price": 0.124791667,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 71003,
@@ -3627,7 +5075,11 @@
 	  "name": "Condiment - Olive oil",
 	  "price": 0.210384615,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3637,7 +5089,11 @@
 	  "name": "Spice - Soy sauce",
 	  "price": 0.08765625,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3647,7 +5103,11 @@
 	  "name": "Dairy - Butter Milk",
 	  "price": 0.0421875,
 	  "storageType": "Refrigerator",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3657,7 +5117,11 @@
 	  "name": "Dairy - Cheese-Velveta",
 	  "price": 3.99,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3667,7 +5131,11 @@
 	  "name": "Chocolate Frosting",
 	  "price": 0.09375,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3677,7 +5145,11 @@
 	  "name": "Condiment - Sweetner Splenda",
 	  "price": 0.03485,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3687,7 +5159,11 @@
 	  "name": "Condiments - Honey",
 	  "price": 0.31,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3697,7 +5173,11 @@
 	  "name": "Fruit - Mandarin Orange Slices w/Juice",
 	  "price": 0.142666667,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3707,7 +5187,11 @@
 	  "name": "Condiment - Baking Soda",
 	  "price": 0.045,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 22171900,
@@ -3717,7 +5201,11 @@
 	  "name": "Mixes - Vanilla Cake Mix",
 	  "price": 1.24,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 10061500,
@@ -3727,7 +5215,11 @@
 	  "name": "Sauce - Barbecue bulls eye",
 	  "price": 0.064875,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3737,7 +5229,11 @@
 	  "name": "Spice - Salt",
 	  "price": 0.7475,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3747,7 +5243,11 @@
 	  "name": "Soup - Lipton beefy Onion instant",
 	  "price": 0.763636364,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3757,7 +5257,11 @@
 	  "name": "Spice - Kitchen Boquet",
 	  "price": 0.6825,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3767,7 +5271,11 @@
 	  "name": "Bread - French Loaves",
 	  "price": 0.0625,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3777,7 +5285,11 @@
 	  "name": "Crackers - Ritz (Butter Rounds)",
 	  "price": 0.548,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 993477,
@@ -3787,7 +5299,11 @@
 	  "name": "Condiments - Jelly",
 	  "price": 0.18734375,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3797,7 +5313,11 @@
 	  "name": "Fruit - Blueberries fresh",
 	  "price": 0.228888889,
 	  "storageType": "Refrigerator",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3807,7 +5327,11 @@
 	  "name": "Spice - Garlic chopped",
 	  "price": 0.124375,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 90054000,
@@ -3817,7 +5341,11 @@
 	  "name": "Vegetable - Onions Red",
 	  "price": 0.946666667,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3827,7 +5355,11 @@
 	  "name": "Vegetable - Jalepeno Slices",
 	  "price": 0.09875,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 20006000,
@@ -3837,7 +5369,11 @@
 	  "name": "Mixes - Jell-o Orange Gelatin",
 	  "price": 0.186666667,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3847,7 +5383,11 @@
 	  "name": "Spice - Orange Extract",
 	  "price": 1.885,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3857,7 +5397,11 @@
 	  "name": "Condiment - Hot Sauce",
 	  "price": 0.114166667,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 12302000,
@@ -3867,7 +5411,11 @@
 	  "name": "Dairy - Milk - Sweetened Condensed",
 	  "price": 0.105714286,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 12302000,
@@ -3877,7 +5425,11 @@
 	  "name": "Spices - lemon juice",
 	  "price": 0.093125,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3887,7 +5439,11 @@
 	  "name": "Spices - lime juice",
 	  "price": 0.066666667,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3897,7 +5453,11 @@
 	  "name": "Pudding - Lemon Instant",
 	  "price": 0.364705882,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3907,7 +5467,11 @@
 	  "name": "Cookies - Lemon Snaps",
 	  "price": 0.285595238,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3917,7 +5481,11 @@
 	  "name": "Condiments - Sweet n Low",
 	  "price": 0.00888,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 10185700,
@@ -3927,7 +5495,11 @@
 	  "name": "Condiment - Pickles",
 	  "price": 0.148125,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 40032000,
@@ -3937,7 +5509,11 @@
 	  "name": "Condiment - Sugar - Brown",
 	  "price": 0.16125,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 10092500,
@@ -3947,7 +5523,11 @@
 	  "name": "Condiment - Cider Vinegar",
 	  "price": 0.07,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3957,7 +5537,11 @@
 	  "name": "Drinks - Hot tea Bags Small",
 	  "price": 0.0899,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3967,7 +5551,11 @@
 	  "name": "Spice - Fajita Seasoning Badia",
 	  "price": 0.518947368,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3977,7 +5565,11 @@
 	  "name": "Spice - Lemon Pepper Great Value",
 	  "price": 0.230588235,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3987,7 +5579,11 @@
 	  "name": "Spice - Garlic Power",
 	  "price": 0.288235294,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -3997,7 +5593,11 @@
 	  "name": "Spice - Parsley Flakes",
 	  "price": 2.133333333,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 90018000,
@@ -4007,7 +5607,11 @@
 	  "name": "Vegetable - Celery",
 	  "price": 1.96,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -4017,7 +5621,11 @@
 	  "name": "Spice - Dry Mustard",
 	  "price": 2.72,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -4027,7 +5635,11 @@
 	  "name": "Spice - Marjoram",
 	  "price": 2.1175,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -4037,7 +5649,11 @@
 	  "name": "Dairy - Butter - Real Butter Salted",
 	  "price": 3.07,
 	  "storageType": "Refrigerator",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -4047,7 +5663,11 @@
 	  "name": "Dairy - Milk - 2%",
 	  "price": 0.02375,
 	  "storageType": "Refrigerator",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -4057,7 +5677,11 @@
 	  "name": "Fruit - Bananas",
 	  "price": 0.44,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -4067,7 +5691,11 @@
 	  "name": "Condiments - Cocoa Powder",
 	  "price": 0.39,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -4077,7 +5705,11 @@
 	  "name": "Spice - Liquid smoke",
 	  "price": 0.335,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 876991725,
@@ -4087,7 +5719,11 @@
 	  "name": "Bread - Croutons-Classic Seasoned",
 	  "price": 1.0596,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -4097,7 +5733,11 @@
 	  "name": "Parmesan Cheese Packets",
 	  "price": 0.07995,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -4107,7 +5747,11 @@
 	  "name": "Condiments - Pam",
 	  "price": 0.053088235,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -4117,7 +5761,11 @@
 	  "name": "Meat - Shreded Chicken Breasts",
 	  "price": 3.95,
 	  "storageType": "Frozen",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -4127,7 +5775,11 @@
 	  "name": "Milk - Evaporated Carnation",
 	  "price": 0.26,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Schenk's"
+	  "vendor": "Schenk's",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 7776883,
@@ -4137,7 +5789,11 @@
 	  "name": "Patuxent Farms Chicken Tenders",
 	  "price": 4.885,
 	  "storageType": "Frozen",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 3332830,
@@ -4147,7 +5803,11 @@
 	  "name": "Cross Valley Coleslaw Mix",
 	  "price": 0.989,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 3352192,
@@ -4157,7 +5817,11 @@
 	  "name": "Hilltop Hearth 8in Hoagie Roll Unsliced",
 	  "price": 0.181547619,
 	  "storageType": "Frozen",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 8637470,
@@ -4167,7 +5831,11 @@
 	  "name": "Cookie Vanilla Wafer Bag",
 	  "price": 0.16917,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 10700,
@@ -4177,7 +5845,11 @@
 	  "name": "French's Yellow Mustard",
 	  "price": 0.09983,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -4187,7 +5859,11 @@
 	  "name": "Canned Chicken",
 	  "price": 0.19987,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -4197,7 +5873,11 @@
 	  "name": "Patuxent Farms Diced .5in Chicken",
 	  "price": 3.707,
 	  "storageType": "Frozen",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -4207,7 +5887,11 @@
 	  "name": "Tysons Diced .5in Chicken",
 	  "price": 4.217,
 	  "storageType": "Frozen",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -4217,7 +5901,11 @@
 	  "name": "Oscar Mayer Meat Franks",
 	  "price": 0.233,
 	  "storageType": "Refrigerator",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -4227,7 +5915,11 @@
 	  "name": "Wesley Farms Hot Dog Rolls",
 	  "price": 0.180625,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -4237,7 +5929,11 @@
 	  "name": "Condiment - Vlasic Sweet Relish",
 	  "price": 0.135208,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -4247,7 +5943,11 @@
 	  "name": "Sauce - Pace Salsa",
 	  "price": 0.11663,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -4257,7 +5957,11 @@
 	  "name": "Meat - Pork Shoulder",
 	  "price": 1.39,
 	  "storageType": "Frozen",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 1404383,
@@ -4267,7 +5971,11 @@
 	  "name": "Glenview Farms American Sliced Cheese",
 	  "price": 3.794,
 	  "storageType": "Refrigerator",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -4277,7 +5985,11 @@
 	  "name": "Wellsley Farms Premium Chunk Chicken Breast Can",
 	  "price": 0.23984,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 7277528,
@@ -4287,7 +5999,11 @@
 	  "name": "Dressing Caesar Classic",
 	  "price": 21.335,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 6342158,
@@ -4297,7 +6013,11 @@
 	  "name": "Dressing Caesar TFF Traditional",
 	  "price": 16.8825,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 6342158,
@@ -4307,7 +6027,11 @@
 	  "name": "Rich's Dough Roll Dinner Sweet Yeast Raised",
 	  "price": 8.9374379,
 	  "storageType": "Frozen",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -4317,7 +6041,11 @@
 	  "name": "Apples",
 	  "price": 5.97,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 2329563,
@@ -4327,7 +6055,11 @@
 	  "name": "Monarch Assorted Jelly",
 	  "price": 0.1501,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -4337,7 +6069,11 @@
 	  "name": "Vegetable - Petitte Diced Tomatoes",
 	  "price": 0.015625,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -4347,7 +6083,11 @@
 	  "name": "Vegetable -  Mild Rotel Tomatoes",
 	  "price": 0.070714286,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 8788739,
@@ -4357,7 +6097,11 @@
 	  "name": "Bushs Best Canned Black Beans",
 	  "price": 0.182333,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 7682493,
@@ -4367,7 +6111,11 @@
 	  "name": "Libbys Creamed Canned Corn",
 	  "price": 0.10672316,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 1038000,
@@ -4377,7 +6125,11 @@
 	  "name": "Vegetable - Beets - Pickeled",
 	  "price": 0.056979167,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": 4004776,
@@ -4387,7 +6139,11 @@
 	  "name": "Jell-o Vanilla Pudding & Pie Filling Mix",
 	  "price": 0.283125,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "",
@@ -4397,7 +6153,11 @@
 	  "name": "Wellsley Farms Nonfat Grade A Naturally-Flavored Vanilla Greek Yogurt",
 	  "price": 4.49,
 	  "storageType": "Refrigerator",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "6328157",
@@ -4407,7 +6167,11 @@
 	  "name": "Monarch Mayonnaise",
 	  "price": 0.1346289,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "949446",
@@ -4417,7 +6181,11 @@
 	  "name": "Coffee Mate Creamer French Vanilla Pump",
 	  "price": 10.0366667,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "2017028",
@@ -4427,7 +6195,11 @@
 	  "name": "Keebler Crumb Graham Cracker Plain Fine",
 	  "price": 3.127,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "8330094",
@@ -4437,7 +6209,11 @@
 	  "name": "Monarch Beets Sliced Medium Fancy Canned",
 	  "price": 0.061356932,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "6330088",
@@ -4447,7 +6223,11 @@
 	  "name": "Monarch Corn Whole Kernal Canned",
 	  "price": 0.05535398,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "24575",
@@ -4457,7 +6237,11 @@
 	  "name": "Wellsley Farms Shredded Parmesan",
 	  "price": 0.3395,
 	  "storageType": "Shelf Stable",
-	  "vendor": "Grocery"
+	  "vendor": "Grocery",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "2278104",
@@ -4467,7 +6251,11 @@
 	  "name": "Rykoff Sexton Rice Basmati Raw",
 	  "price": 1.993,
 	  "storageType": "Shelf Stable",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "3680942",
@@ -4477,7 +6265,11 @@
 	  "name": "Patuxent Farms Chicken Strips Breast Meat .5in thick cooked",
 	  "price": 6.176,
 	  "storageType": "Frozen",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "9260258",
@@ -4487,7 +6279,11 @@
 	  "name": "Sara Lee Bakery Cake Angel Food Round",
 	  "price": 0.2835606060606061,
 	  "storageType": "Frozen",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "9865361",
@@ -4497,7 +6293,11 @@
 	  "name": "Flowers Food Specialty Breadstick Whole Grain 6in Unsliced",
 	  "price": 0.1160454545454545,
 	  "storageType": "Frozen",
-	  "vendor": "US Foods"
+	  "vendor": "US Foods",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "102996653",
@@ -4507,7 +6307,11 @@
 	  "name": "Knorr Beef Base",
 	  "price": 7.235,
 	  "storageType": "Frozen",
-	  "vendor": "Grocery - Webstaurant"
+	  "vendor": "Grocery - Webstaurant",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	},
 	{
 	  "itemNumber": "91215",
@@ -4517,6 +6321,10 @@
 	  "name": "Wellsley Farms Plain Nonfat Greek Yogurt",
 	  "price": 0.11225,
 	  "storageType": "Refrigerator",
-	  "vendor": "Grocery - BJs"
+	  "vendor": "Grocery - BJs",
+	  "orderPlaced": "No",
+	  "expectedDelivery": "n/a",
+	  "inventoryOnHand": 0,
+	  "isDelivered": "No"
 	}
   ]
