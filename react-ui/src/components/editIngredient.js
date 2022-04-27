@@ -44,7 +44,7 @@ export default function EditInventory() {
  useEffect(() => {
    async function fetchData() {
      const id = params.id.toString();
-     const response = await fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/ingredient/${params.id.toString()}`);
+     const response = await fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/ingredients/${params.id.toString()}`);
  
      if (!response.ok) {
        const message = `An error has occurred: ${response.statusText}`;
