@@ -157,7 +157,11 @@ menus.map(menu => {
               "quantityType" : ingredient.quantityType,
               "price" : filteredIngredient.price,
               "vendor" : filteredIngredient.vendor,
-              "storageType" : filteredIngredient.storageType
+              "storageType" : filteredIngredient.storageType,
+              "orderPlaced" : filteredIngredient.orderPlaced,
+              "expectedDelivery" : filteredIngredient.expectedDelivery,
+              "inventoryOnHand" : filteredIngredient.inventoryOnHand,
+              "isDelivered" : filteredIngredient.isDelivered
             };
             orderReport = orderReport.concat([reportEntry]);
           });
@@ -179,7 +183,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       allOrders.push(res[value.name])
     }
@@ -201,7 +209,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       breakfastOrders.push(res[value.name])
     }
@@ -223,7 +235,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       lunchOrders.push(res[value.name])
     }
@@ -245,7 +261,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       dinnerOrders.push(res[value.name])
     }
@@ -267,7 +287,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       tuesdayOrders.push(res[value.name])
     }
@@ -289,7 +313,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       wednesdayOrders.push(res[value.name])
     }
@@ -311,7 +339,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       thursdayOrders.push(res[value.name])
     }
@@ -333,7 +365,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       fridayOrders.push(res[value.name])
     }
@@ -355,7 +391,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       saturdayOrders.push(res[value.name])
     }
@@ -377,7 +417,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       sundayOrders.push(res[value.name])
     }
@@ -399,7 +443,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       usFoodsOrders.push(res[value.name])
     }
@@ -421,7 +469,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       schencksOrders.push(res[value.name])
     }
@@ -443,7 +495,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       groceryOrders.push(res[value.name])
     }
@@ -465,7 +521,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       shelfStableOrders.push(res[value.name])
     }
@@ -487,7 +547,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       refrigeratedOrders.push(res[value.name])
     }
@@ -509,7 +573,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       frozenOrders.push(res[value.name])
     }
@@ -531,7 +599,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       tuesDinnerOrders.push(res[value.name])
     }
@@ -553,7 +625,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       wedBreakfastOrders.push(res[value.name])
     }
@@ -574,7 +650,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       wedLunchOrders.push(res[value.name])
     }
@@ -595,7 +675,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       wedDinnerOrders.push(res[value.name])
     }
@@ -617,7 +701,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       thursBreakfastOrders.push(res[value.name])
     }
@@ -638,7 +726,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       thursLunchOrders.push(res[value.name])
     }
@@ -659,7 +751,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       thursDinnerOrders.push(res[value.name])
     }
@@ -681,7 +777,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       friBreakfastOrders.push(res[value.name])
     }
@@ -702,7 +802,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       friLunchOrders.push(res[value.name])
     }
@@ -723,7 +827,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       friDinnerOrders.push(res[value.name])
     }
@@ -745,7 +853,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       satBreakfastOrders.push(res[value.name])
     }
@@ -766,7 +878,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       satLunchOrders.push(res[value.name])
     }
@@ -787,7 +903,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       satDinnerOrders.push(res[value.name])
     }
@@ -809,7 +929,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       sunBreakfastOrders.push(res[value.name])
     }
@@ -830,7 +954,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       sunLunchOrders.push(res[value.name])
     }
@@ -851,7 +979,11 @@ menus.map(menu => {
         quantityType: value.quantityType,
         price: value.price,
         vendor: value.vendor,
-        storageType: value.storageType
+        storageType: value.storageType,
+        orderPlaced: value.orderPlaced,
+        expectedDelivery: value.expectedDelivery,
+        inventoryOnHand: value.inventoryOnHand,
+        isDelivered: value.isDelivered
       };
       sunDinnerOrders.push(res[value.name])
     }
