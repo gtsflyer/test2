@@ -10,7 +10,7 @@ services:
     numInstances: 1
     envVars:
       - key: ATLAS_URI # Imported from Heroku app
-        value: mongodb+srv://mcmkitchen65418:kZ8RVTpid3h52g@cluster0.gl8mr.mongodb.net/myFirstDatabase?retryWrites&#x3D;true&amp;w&#x3D;majority
+        value: mongodb+srv://mcmkitchen65418:kZ8RVTpid3h52g@cluster0.gl8mr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
       - key: PORT # Imported from Heroku app
         value: 10000
       - key: REACT_APP_BASE_URL_LOCAL # Imported from Heroku app
