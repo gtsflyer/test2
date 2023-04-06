@@ -164,7 +164,9 @@ let updateSelectbox = (i, e) => {
             components={{ Option: CustomOption, MenuList: CustomMenuList }}
             placeholder={
               form.ingredientList[index].ingredient ? 
-              `${form.ingredientList[index].ingredient} in ${form.ingredientList[index].quantityType} (\$${form.ingredientList[index].price} per ${form.ingredientList[index].quantityType})`
+              allIngredients.filter(ingredientFromDB => ingredientFromDB.name === form.ingredientList[index].ingredient).map(filteredIngredient => {
+                `${filteredIngredient.name} in ${form.ingredientList[index].quantityType} (\$${filteredIngredient.price} per ${form.ingredientList[index].quantityType})`
+              })
               :
               "Select Ingredient..."}
           />
