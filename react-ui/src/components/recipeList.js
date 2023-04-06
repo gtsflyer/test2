@@ -94,12 +94,12 @@ function Recipes() {
                       })}
                     </ul>
                     Serves: {recipe.servings}<br />
-                    Recipe Cost Per Serving: {formatter.format(recipe.ingredientList.map(recipeIngredient => {
+                    Recipe Cost Per Serving: {recipe.ingredientList.map(recipeIngredient => {
                         allIngredients.filter(ingredientDetails => ingredientDetails.name === recipeIngredient.ingredient).map(filteredIngredient =>{
                           return filteredIngredient.price
                         })
                       })
-                    )};
+                    };
                   </Card.Text>
                   <div class="card-footer text-left">
                   <div class="mx-auto p-1 d-inline-block"><Button href={'/editRecipe/'+recipe._id} class="btn btn-primary">✏️ Edit {recipe.recipeName}</Button></div>
