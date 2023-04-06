@@ -4,7 +4,6 @@ import React, { useEffect, useState } from "react";
 
 function Recipes() {
   const [recipes, setRecipes] = useState([]);
-  const [allIngredients, setIngredients] = useState([]);
 
   const formatter = new Intl.NumberFormat('en-US', {
     style: 'currency',
@@ -32,50 +31,28 @@ function Recipes() {
     getRecipes();
     
     return;
-  }, [recipes.length]);
+}, [recipes.length]);
 
-  // This method fetches the records from the database.
-  useEffect(() => {
-    async function getIngredients() {
-    const response = await fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/ingredients/`);
+// This function will handle the submission.
+async function deleteRecipe(e, id) {
+  e.preventDefault();
 
-    if (!response.ok) {
-        const message = `An error occurred: ${response.statusText}`;
-        window.alert(message);
-        return;
-    }
+  const response = await fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/deleteRecipe/${id}`, {
+    method: 'DELETE', 
+    headers: {
+      'Content-Type': 'application/json'
+    },
+    body: null
+  });
 
-    const ingredientList = await response.json();
-    if (ingredientList.length <= 0) {
-    }
-    setIngredients(ingredientList);
-    }
+  if (!response.ok) {
+      const message = `An error occurred: ${response.statusText}`;
+      window.alert(message);
+      return;
+  }
 
-    getIngredients();
-
-    return;
-  }, [allIngredients.length]);
-
-  // This function will handle the submission.
-  async function deleteRecipe(e, id) {
-    e.preventDefault();
-
-    const response = await fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/deleteRecipe/${id}`, {
-      method: 'DELETE', 
-      headers: {
-        'Content-Type': 'application/json'
-      },
-      body: null
-    });
-
-    if (!response.ok) {
-        const message = `An error occurred: ${response.statusText}`;
-        window.alert(message);
-        return;
-    }
-
-    window.location.reload(true);
-  };
+  window.location.reload(true);
+};
 
   return (
     <>
@@ -94,12 +71,7 @@ function Recipes() {
                       })}
                     </ul>
                     Serves: {recipe.servings}<br />
-                    Recipe Cost Per Serving: {recipe.ingredientList.map(recipeIngredient => {
-                        allIngredients.filter(ingredientDetails => ingredientDetails.name === recipeIngredient.ingredient).map(filteredIngredient =>{
-                          return filteredIngredient.price
-                        })
-                      })
-                    };
+                    Recipe Cost Per Serving: {formatter.format(recipe.ingredientList.reduce((ingTotal,ingredient) => ingTotal = ingTotal + (ingredient.quantity * ingredient.price),0) / recipe.servings)}
                   </Card.Text>
                   <div class="card-footer text-left">
                   <div class="mx-auto p-1 d-inline-block"><Button href={'/editRecipe/'+recipe._id} class="btn btn-primary">✏️ Edit {recipe.recipeName}</Button></div>
