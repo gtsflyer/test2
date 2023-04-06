@@ -4,6 +4,7 @@ import React, { useEffect, useState } from "react";
 
 function Recipes() {
   const [recipes, setRecipes] = useState([]);
+  const [allIngredients, setIngredients] = useState([]);
 
   const formatter = new Intl.NumberFormat('en-US', {
     style: 'currency',
@@ -31,28 +32,50 @@ function Recipes() {
     getRecipes();
     
     return;
-}, [recipes.length]);
+  }, [recipes.length]);
 
-// This function will handle the submission.
-async function deleteRecipe(e, id) {
-  e.preventDefault();
+  // This method fetches the records from the database.
+  useEffect(() => {
+    async function getIngredients() {
+    const response = await fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/ingredients/`);
 
-  const response = await fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/deleteRecipe/${id}`, {
-    method: 'DELETE', 
-    headers: {
-      'Content-Type': 'application/json'
-    },
-    body: null
-  });
+    if (!response.ok) {
+        const message = `An error occurred: ${response.statusText}`;
+        window.alert(message);
+        return;
+    }
 
-  if (!response.ok) {
-      const message = `An error occurred: ${response.statusText}`;
-      window.alert(message);
-      return;
-  }
+    const ingredientList = await response.json();
+    if (ingredientList.length <= 0) {
+    }
+    setIngredients(ingredientList);
+    }
 
-  window.location.reload(true);
-};
+    getIngredients();
+
+    return;
+  }, [allIngredients.length]);
+
+  // This function will handle the submission.
+  async function deleteRecipe(e, id) {
+    e.preventDefault();
+
+    const response = await fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/deleteRecipe/${id}`, {
+      method: 'DELETE', 
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: null
+    });
+
+    if (!response.ok) {
+        const message = `An error occurred: ${response.statusText}`;
+        window.alert(message);
+        return;
+    }
+
+    window.location.reload(true);
+  };
 
   return (
     <>
@@ -71,7 +94,12 @@ async function deleteRecipe(e, id) {
                       })}
                     </ul>
                     Serves: {recipe.servings}<br />
-                    Recipe Cost Per Serving: {formatter.format(recipe.ingredientList.reduce((ingTotal,ingredient) => ingTotal = ingTotal + (ingredient.quantity * ingredient.price),0) / recipe.servings)}
+                    Recipe Cost Per Serving: {formatter.format(recipe.ingredientList.map(recipeIngredient => {
+                        allIngredients.filter(ingredientDetails => ingredientDetails.name === recipeIngredient.ingredient).map(filteredIngredient =>{
+                          return filteredIngredient.price
+                        })
+                      })
+                    )};
                   </Card.Text>
                   <div class="card-footer text-left">
                   <div class="mx-auto p-1 d-inline-block"><Button href={'/editRecipe/'+recipe._id} class="btn btn-primary">✏️ Edit {recipe.recipeName}</Button></div>

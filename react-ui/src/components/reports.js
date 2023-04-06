@@ -29,7 +29,7 @@ export default function Reports() {
     getIngredients();
 
     return;
-}, [allIngredients.length]);
+  }, [allIngredients.length]);
 
   const dollarFormatter = new Intl.NumberFormat('en-US', {
     style: 'currency',
@@ -96,19 +96,19 @@ export default function Reports() {
   // This method fetches the records from the database.
   useEffect(() => {
     async function getMenus() {
-    const response = await fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/menus/`);
+      const response = await fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/menus/`);
 
-    if (!response.ok) {
-        const message = `An error occurred: ${response.statusText}`;
-        window.alert(message);
-        return;
-    }
+      if (!response.ok) {
+          const message = `An error occurred: ${response.statusText}`;
+          window.alert(message);
+          return;
+      }
 
-    const menus = await response.json();
-    if (menus.length <= 0) {
-        //alert("No Menus Found");
-    }
-    setMenus(menus);
+      const menus = await response.json();
+      if (menus.length <= 0) {
+          //alert("No Menus Found");
+      }
+      setMenus(menus);
     }
 
     getMenus();
