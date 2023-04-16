@@ -995,6 +995,7 @@ menus.map(menu => {
     <div class="container" style={{ display: 'block', width: '100%', padding: 30, align: 'center' }}>
       <CsvDownload 
         data={allIngredients}
+        delimiter={','}
         filename={`completeInventory.csv`}
         style={{ //pass other props, like styles
           display:"inline-block",
@@ -1019,6 +1020,7 @@ menus.map(menu => {
       <br></br>
         <CsvDownload 
           data={displayedReport}
+          delimiter={','}
           filename={`campmeetingReport${Date.now()}.csv`}
           style={{ //pass other props, like styles
             display:"inline-block",
