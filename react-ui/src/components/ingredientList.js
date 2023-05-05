@@ -64,17 +64,15 @@ function Ingredients() {
       ingredientListItem.isDelivered = "No";
 
       // This will send a post request to update the data in the database.
-      // fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/updateIngredient/${params.id}`, {
-      //   method: "POST",
-      //   body: JSON.stringify(ingredientListItem),
-      //   headers: {
-      //     'Content-Type': 'application/json'
-      //   },
-      // }).catch(error => {
-      //   window.alert(error);
-      // })
-
-      alert(JSON.stringify(ingredientListItem));
+      fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/updateIngredient/${params.id}`, {
+        method: "POST",
+        body: JSON.stringify(ingredientListItem),
+        headers: {
+          'Content-Type': 'application/json'
+        },
+      }).catch(error => {
+        window.alert(error);
+      })
     })
   };
 
