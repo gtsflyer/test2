@@ -54,27 +54,27 @@ function Ingredients() {
     window.location.reload(true);
   };
 
-  async function resetAllIngredients(e){
-    e.preventDefault();
+  // async function resetAllIngredients(e){
+  //   e.preventDefault();
 
-    ingredientList.map(ingredientListItem => {
-      ingredientListItem.orderPlaced = "";
-      ingredientListItem.expectedDelivery = "";
-      ingredientListItem.inventoryOnHand = "";
-      ingredientListItem.isDelivered = "No";
+  //   ingredientList.map(ingredientListItem => {
+  //     ingredientListItem.orderPlaced = "";
+  //     ingredientListItem.expectedDelivery = "";
+  //     ingredientListItem.inventoryOnHand = "";
+  //     ingredientListItem.isDelivered = "No";
 
-      // This will send a post request to update the data in the database.
-      fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/updateIngredient/${ingredientListItem._id}`, {
-        method: "POST",
-        body: JSON.stringify(ingredientListItem),
-        headers: {
-          'Content-Type': 'application/json'
-        },
-      }).catch(error => {
-        window.alert(error);
-      })
-    })
-  };
+  //     // This will send a post request to update the data in the database.
+  //     fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/updateIngredient/${ingredientListItem._id}`, {
+  //       method: "POST",
+  //       body: JSON.stringify(ingredientListItem),
+  //       headers: {
+  //         'Content-Type': 'application/json'
+  //       },
+  //     }).catch(error => {
+  //       window.alert(error);
+  //     })
+  //   })
+  // };
 
   const ingredientSearchList = ingredientList.map(ingredientListItem => {
     return{ 
@@ -117,7 +117,7 @@ let updateSelectbox = (value) => {
           <div class="col">
             <div className="form-group">
               <Button href="/createIngredient">➕ Create a New Ingredient</Button>
-              <Button onClick={resetAllIngredients}>Reset all ingredients</Button>
+              {/* <Button onClick={resetAllIngredients}>Reset all ingredients</Button> */}
             </div>
           </div>
         </div>
