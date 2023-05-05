@@ -64,7 +64,7 @@ function Ingredients() {
       ingredientListItem.isDelivered = "No";
 
       // This will send a post request to update the data in the database.
-      fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/updateIngredient/${params.id}`, {
+      fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/updateIngredient/${ingredientList._id}`, {
         method: "POST",
         body: JSON.stringify(ingredientListItem),
         headers: {
