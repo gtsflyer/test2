@@ -54,6 +54,29 @@ function Ingredients() {
     window.location.reload(true);
   };
 
+  async function resetAllIngredients(e){
+    e.preventDefault();
+
+    ingredientList.map(ingredientListItem => {
+      ingredientListItem.orderPlaced = "";
+      ingredientListItem.expectedDelivery = "";
+      ingredientListItem.inventoryOnHand = "";
+
+      // This will send a post request to update the data in the database.
+      // fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/updateIngredient/${params.id}`, {
+      //   method: "POST",
+      //   body: JSON.stringify(ingredientListItem),
+      //   headers: {
+      //     'Content-Type': 'application/json'
+      //   },
+      // }).catch(error => {
+      //   window.alert(error);
+      // })
+
+      alert(JSON.stringify(ingredientListItem));
+    })
+  };
+
   const ingredientSearchList = ingredientList.map(ingredientListItem => {
     return{ 
         value: `${ingredientListItem._id}`,
@@ -95,6 +118,7 @@ let updateSelectbox = (value) => {
           <div class="col">
             <div className="form-group">
               <Button href="/createIngredient">➕ Create a New Ingredient</Button>
+              <Button onClick={resetAllIngredients}>Reset all ingredients</Button>
             </div>
           </div>
         </div>
