@@ -61,6 +61,7 @@ function Ingredients() {
       ingredientListItem.orderPlaced = "";
       ingredientListItem.expectedDelivery = "";
       ingredientListItem.inventoryOnHand = "";
+      ingredientListItem.isDelivered = "No";
 
       // This will send a post request to update the data in the database.
       // fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/updateIngredient/${params.id}`, {
