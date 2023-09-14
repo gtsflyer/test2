@@ -247,7 +247,7 @@ export default function CreateIngredient() {
               type="number"
               className="form-control"
               id="servings"
-              value={form.ordered2022}
+              value={form.ordered2023}
               onChange={(e) => updateForm({ ordered2023: e.target.value })}
             />
           </div>
