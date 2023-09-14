@@ -18,7 +18,10 @@ export default function CreateIngredient() {
   orderPlaced: "",
   expectedDelivery: "",
   inventoryOnHand: "",
-  isDelivered: ""
+  isDelivered: "",
+  ordered2022: "",
+  ordered2023: "",
+  ordered2024: ""
 
  });
  const navigate = useNavigate();
@@ -76,7 +79,10 @@ export default function CreateIngredient() {
       orderPlaced: "",
       expectedDelivery: "",
       inventoryOnHand: "",
-      isDelivered: ""
+      isDelivered: "",
+      ordered2022: "",
+      ordered2023: "",
+      ordered2024: ""
    });
    navigate("/");
  }
@@ -224,6 +230,36 @@ export default function CreateIngredient() {
                     components={{ Option: CustomOption, MenuList: CustomMenuList }}
                     placeholder={form.isDelivered ? form.isDelivered : "Select yes is order has been delivered..."}
                   />
+          </div>
+          <div className="form-group">
+            <label htmlFor="servings">Orderd in 2022</label>
+            <input
+              type="number"
+              className="form-control"
+              id="servings"
+              value={form.ordered2022}
+              onChange={(e) => updateForm({ ordered2022: e.target.value })}
+            />
+          </div>
+          <div className="form-group">
+            <label htmlFor="servings">Orderd in 2023</label>
+            <input
+              type="number"
+              className="form-control"
+              id="servings"
+              value={form.ordered2022}
+              onChange={(e) => updateForm({ ordered2023: e.target.value })}
+            />
+          </div>
+          <div className="form-group">
+            <label htmlFor="servings">Orderd in 2024</label>
+            <input
+              type="number"
+              className="form-control"
+              id="servings"
+              value={form.ordered2024}
+              onChange={(e) => updateForm({ ordered2024: e.target.value })}
+            />
           </div>
         </form>
       </div>

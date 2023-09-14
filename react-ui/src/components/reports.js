@@ -161,7 +161,10 @@ menus.map(menu => {
               "orderPlaced" : filteredIngredient.orderPlaced,
               "expectedDelivery" : filteredIngredient.expectedDelivery,
               "inventoryOnHand" : filteredIngredient.inventoryOnHand,
-              "isDelivered" : filteredIngredient.isDelivered
+              "isDelivered" : filteredIngredient.isDelivered,
+              "ordered2022" : filteredIngredient.ordered2022,
+              "ordered2023" : filteredIngredient.ordered2023,
+              "ordered2024" : filteredIngredient.ordered2024
             };
             orderReport = orderReport.concat([reportEntry]);
           });
@@ -187,7 +190,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       allOrders.push(res[value.name])
     }
@@ -213,7 +219,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       breakfastOrders.push(res[value.name])
     }
@@ -239,7 +248,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       lunchOrders.push(res[value.name])
     }
@@ -265,7 +277,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       dinnerOrders.push(res[value.name])
     }
@@ -291,7 +306,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       tuesdayOrders.push(res[value.name])
     }
@@ -317,7 +335,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       wednesdayOrders.push(res[value.name])
     }
@@ -343,7 +364,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       thursdayOrders.push(res[value.name])
     }
@@ -369,7 +393,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       fridayOrders.push(res[value.name])
     }
@@ -395,7 +422,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       saturdayOrders.push(res[value.name])
     }
@@ -421,7 +451,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       sundayOrders.push(res[value.name])
     }
@@ -447,7 +480,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       usFoodsOrders.push(res[value.name])
     }
@@ -473,7 +509,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       schencksOrders.push(res[value.name])
     }
@@ -499,7 +538,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       groceryOrders.push(res[value.name])
     }
@@ -525,7 +567,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       shelfStableOrders.push(res[value.name])
     }
@@ -551,7 +596,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       refrigeratedOrders.push(res[value.name])
     }
@@ -577,7 +625,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       frozenOrders.push(res[value.name])
     }
@@ -603,7 +654,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       tuesDinnerOrders.push(res[value.name])
     }
@@ -629,7 +683,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       wedBreakfastOrders.push(res[value.name])
     }
@@ -654,7 +711,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       wedLunchOrders.push(res[value.name])
     }
@@ -679,7 +739,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       wedDinnerOrders.push(res[value.name])
     }
@@ -705,7 +768,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       thursBreakfastOrders.push(res[value.name])
     }
@@ -730,7 +796,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       thursLunchOrders.push(res[value.name])
     }
@@ -755,7 +824,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       thursDinnerOrders.push(res[value.name])
     }
@@ -781,7 +853,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       friBreakfastOrders.push(res[value.name])
     }
@@ -806,7 +881,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       friLunchOrders.push(res[value.name])
     }
@@ -831,7 +909,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       friDinnerOrders.push(res[value.name])
     }
@@ -857,7 +938,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       satBreakfastOrders.push(res[value.name])
     }
@@ -882,7 +966,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       satLunchOrders.push(res[value.name])
     }
@@ -907,7 +994,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       satDinnerOrders.push(res[value.name])
     }
@@ -933,7 +1023,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       sunBreakfastOrders.push(res[value.name])
     }
@@ -958,7 +1051,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       sunLunchOrders.push(res[value.name])
     }
@@ -983,7 +1079,10 @@ menus.map(menu => {
         orderPlaced: value.orderPlaced,
         expectedDelivery: value.expectedDelivery,
         inventoryOnHand: value.inventoryOnHand,
-        isDelivered: value.isDelivered
+        isDelivered: value.isDelivered,
+        ordered2022: value.ordered2022,
+        ordered2023: value.ordered2023,
+        ordered2024: value.ordered2024
       };
       sunDinnerOrders.push(res[value.name])
     }
