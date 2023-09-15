@@ -77,6 +77,7 @@ function Recipes() {
         window.alert(error);
       })
 
+      window.location.reload(true);
       // alert(JSON.stringify(recipe))
     })
   };
@@ -136,6 +137,7 @@ function Recipes() {
         <div class="row">
           <div class="col">
             <Button href="/createRecipe">➕ Add a new Recipe</Button>
+            <br></br><br></br>
             <Button onClick={updateAllPrices}>Update all prices</Button>
           </div>
         </div>
