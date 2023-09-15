@@ -67,17 +67,17 @@ function Recipes() {
       })
 
       // This will send a post request to update the data in the database.
-      // fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/updateRecipe/${recipe._id}`, {
-      //   method: "POST",
-      //   body: JSON.stringify(recipe),
-      //   headers: {
-      //     'Content-Type': 'application/json'
-      //   },
-      // }).catch(error => {
-      //   window.alert(error);
-      // })
+      fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/updateRecipe/${recipe._id}`, {
+        method: "POST",
+        body: JSON.stringify(recipe),
+        headers: {
+          'Content-Type': 'application/json'
+        },
+      }).catch(error => {
+        window.alert(error);
+      })
 
-      alert(JSON.stringify(recipe))
+      // alert(JSON.stringify(recipe))
     })
   };
 
