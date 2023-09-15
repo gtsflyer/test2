@@ -4,6 +4,7 @@ import React, { useEffect, useState } from "react";
 
 function Recipes() {
   const [recipes, setRecipes] = useState([]);
+  const [allIngredients, setIngredients] = useState([]);
 
   const formatter = new Intl.NumberFormat('en-US', {
     style: 'currency',
@@ -31,28 +32,75 @@ function Recipes() {
     getRecipes();
     
     return;
-}, [recipes.length]);
+  }, [recipes.length]);
 
-// This function will handle the submission.
-async function deleteRecipe(e, id) {
-  e.preventDefault();
+  // This method fetches the records from the database.
+  useEffect(() => {
+    async function getIngredients() {
+    const response = await fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/ingredients/`);
 
-  const response = await fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/deleteRecipe/${id}`, {
-    method: 'DELETE', 
-    headers: {
-      'Content-Type': 'application/json'
-    },
-    body: null
-  });
+    if (!response.ok) {
+        const message = `An error occurred: ${response.statusText}`;
+        window.alert(message);
+        return;
+    }
 
-  if (!response.ok) {
-      const message = `An error occurred: ${response.statusText}`;
-      window.alert(message);
-      return;
-  }
+    const ingredientList = await response.json();
+    if (ingredientList.length <= 0) {
+    }
+    setIngredients(ingredientList);
+    }
 
-  window.location.reload(true);
-};
+    getIngredients();
+
+    return;
+  }, [allIngredients.length]);
+
+  async function updateAllPrices(e){
+    e.preventDefault();
+
+    recipes.map(recipe => {
+      recipe.ingredientList.map(recipeIngredient => {
+        allIngredients.filter(ingredientDetails => ingredientDetails.name === recipeIngredient.ingredient).map(filteredIngredient => {
+          recipeIngredient.price = filteredIngredient.price;
+        })
+      })
+
+      // This will send a post request to update the data in the database.
+      // fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/updateRecipe/${recipe._id}`, {
+      //   method: "POST",
+      //   body: JSON.stringify(recipe),
+      //   headers: {
+      //     'Content-Type': 'application/json'
+      //   },
+      // }).catch(error => {
+      //   window.alert(error);
+      // })
+
+      alert(JSON.stringify(recipe))
+    })
+  };
+
+  // This function will handle the submission.
+  async function deleteRecipe(e, id) {
+    e.preventDefault();
+
+    const response = await fetch(`${process.env.REACT_APP_BASE_URL_LOCAL}/deleteRecipe/${id}`, {
+      method: 'DELETE', 
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: null
+    });
+
+    if (!response.ok) {
+        const message = `An error occurred: ${response.statusText}`;
+        window.alert(message);
+        return;
+    }
+
+    window.location.reload(true);
+  };
 
   return (
     <>
@@ -88,6 +136,7 @@ async function deleteRecipe(e, id) {
         <div class="row">
           <div class="col">
             <Button href="/createRecipe">➕ Add a new Recipe</Button>
+            <Button onClick={updateAllPrices}>Update all prices</Button>
           </div>
         </div>
       </div>
